@@ -1,0 +1,85 @@
+# Literature Review
+
+## Part I --- Rap Music
+
+### Criticisms
+
+* If your girl only knew: Effects of infidelity themed lyrics on cognitions related to infidelity. Alexopoulos, Cassandra; Taylor, Laramie [@alex21]
+
+> The primary objective of the current research was to test whether positive or negative portrayals of infidelity in music influence intentions to commit infidelity. This study also examined how romantic attachment orientation influences the way that people interpret media messages featuring infidelity. Because men and women differ in the ways that they cognize cheating behaviors, we also pay special attention to participants’ sex.
+
+* Violent Attitudes: Jackson, Lee Anderson and Gatto, Leslie 1995 [@john95]a
+
+> Results indicated, first, that when compared to subjects in the nonviolent exposure and control conditions, subjects in the violent exposure conditions expressed greater acceptance of the use of violence. Second, when compared to subjects in the control condition, subjects in the violent condition reported a higher probability that they would engage in violence. Third, when compared to the controls, subjects in the violent exposure condition expressed greater acceptance of the use of violence toward the woman. Finally, when compared to the controls, subjects in the rap video exposure conditions were more likely to say that they wanted to be like the materialistic young man and were less confident that the other young man would achieve his educational goals.
+
+* Exposure to Violent Media: Anderson, Craig A.; Carnagey, Nicholas L.; Eubanks, Janie 2003 [@ande03]
+
+> Five experiments examined effects of songs with violent lyrics on aggressive thoughts and hostile feelings. Experiments 1, 3, 4 and 5 demonstrated that college students who heard a violent song felt more hostile than those who heard a similar but nonviolent song. Experiments 2–5 demonstrated a similar increase in aggressive thoughts. These effects replicated across songs and song types (e.g., rock, humorous, nonhumorous). Experiments 3–5 also demonstrated that trait hostility was positively related to state hostility but did not moderate the song lyric effects. Discussion centers on the potential role of lyric content on aggression in short-term settings, relation to catharsis and other media violence domains, development of aggressive personality, differences between long-term and short-term effects, and possible mitigating factors.
+
+* Does Exposure to Sexual Hip-Hop Music Videos Influence the Sexual Attitudes of College Students?: Kistler, Michelle E; Lee, Moon 2010 [@kist10c]
+
+> This study investigated short-term effects of exposure to hip-hop music videos with varying degrees of sexual imagery on viewers’ acceptance of the objectification of women, sexual permissiveness, gender attitudes, and rape myth acceptance. Using a posttest-only group experimental design, college undergraduates (N ¼ 195) viewed a set of 5 hip-hop music videos of either high or low sexual content. Male participants who were exposed to hip-hop music videos of highly sexual content expressed greater objectification of women, sexual permissiveness, stereotypical gender attitudes, and acceptance of rape at posttest than male participants in the low sex condition. Results for female participants were mixed. In addition, hip-hop fandom played a significant role in participants’ objectification of women and sexual permissiveness. Implications are discussed within the frameworks of vicarious learning through the media and parasocial interaction with media figures.
+
+* Check That Body!: Aubrey, Jennifer Stevens; Hopper, K. Megan; Mbure, Manjiru G. 2011 [@aubr11]
+
+> The present study examined the effects of sexual objectification of female artists in music videos on male undergraduates’ sexual beliefs. Findings showed that participants who viewed music videos of highly objectified female artists reported more adversarial sexual beliefs, more acceptance of interpersonal violence, and, at a level of marginal significance, more negative attitudes about sexual harassment than participants assigned to low-sexual objectifying music videos by the same female artists. Path models indicated that adversarial sexual beliefs mediated the relationship between condition, and (1) acceptance of interpersonal violence and (2) negative attitudes regarding sexual harassment.
+
+* Rap Music and Its Violent Progeny: Richardson, Jeanita W.; Scott, Kim A. 2002 [@rich02]
+
+### Neutral(?)
+
+* Easy Listening?: Alexopoulos, Cassandra; Taylor, Laramie [@alex20]
+
+> To explore these portrayals, we conducted a content analysis of the 1,500 most popular pop, hip-hop, and country songs in the United States over a 25-year period examining the frequency and nature of infidelity in music. Findings revealed that infidelity was discussed in approximately 15% of popular music, and was most frequently discussed in hip-hop songs. Both negative and positive consequences to infidelity were depicted, and were most often accompanied by a nonchalant emotional tone. Gender portrayals of song characters were consistent with previous research. Implications for young listeners in the context of social relationships are discussed.
+
+### Defenses
+
+* Rap Music and Its Violent Progeny: Richardson, Jeanita W.; Scott, Kim A. [@rich02]
+
+> Instead, this article considers rapmusic as a creative expression and metaphorical offspring of America's well-established culture of violence.
+
+* Rap Remix: Shusterman, Richard [@shus95a]
+
+> Quite apart from the identity politics of who can speak about rap, there is the fear that treating rap as art is somehow to trivialize it and distract from its real sociopolitical importance. Such reasons conspire to rob the genre of the close critical attention it deserves as art.
+
+> Opposing the dominant Kantian aesthetic of pure disinterestedness and distance, pragmatism recognizes that practical and cognitive interest enhances rather than violates aesthetic experience, which is far from purposeless. [153]
+
+> In opposing modernity's division of cultural spheres that sequesters aesthetics from the praxis of life, pragmatism meets postmodernism. In using this second concept to elucidate rap's aesthetic (as others also do),5 I recognize its vague, contested nature and try to explain its meaning for rap in terms of the following features: transfigurative appropriation of older materials, eclectic mixing, an embracing of new media technology and mass culture, an emphasis on the local and temporal rather than the universal and eternal, and a challenging of modernity's notions of aesthetic autonomy and artistic purity.
+
+* Rap as Art and Philosophy: Shusterman, Richard 2007 [@shus07]
+
+> Identifying itself with philosophy, this genre is self-consciously devoted to the integration of art with the pursuit of knowledge in the aim of ethical growth and sociopolitical emancipation. [422]
+
+> More than a means of livelihood, rap recommends itself as a complete art of living, a comprehensive way of life designated more globally by the term "hip hop culture" and including not only rap music but break-dancing, graffiti, and a distinctive style of dress, speech, gesture, etc.
+
+## Part II --- Personal Identity
+
+* Parfit 1984 - psychological continuity
+* Velleman 2003
+* Carroll 2007
+* Currie 2010
+* Schechtman 1996, p. 96 - broader context of the story
+* Dennett 1992; MacIntyre 2007; Rudd 2007 - Personal Identity
+
+## Narrative and Personal Identity
+
+### Personal Identity
+
+* Harry Frankfurt 1971 - "I want to be me"
+* The Faintest Passion: Frankfurt, Harry [@fran92]
+
+> Surely the very faintest human passion---both the least salient and the least robust---is our love of the truth about ourselves. [5]
+
+> Hierarchical accounts of the identity of the self do not presume, however, that a person's identification with some desire consists simply in the fact that he *has* a higher-order desire by which the first desire is endorsed. The endorsing higher-order desire must be, in addition, a desire with which the person is *satisfied*. And since (as I tried to explain earlier) satisfcation with one psychic element does not require satisfaction with any other, being satisfied with a certain desire does not entail an endless proliferation of higher orders and desires. Identification is constituted neatly by an endorsing higher-order desire with which the person is satisfied. It is possible, or course, for someone to be satisfied with his first-order desires without in any way considering whether to endorse them. In that case, he is identified with those first-order desires. But insofar as his desires are utterly unreflective, he is to that extent not genuinely a person at all. He is merely a wanton.
+
+> What we care about should be , to the greatest extent possible, something we are able to care about wholeheartedly. [15]
+
+* Identification and Identity: Velleman, J. David [@vell02a]
+
+> Which things we care about is important, according to Frankfurt, because our cares and concerns define our individual essences as persons: what we care about determines who we are. I don't believe that we have motivational essences of this sort, though I agree that we sometimes seem to have them. I want to look for the source of this misleading appearance. [331]
+
+> Thus, Frankfurt conceives of the self as an inner core or kernel comprising that *in* the person which really *is* the person and whose impact on the world is therefore his. The self so concerived underlies not just autonomy but personal identity as well. It is not just that part of a person whose participation in causing behavior is necessary and sufficient for his participating; it's that part of a person whose existence is necessary and sufficient for his existing. Indeed, it is the former precisely because it is the latter---the source of the person's autonomy because it is the basis of his identity, causing what he can be said to cause by virtue of being what he is.
+
+But why is the appearance misleading?
+
+> In my view, "self" is just a word used to express reflexivity---that is, the conincidence of object and subject, 3either of a verb or of the activity that it represents. . . . Although "self" expresses reflexivity in each of these contexts, there is no single entity to which it refers in all of the them.
