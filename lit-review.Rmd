@@ -61,6 +61,12 @@
 * Schechtman 1996, p. 96 - broader context of the story
 * Dennett 1992; MacIntyre 2007; Rudd 2007 - Personal Identity
 
+### Christine Korsgaard
+
+#### Personal Identity and the Unity of Agency
+
+According to Parfit's view of identity, an object is identical with another object just in case a continuous and unbroken line can be drawn in space, at every point in which there is an object. An artist who turns a self-portrait into a painting of their father, has broken the line, they have destroyed one painting and created another. But as Christine Korsgaard points out, this account does not solve every problem related to identity. For one, it is unclear whether the self-portrait and the painting of the father are identical. Does the line break at some point, or does it remain continuous? According to the narrative response to this sort of reductionism, although there are many more questions which the narrative account of identity raises, one point of agreement is that its contribution to the identity problem. The narrative account is able to unite motives, actions and circumstances. The most prominent source of agreement in this regard, is that the meanings of each event in a narrative, derive its meaning from the overall broader context of the story.
+
 ## Narrative and Personal Identity
 
 ### Personal Identity
@@ -82,4 +88,13 @@
 
 But why is the appearance misleading?
 
-> In my view, "self" is just a word used to express reflexivity---that is, the conincidence of object and subject, 3either of a verb or of the activity that it represents. . . . Although "self" expresses reflexivity in each of these contexts, there is no single entity to which it refers in all of the them.
+> In my view, "self" is just a word used to express reflexivity---that is, the coincidence of object and subject, either of a verb or of the activity that it represents. . . . Although "self" expresses reflexivity in each of these contexts, there is no single entity to which it refers in all of the them.
+
+* Michael Bratman argues that we do not only reflect, for instance on our motivations, but we also plan.
+  * Weak reflectivity: endorse or reject a first-order desire.
+  * Strong reflectivity: determine where one stands with respect to a first-order desire
+* How do we explain strong reflectivity? Planning Agency
+  * we commit to plans of action
+  * enables us to see ourselves as extending over time
+  * see our psychological states as extensive
+  * we can appeal to attitudes of this psychological states (weak reflectivity)
