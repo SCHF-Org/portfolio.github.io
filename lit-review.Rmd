@@ -82,4 +82,13 @@
 
 But why is the appearance misleading?
 
-> In my view, "self" is just a word used to express reflexivity---that is, the conincidence of object and subject, 3either of a verb or of the activity that it represents. . . . Although "self" expresses reflexivity in each of these contexts, there is no single entity to which it refers in all of the them.
+> In my view, "self" is just a word used to express reflexivity---that is, the coincidence of object and subject, either of a verb or of the activity that it represents. . . . Although "self" expresses reflexivity in each of these contexts, there is no single entity to which it refers in all of the them.
+
+* Michael Bratman argues that we do not only reflect, for instance on our motivations, but we also plan.
+  * Weak reflectivity: endorse or reject a first-order desire.
+  * Strong reflectivity: determine where one stands with respect to a first-order desire
+* How do we explain strong reflectivity? Planning Agency
+  * we commit to plans of action
+  * enables us to see ourselves as extending over time
+  * see our psychological states as extensive
+  * we can appeal to attitudes of this psychological states (weak reflectivity)
