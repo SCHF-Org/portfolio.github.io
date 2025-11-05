@@ -7,7 +7,7 @@ author:
   affiliation: Stetson University
 # bibliography: "`r paste0(Sys.getenv('HOME'),'/Dropbox/master.bib')`" # This would be more general
 bibliography: /home/redapemusic35/data_storage/Un-Duplicates.bib
-abstract: "With respect to personal identity, both Roman Altshuler and Christine Korsgaard argue we are defined by the stories we accept about ourselves. On Korsgaard’s account, we select various events from our past and weave it into our own constructed narratives, Robust Representation. For Altshuler, this account neglects the affect that some events have in the construction of our self-constitutions. I argue that if this is what narrative in the psychological sense is, then we ought to recognize them as a ubiquitous artifact in much of what we recognize as modern and popular artworks, what I call Generic Representation. Given current popular conversations regarding black representation in country music, perhaps now is a good time to talk about the importance of representation in popular music more generally. For instance, emerging work on country music standardly criticize a lack of ethnic diversity in country music. In effect, this lack of ethnic diversity erase the cultural contributions of racial and ethnic minority communities. I first make a distinction between generic and robust ethnic representation and show that generic representation is maximally corrosive to ethnic identity while robust ethnic representation is maximally formative. So while one may argue that any representation is better than none, I argue that this view ignores the complexity of representation and identity. Therefore I then develop an account of Robust representation grounded in feelings of regret. In a world that determines to undermine seeks to undermine human personhood, narratives about our relationships with others and God can help us to preserve more general accounts of personhood. As such, we should adopt Robust Representation and reject Generic Representation."
+abstract: "With respect to personal identity, both Roman Altshuler and Christine Korsgaard argue we are defined by the stories we accept about ourselves. If their account is what narrative in the psychological sense is, then we ought to recognize them as a ubiquitous artifact in much of what we recognize as modern and popular artworks, what I call Generic Representation. Following Paul Goldie, my account of Robust representation on the other hand, is grounded in feelings of regret. Narratives about our relationships with others and God as seen through experiences of regret, can help us to preserve an authentic account of personhood."
 keywords: "Care Ethics, Aesthetics"
 geometry: margin=1in
 #mainfont: cochineal
@@ -47,7 +47,17 @@ knitr::opts_chunk$set(fig.width=2, fig.height=2)
 
 ```
 
-# Personhood and Identity
+# Introduction
+
+With respect to personal identity, both Roman Altshuler and Christine Korsgaard argue we are defined by the stories we accept about ourselves. On Korsgaard’s account, we select various events from our past and weave it into our own constructed narratives.
+
+For Altshuler, this account neglects the affect that some events have on the construction of our past selves because it neglects those experiences we have but do not consciously weave into our narratives. Altshuler suggests several ways in which we might include these experiences into our self-constitution. I focus on one of these, those experiences we have that lead to regret. I argue that if this is what narrative in the psychological sense is, then we ought to recognize them as a ubiquitous artifact in much of what we recognize as modern and popular artworks, what I call Generic Representation.
+
+Given current popular conversations regarding black representation in country music, perhaps now is a good time to talk about the importance of representation in popular music more generally. For instance, emerging work on country music standardly criticize a lack of ethnic diversity in country music. In effect, this lack of ethnic diversity erase the cultural contributions of racial and ethnic minority communities.
+
+I first make a distinction between generic and robust ethnic representation and show that generic representation is maximally corrosive to personal identity while robust representation is formative. So while one may argue that any representation is better than none, I argue that this view ignores the complexity of representation and identity. My account of Robust representation is one that is grounded in feelings of regret.
+
+# Robust vs. Generic Expressions of Regret
 
 Many popular songs are saturated in the emotion of regret.
 

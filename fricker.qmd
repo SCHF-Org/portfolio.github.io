@@ -1,23 +1,62 @@
 # Epistemic Injustice
 
-* Explores the idea that there is a "distinctive (moral, narrative) epistemic (narrative) kind of injustice.
+There exists a "distinctive (moral, narrative) epistemic (narrative) kind of injustice. But what is the difference between harm done to someone's capacity as a knower vs. there capacity as a 'moral' knower?
 
-## Introduction
+* Where 'moral' implies 'moral' information, or 'moral' education? I want to argue the harm is such that the victim is prevented from recognizing her own moral agency.
 
-* Explores the idea that there is a "distinctive (moral, narrative) epistemic (narrative) kind of injustice.
+* Therefore the harm done is to the agent's ability to morally know herself.
 
-* What if this regards "moral" information, or "moral" education?
+* But what is the difference between harm done in regard to someone's capacity as a knower vs. their capacity as a 'moral' knower?
 
-* Harm done as the agent's capacity as a [moral] knower. But what is the different between harm done in regard to someone's capacity as a knower vs. that as a 'moral' knower?
+Parcel to the victim's capacity as a moral knower, is the victim's capacity as a person where personhood denotes more specifically, their moral agency.
 
 ### Testimonial Injustice
 
-Occurs when "prejudice causes a hearer to give a deflated level of credibility to a speaker's word."
+Fricker argues that testimonial harm occurs when "prejudice causes a hearer to give a deflated level of credibility to a speaker's word."
 
 * This will likely not work for this project. The harm done is meant to be specific to crediting moral agency, i.e. personhood.
 
-### Hermeneutical Injustice
+### Hermeneutic Injustice
 
-> is caused by structural prejudice in the economy of collective hermeneutical resources. [1]
+Let's consider hermeneutic injustice.
 
-On the hermeneutical account, what is important is "making sense of our own social experiences" [1].
+> is caused by structural prejudice in the economy of collective hermeneutic resources. [1]
+
+Hermeneutic harm occurs when the victim suffers because they do not have the conceptual resources to make sense of their own experiences.
+
+But here there are two possible concerns:
+
+1. The victim cannot make sense, for herself, of her own moral experiences.
+2. The victim cannot make sense, for others, of her own moral experiences.
+
+From these are derived two more:
+
+3. The victim cannot express her moral values in a way that is interpretable
+   1. Either to herself
+   2. Or to others
+
+As an example of the first possible concern, a person is victimized by an agent who holds a degree of power over her when she cannot understand that she is a victim.
+
+We can imagine a patriotic member of society who throughout the course of their life, has been led to believe that it is their duty and obligation to assist law enforcement whenever possible. This individual is pulled over by a police officer whom it just so happens is facing an impending divorce. The officer, citing personal safety, requests the victim exit the vehicle in order to allow a search of their property. The victim willingly complies.
+
+Therefore, the victim is a victim just because they are prevented from doing what they intended to do, assist law enforcement whenever possible. However, here they are not assisting law enforcement, rather they are being victimized by a disgruntled police officer facing an impending divorce.
+
+Here, the harm is ambiguous. Either it is the case that in the event that this person does not recognize their own victimization, and believes themselves to be fulfilling their duty or are being prevented on account of their victimization from fulfilling their duty. Another question stemming from this is whether this person is in a position to defend their lack of protest.
+
+We can imagine a situation wherein she is able to defend her decision not to protest. In such a case, is she or is she not a victim? Derivative of this then, is the fact that she cannot express her moral values in a way that is interpretable to herself, or to others. If they are, why? Which structures, social or otherwise are responsible for this specific ability or inability?
+
+# Testimonial Injustice
+
+## Power
+
+Active and Passive powers
+
+1. Power that is realized in action
+2. Power that is being realized even when it is not being realized in action
+
+Social vs. structural powers
+
+1. Social power is power exercised (actively or passively) by one or more social agents.
+2. But social power depends on practical coordination among social agents in a net-like organization. In such a case then, it is power that is never in one person's hands alone.
+
+## Identity Power
