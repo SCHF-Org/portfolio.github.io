@@ -7,7 +7,7 @@ author:
   affiliation: Stetson University
 # bibliography: "`r paste0(Sys.getenv('HOME'),'/Dropbox/master.bib')`" # This would be more general
 bibliography: /home/redapemusic35/data_storage/Un-Duplicates.bib
-abstract: "With respect to personal identity, both Roman Altshuler and Christine Korsgaard argue we are defined by the stories we accept about ourselves. If their account is what narrative in the psychological sense is, then we ought to recognize them as a ubiquitous artifact in much of what we recognize as modern and popular artworks, what I call Generic Representation. Following Paul Goldie, my account of Robust representation on the other hand, is grounded in feelings of regret. Narratives about our relationships with others and God as seen through experiences of regret, can help us to preserve an authentic account of personhood."
+abstract: "Here, I develop an account divinely inspired reflections of agency. Famously, Miranda Fricker develops an account of epistemic injustice that involves both testimony and hermeneutics. I highlight a less discussed form of hermeneutic epistemic injustice by noting a key difference in how regret is expressed in some popular songs. But what I am concerned with has to do with a specific kind of harm done to someone's capacity not as a knower, but their capacity as a 'moral' knower where 'moral' knower has to do with moral virtues and values that are attributed, or are not, to the victim."
 keywords: "Care Ethics, Aesthetics"
 geometry: margin=1in
 #mainfont: cochineal
@@ -49,19 +49,17 @@ knitr::opts_chunk$set(fig.width=2, fig.height=2)
 
 # Introduction
 
-With respect to personal identity, both Roman Altshuler and Christine Korsgaard argue we are defined by the stories we accept about ourselves. On Korsgaard’s account, we select various events from our past and weave it into our own constructed narratives.
+With respect to personal identity, both Roman Altshuler and Christine Korsgaard argue we are defined by the stories we accept about ourselves. On Korsgaard’s account, we select various events from our past and weave it into our own constructed narratives. For Altshuler, this account neglects those experiences we have but do not consciously weave into our own narratives. There are several ways in which we might include these experiences into our self-constitution.
 
-For Altshuler, this account neglects the affect that some events have on the construction of our past selves because it neglects those experiences we have but do not consciously weave into our narratives. Altshuler suggests several ways in which we might include these experiences into our self-constitution. I focus on one of these, those experiences we have that lead to regret. I argue that if this is what narrative in the psychological sense is, then we ought to recognize them as a ubiquitous artifact in much of what we recognize as modern and popular artworks, what I call Generic Representation.
+I focus one account provided by Altshuler, those experiences we have which lead to regret. If these represent the right account of narrative, then narratives are more familiar to us as modern and popular artworks. Given current popular conversations regarding black representation in country music, perhaps now is a good time to talk about the importance of representation in popular music more generally.
 
-Given current popular conversations regarding black representation in country music, perhaps now is a good time to talk about the importance of representation in popular music more generally. For instance, emerging work on country music standardly criticize a lack of ethnic diversity in country music. In effect, this lack of ethnic diversity erase the cultural contributions of racial and ethnic minority communities.
-
-I first make a distinction between generic and robust ethnic representation and show that generic representation is maximally corrosive to personal identity while robust representation is formative. So while one may argue that any representation is better than none, I argue that this view ignores the complexity of representation and identity. My account of Robust representation is one that is grounded in feelings of regret.
+I first make a distinction between generic and robust representation.
 
 # Robust vs. Generic Expressions of Regret
 
-Many popular songs are saturated in the emotion of regret.
+Many popular songs are saturated in the emotion of regret. In such contexts, the narrative expresses a negative emotion in response to something narrator did, or that was done to them.
 
-*The Grand Tour*
+In *The Grand Tour*, the narrator expresses regret at having lost a significant other.
 
 > As you leave you'll see the nursery
 
@@ -71,9 +69,7 @@ Many popular songs are saturated in the emotion of regret.
 
 > Our baby and my heart
 
-and
-
-*He Stopped Loving Her Today*
+In the song *He Stopped Loving Her Today*, the narrator witnesses someone who also expresses regret at a significant other severing their ties to them.
 
 > He kept her picture on his wall
 
@@ -93,7 +89,7 @@ The above are emblematic country songs in that regret is commonly expressed in c
 
 > Didn't think I'd turn around and say
 
-Love songs often express regret when a relationship ends. In the song *The Grand Tour*, the audience is being asked to imagine an offer to tour a large home "step right up, come on in". It is eventually made clear that while there are evidences as to whether the home is lived in, and by whom, these items are no longer in daily use "where she used to . . .". While the artifacts themselves speak to the fact that they were once shared by people who expressed positive sentiments towards one another, their current state suggests that they are no longer used this way ". . . this old house will never be the same . . .". In *The Grand Tour*, there is existing controversy over whether the end of the relationship is caused by the narrator, or the person no longer there. In the podcast *Cocaine and Rhinestones: The history of country music*, Tyler Mahan Coe suggests that the change in the state of the lives of the individuals involved in the story, is the result of a tragic mishap "There's her rings, all her things, and her clothes are in the closet" and "as you leave you'll see the nursery, . . . taking nothing but the baby and my heart".
+Love songs often express regret when a relationship ends. In the song *The Grand Tour*, our attention is drawn to the daily use of items "where she used to . . ." speak to the fact that they were once shared by people who expressed positive sentiments toward one another. Their current state however suggests that they are no longer used this way ". . . this old house will never be the same . . .". In *The Grand Tour*, there is existing controversy over whether the end of the relationship is caused by the narrator, or the person no longer there. In the podcast *Cocaine and Rhinestones: The history of country music*, Tyler Mahan Coe suggests that the change in the state of the lives of the individuals involved in the story, is the result of a tragic mishap "There's her rings, all her things, and her clothes are in the closet" and "as you leave you'll see the nursery, . . . taking nothing but the baby and my heart".
 
 While the events in *The Grand Tour* may not have been caused by the involvement from any agent, regret more often is tied to the involvement of some agent. In other words, the regret in *The Grand Tour* is likely caused by an event, whereas in other songs, it is likely caused by an action. In Jones' other song *He Stopped Loving Her Today*, the regret is more definitively caused by an action. "He said I'll love you 'till I die, She told him 'you'll forget in time'".
 

@@ -1,14 +1,12 @@
 # Epistemic Injustice
 
-There exists a "distinctive (moral, narrative) epistemic (narrative) kind of injustice. But what is the difference between harm done to someone's capacity as a knower vs. there capacity as a 'moral' knower?
+Famously, Miranda Fricker develops an account of epistemic injustice that involves both testimony and hermeneutics. But what I am concerned with has to do with a specific kind of harm done to someone's capacity not as a knower, but their capacity as a 'moral' knower where 'moral' knower has to do with virtues and values that are attributed, or are not attributed to the victim. I argue that this epistemic injustice centers around how this person is represented in a given social environment.
 
-* Where 'moral' implies 'moral' information, or 'moral' education? I want to argue the harm is such that the victim is prevented from recognizing her own moral agency.
+Here 'moral' implies 'moral' information, or 'moral' education, for instance values that would have been instilled in the victim. Such a harm I argue is two fold, on the one hand, the victim is prevented from recognizing her own moral agency. On the other, other are prevented from recognizing the victim's moral agency.
 
 * Therefore the harm done is to the agent's ability to morally know herself.
 
-* But what is the difference between harm done in regard to someone's capacity as a knower vs. their capacity as a 'moral' knower?
-
-Parcel to the victim's capacity as a moral knower, is the victim's capacity as a person where personhood denotes more specifically, their moral agency.
+But what is the difference between harm done in regard to someone's capacity as a knower vs. their capacity as a 'moral' knower? Related to the victim's capacity as a moral knower, is the victim's capacity *as a person*, where personhood denotes more specifically, their moral agency, held values, and the like.
 
 ### Testimonial Injustice
 
@@ -39,11 +37,13 @@ As an example of the first possible concern, a person is victimized by an agent 
 
 We can imagine a patriotic member of society who throughout the course of their life, has been led to believe that it is their duty and obligation to assist law enforcement whenever possible. This individual is pulled over by a police officer whom it just so happens is facing an impending divorce. The officer, citing personal safety, requests the victim exit the vehicle in order to allow a search of their property. The victim willingly complies.
 
-Therefore, the victim is a victim just because they are prevented from doing what they intended to do, assist law enforcement whenever possible. However, here they are not assisting law enforcement, rather they are being victimized by a disgruntled police officer facing an impending divorce.
+Or we can also imagine a patriotic member of society who throughout the course of their life, has been led to believe that it is their duty and obligation to assist law enforcement in carrying out their duties whenever possible. One day they are walking to work when they notice a police officer chasing a suspect. The suspect runs past the victim, and when they do so, the suspect trips the victim. Here the victim is prevented from assisting law enforcement in carrying out their duties. This is because little do they know, the police officer chasing the suspect is actually working as an enforcer for the mob. The suspect is actually a whistleblower trying to escape the clutches of the mob.
 
-Here, the harm is ambiguous. Either it is the case that in the event that this person does not recognize their own victimization, and believes themselves to be fulfilling their duty or are being prevented on account of their victimization from fulfilling their duty. Another question stemming from this is whether this person is in a position to defend their lack of protest.
+Therefore, the victim is a victim just because they are prevented from doing what they intended to do, assist law enforcement in carrying out their duties. Here they are not assisting law enforcement, rather they are being victimized by a disgruntled police officer facing an impending divorce, or the mob in silencing a whistleblower.
 
-We can imagine a situation wherein she is able to defend her decision not to protest. In such a case, is she or is she not a victim? Derivative of this then, is the fact that she cannot express her moral values in a way that is interpretable to herself, or to others. If they are, why? Which structures, social or otherwise are responsible for this specific ability or inability?
+Here, the harm is ambiguous. Either it is the case that in the event that this person does not recognize their own victimization, and believes themselves to be fulfilling their duty or are being prevented from fulfilling their duty without realizing it. Another question stemming from this is whether this person is in a position to defend their lack of protest.
+
+We can imagine a situation wherein she is able to defend her decision not to protest, she might say "I am not a victim because it is the thought that counts". In such a case, is she or is she not a victim? Derivative of this then, is the fact that she cannot express her moral values in a way that is interpretable to herself, or to others. For instance, the next day she recounts her story to a friend who convinces her of her victimhood. If they do convince her, is it from a position of power? Which structures, social or otherwise are responsible for this specific ability or inability?
 
 # Testimonial Injustice
 
@@ -63,9 +63,9 @@ Social vs. structural powers
 
 Central to social power is identity power since social power is dependent on the kinds of social exchanges that are possible between agents.
 
-At the center of this are testimonial exchanges which rely on identity powers.
+At the center of this are testimonial exchanges which rely on "shared imaginative conceptions of social identity:" identity powers.
 
-Faulty judgments of a speaker will hinder these kinds of exchanges.
+Faulty judgments of a speaker will hinder these kinds of exchanges. We can apply this to the case of the victim. The victim is not able to defend her belief that she is not a victim because her judgment of her friend as speaker hinders her ability to explain herself. Additionally, her friend's faulty judgment of her as a speaker also hinders her friend's ability to accept her explanation.
 
 ## The central case of testimonial injustice
 
