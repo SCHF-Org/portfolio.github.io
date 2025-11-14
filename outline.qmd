@@ -1,0 +1,281 @@
+# Epistemic Injustice
+
+I attempt an explanation of belief in the Christian / Abrahamic God rooted in a desire for epistemic justice. While such a defense may not be adequate for the person who finds life satisfying, the person who may not find themselves to be victims of epistemic injustice, my hope is that this view will explain the comfort theistic belief in the Christian God presents to those who find their personal lives less than satisfying. I argue that for such victims, such belief promises the value of moral agency.
+
+Famously, Miranda Fricker develops an account of epistemic injustice that involves both testimony and hermeneutics. An important consideration here, is one's capacity as a 'moral' knower where 'moral' knower has to do with virtues, vices, and values that are attributed, or are not to the victim. Following @kupl20, I argue that central to these are success or failure conditions whereby a person fails or succeeds in engaging in the imaginative 'process of simulating' a character's psychological and emotional states [68]. However, while Kuplen argues the failure is due to our own imagination, I attribute it as a success condition in that these are 'controlling images' wherein the intent is to portray characters whose mental states and experiences are the converse of their audiences. I argue that this epistemic injustice centers around how this person is represented in a given social environment.
+
+Here 'moral' implies 'moral' information, or 'moral' education, for instance values that would have been instilled in the victim. Such a harm I argue is two fold, on the one hand, the victim is prevented from recognizing her own moral agency. On the other, others are prevented from recognizing the victim's own moral agency.
+
+* Therefore the harm done is to the agent's ability to morally know herself and to the ability of others to know her.
+
+But what is the difference between harm done in regard to someone's capacity as a knower vs. their capacity as a 'moral' knower? Related to the victim's capacity as a moral knower, is the victim's capacity *as a person*, where personhood denotes more specifically, their moral agency, held values, and the like.
+
+### Testimonial Injustice
+
+Fricker argues that testimonial harm occurs when "prejudice causes a hearer to give a deflated level of credibility to a speaker's word."
+
+* This will likely not work for this project. The harm done is meant to be specific to crediting moral agency, i.e. personhood.
+
+### Hermeneutic Injustice
+
+Let's consider hermeneutic injustice.
+
+> is caused by structural prejudice in the economy of collective hermeneutic resources. [1]
+
+Hermeneutic harm occurs when the victim suffers because they do not have the conceptual resources to make sense of their own experiences.
+
+But here there are two possible concerns:
+
+1. The victim cannot make sense, for herself, of her own moral experiences.
+2. The victim cannot make sense, for others, of her own moral experiences.
+
+From these are derived two more:
+
+3. The victim cannot express her moral values in a way that is interpretable
+   1. Either to herself
+   2. Or to others
+
+As an example of the first possible concern, a person is victimized by an agent who holds a degree of power over her when she cannot understand that she is a victim.
+
+We can imagine a situation wherein a victim of color is unable to defend her decision not to protest a speeding ticket she received. In such a case, is she or is she not a victim? Derivative of this then, is the fact that she cannot express her moral values in a way that is interpretable to herself, or to others. For instance, the next day she recounts her story to a professor who convinces her of her victimhood. If they do convince her, is it from a position of power? Which structures, social or otherwise are responsible for this specific ability or inability?
+
+# Testimonial Injustice
+
+## Power
+
+To understand the different in powers, we must look at active and latent powers. We might think the police officer had active powers in giving the ticket. But the professor, as a confidant and friend, has latent powers. The victim wants to retain her relationship to the professor.
+
+1. Power that is realized in action
+2. Power that is being realized even when it is not being realized in action
+
+Again, one power is social, the professor is not acting in her capacity as a grade giver, but as a mentor, or structural. Social power is power exercised (actively or passively) by one or more social agents. But social power depends on practical coordination among social agents in a net-like organization. In such a case then, it is power that is never in one person's hands alone.
+
+## Identity Power
+
+Central to social power is identity power since social power is dependent on the kinds of social exchanges that are possible between agents. At the center of this are testimonial exchanges which rely on "shared imaginative conceptions of social identity:" identity powers.
+
+Faulty judgments of a speaker will hinder these kinds of exchanges. We can apply this to the case of the victim. The victim is not able to defend her belief that she was not a victim when she received the speeding ticket because her judgment of her friend as speaker hinders her ability to explain herself. Additionally, her friend's, the professor's faulty judgment of her as a speaker also hinders her friend's ability to accept her explanation.
+
+## The central case of testimonial injustice
+
+At center:
+
+1. Credibility excess
+
+2. Credibility deficit
+
+# Art Interpretive Injustice
+
+Close to concerns of testimonial and hermeneutic epistemic injustices, are what Emmie @malo25 calls art-interpretive injustice. These are those in which an agent is wronged in their creative capacity as a possible artist [@malo25, 3]. However, Malone rightly regards the creative capacity of the victim a capacity which is essential to human value. Therefore it is odd that Malone sees the greater injustice as being the prosecutorial use of rap lyrics and not the way such projects prevent their audiences from experiencing the psychological and social lives of their characters.
+
+> This wrongs them in a distinct capacity essential to human value, so it is a different kind of injustice.
+
+1. Prosecutorial use of rap music as example of injustice
+2. Define art interpretive injustice
+3. Defines the relationship between genre discourse and identity prejudice
+
+# Prosecutorial use of rap music as example of injustice
+
+1. Rap on trial mentality: “rap music, unlike any other musical genre, somehow reflects the
+true thoughts, beliefs, and character of the person performing it” (Nielson and Dennis, 2019, 79).
+   1. Medina trial
+   2. Lack of similar responses to 'Gun's and Roses' *Used to Love Her, but Had to Kill Her* (1988)
+2. To be clear, we are talking about an artform that is 'coded' as black: "involves black artists and a genre which is coded as black, but given this coding, the prejudice against rap can spill over to non-black rappers"
+3. The reason it is art interpretive injustice is because "In cases like Medina’s, the rapper is either not deemed to have produced a work of art at all or deemed presumptively to have produced art which is confessional."
+   1. Not confessional
+   2. Not a work of art
+      1. Not employing artistic license
+
+# Epistemic Injustice
+
+## Testimonial and Hermeneutical Injustice
+
+1. Testimonial Injustice: "listeners extend the wrong degree of credibility"
+   1. Testimony of the speaker is called into question because of the identity of the speaker
+   2. But the victim in the Medina case does not suffer from credibility deficit because his lyrics were used as credible evidence
+   3. However, the victim's lyrics were taken as testimony rather than artistic expression
+2. Hermeneutical Injustice: "when someone's own experience is obscurred because the available concepts distort it or render it inscrutable"
+   1. Social experiences "obscured from collective understanding"
+   2. This is caused by structural identity prejudice in the "collective hermeneutical" resource
+   3. Analogous to the Medina case, the prosecuters misdescribe the victim's experience (Fricker 2016, 167).
+
+## Some other forms of epistemic injustice
+
+1. Interpretive Injustice
+2. Discursive Injusitice
+3. Aesthetic Injustice
+
+# What they have in common
+
+> identity prejudice and the matter at issue is the application of shared art concepts.
+
+1. Artistic injustice is the failure to attribute art concepts to a person's work because of their identity
+2. This is important in the conversation of black country music. But here, the injustice occurs when certain concepts common to a genre are the cause of the identity prejudice in the "collective hermeneutical" resource
+3. For instance, when values often associated with a given genre are the reason for denying an artist inclusion into that genre.
+
+# Kuplen, Theraputic Self-Knowledge
+
+1. Narrative works of art function as "simulations of selves in the social world."
+2. Each work carries a different explanation or interpretation of the issues and themes portrayed depending on the different ways of selecting, specifying, and arranging elements of the story together.
+3. They give us "the opportunity to put ourselves in the shoes of fictional characters" that momentarily inhabit our thoughts, beliefs, and feelings.
+4. Therefore, they offer us an abstracted and simplified model of real-life experiences.
+
+> Our engagement with narrative works of art gives us a unique opportunity to adopt a dual (first-and third-person) perspective on the self ...
+
+by
+
+> allow[ing] us to experience both perspectives, thereby helping us make sense of our own internal experiences and to recognize the meaning of these experiences in the larger context. [@kupl20, 57]
+
+* Factual Self-Knowledge: knowledge of our own experiences, thoughts, emotions, beliefs, desires, and other mental states that constitute the self.
+
+* Therapeutic Self-Knowledge: , not completely new information abouut our own self; but allows us to recognize various psychological aspects of "our inner life".
+  * These guide emotional experiences and behavior
+
+## Self-Knowledge
+
+* To have self-knowledge is to have a clear sense of who "we truly are".
+  * Having a clear sense of who we are is necessary for leading a meaningful authentic life.
+
+What does it mean to have a sense of who we are?
+
+Having a clear sense of who we are is referenced by knowledge of our own mental states (experiences, thoughts, emotions, beliefs, desires, and other mental states) 'that constitute the self'.
+
+There are two main sources of self-knowledge.
+
+### 1 First-Personal Perspectives (Introspection)
+
+* Self-Knowledge
+  * Agency is defined as an aspect of first-person authority.
+  * It is our acknowledgement that psychological states are our own and that we are privileged over our psychological states.
+  * We can shape our psychological states in a way we find appropriate.
+    * Moral deliberations, being able to deliberate on the appropriateness of our feelings
+    * We feel rather than believe, that a given mental state is emotionally convincing and harmonizes with our 'patterns of feelings, thoughts, and actions'.
+
+### 2 Third-Personal Perspectives
+
+* Self-Perception
+
+## Conveying information through narrative works of art
+
+1. Narrative works of art function as "simulations of selves in the social world."
+2. Each work carries a different explanation or interpretation of the issues and themes portrayed depending on the different ways of selecting, specifying, and arranging elements of the story together.
+3. They give us "the opportunity to put ourselves in the shoes of fictional characters" that momentarily inhabit our thoughts, beliefs, and feelings.
+4. Therefore, they offer us an abstracted and simplified model of real-life experiences.
+
+## Importance and Worth
+
+> As we pointed out in the first section, our emotions reflect the sense of importance and worth we ascribe to something or someone rooted in the particular way we are as a person. [@kupl20, 64]
+
+* Emotions == and reflect what we care about
+
+* Emotional responses to fiction are subject to same laws and so reflect what we care about [emotional realism, also see gilmore]. Our emotional engagement with fiction then depends on what we care about.
+
+> That is, we come to feel character's fears, agonies, and alienations because we perceive (consciously or subconsciously) the portrayed situation relevant for our own well-being. [@kupl20, 64-65]
+
+For instance, Lazarus has argued "If their plight were not like our own, we would not react" [fill citation].
+
+Narrative art then functionally simulates a given character's experiences and actions. They help us to observe the characters' experiences and grasp the meanings of the experiences. As such, narrative arts can also serve to make our own experiences intelligible to us. But according to Kuplen, it only does so when our 'own emotional appraisal fits with the character's [65]. Kuplen argues that it is during this transaction where the individual exercises agency by assessing the appropriateness or inappropriateness of the emotional experience.
+
+But as she has argued previously, our own knowledge of who we are comes from other similar sources, namely narratives in which we use narrative art to make sense of our experiences and by such processes, gradually discover who we are. Yet this requires that we are able to put ourselves 'in the shoes' of those characters.
+
+# Introduction
+
+With respect to personal identity, both Roman Altshuler and Christine Korsgaard argue we are defined by the stories we accept about ourselves. On Korsgaard’s account, we select various events from our past and weave it into our own constructed narratives. For Altshuler, this account neglects those experiences we have but do not consciously weave into our own narratives. There are several ways in which we might include these experiences into our self-constitution.
+
+I focus one account provided by Altshuler, those experiences we have which lead to regret. If these represent the right account of narrative, then narratives are more familiar to us as modern and popular artworks. Given current popular conversations regarding black representation in country music, perhaps now is a good time to talk about the importance of representation in popular music more generally.
+
+I first make a distinction between generic and robust representation.
+
+# Robust vs. Generic Expressions of Regret
+
+Many popular songs are saturated in the emotion of regret. In such contexts, the narrative expresses a negative emotion in response to something narrator did, or that was done to them.
+
+In *The Grand Tour*, the narrator expresses regret at having lost a significant other.
+
+> As you leave you'll see the nursery
+
+> Oh, she left me without mercy
+
+> Taking nothing but
+
+> Our baby and my heart
+
+In the song *He Stopped Loving Her Today*, the narrator witnesses someone who also expresses regret at a significant other severing their ties to them.
+
+> He kept her picture on his wall
+
+> Went half crazy now and then
+
+> But he still loved her through it all
+
+> Hoping she'd come back again
+
+The above are emblematic country songs in that regret is commonly expressed in country music. Different songs express regret in different contexts however. *Apologize* by Timbaland is not a country song, and expresses regret in a different context. Here the narrator expresses regret for the love he *had* felt.
+
+> You tell me that you need me
+
+> Then you go and cut me down, but wait
+
+> You tell me that you're sorry
+
+> Didn't think I'd turn around and say
+
+Love songs often express regret when a relationship ends. In the song *The Grand Tour*, our attention is drawn to the daily use of items "where she used to . . ." speak to the fact that they were once shared by people who expressed positive sentiments toward one another. Their current state however suggests that they are no longer used this way ". . . this old house will never be the same . . .". In *The Grand Tour*, there is existing controversy over whether the end of the relationship is caused by the narrator, or the person no longer there. In the podcast *Cocaine and Rhinestones: The history of country music*, Tyler Mahan Coe suggests that the change in the state of the lives of the individuals involved in the story, is the result of a tragic mishap "There's her rings, all her things, and her clothes are in the closet" and "as you leave you'll see the nursery, . . . taking nothing but the baby and my heart".
+
+While the events in *The Grand Tour* may not have been caused by the involvement from any agent, regret more often is tied to the involvement of some agent. In other words, the regret in *The Grand Tour* is likely caused by an event, whereas in other songs, it is likely caused by an action. In Jones' other song *He Stopped Loving Her Today*, the regret is more definitively caused by an action. "He said I'll love you 'till I die, She told him 'you'll forget in time'".
+
+While in the two previous examples, regret is expressed upon the end of a relationship. In other examples, more positive emotions are expressed upon the dissolution of the relationship than of its continuation. For instance Kelly Clarkson's *Since U Been Gone* does this "Since you've been gone, I can breath for the first time . . .". There are also different reasons for the regret whether expressed for having suffered through the ordeal of that relationship, or for its end. Sometimes the regret is expressed as a longing for various qualities the loved possessed, for instance in the *Grand Tour*, "over there, sits the chair ... and whisper 'oh I love you'". 
+
+Narrative can help us to feel closeness and union with those we love, whether or not we have met them [@stum10. In his *De Musica*, Augustine may be taken as making a similar claim when speaking of knowledge of his grandfather whom he has never met and his father whom he has.] This correlates with attributions of emotion associated with love, where love has often been defined as the feeling of loving emotions provoked in the lover by the loved. Upon the loved one's absence, the lover no longer feels these emotions and experiences regret on account of their absence [@tayl76]. The lover can also experience regret in longing for the qualities not possessed by the loved, when someone whom they loved, failed to reciprocate in word or deed, or failed in some other way.
+
+Narrative accounts of identity attempt to use the way an individual responds to such events to identify the agent through space and time. Reductionists explain the metaphysical continuity of an object across space and time in terms of personal identity. Derek @parf87 argues that in order to understand what sort of object a person is, we need to understand two different qualities, the nature of a person, and their *criterion of identity*, their continued existence over time. But when we consider these qualities in contrast to persons versus non-persons, we include not only physical states of matter, but also immaterial ones such as mental states, memories, beliefs, motivations, etc. A person can be identified just if continuity between subsequent immaterial mental states and physical states are achieved.
+
+Reductionists such as Parfit can define personal identity as the persistence of the human person over time, and say that this is reducible to the binding of psychological states with physical matter. Causlism is the most popular account that explains the origin of psychological states, an object *A* at time *T$_1$* is identical to object *B* at time *T$_2$* as long as we can draw a continuous line from object *A* at time *T$_1$* to object *B* at time *T$_2$*. The continuous line here is most often mental states such as memory, passions, character traits and dispositions. But often times it is the case that those memories we accept as definitive, have their origins in persons or events other than ourselves. There are certain dispositions I have because of persons other than myself signing various documents articulating what rights I recognize as belonging to me for instance.
+
+While Parfit's account does show how persons are not mere matter, he and other causalists state that an action performed by an agent, is an event caused by the mental state of that agent [@alts21]. The difficulty arises in understanding how mental states are related to prior events. While a mental state may be the source of some event, another event may be the source of another mental state. Regardless of the relationship between mental states and the material universe, it is not clear where the causal chain originates.
+
+In response, Christine @kors89 has argued that on @parf87's account of identity, a person is primarily a *locus of experience* [@kors89, 103]. This means that the way to identify an object as existing through space and time as it correlates with a person, is by identifying a set of experiences between objects across space and time that are connected through a set of events or some other connecting factor. These events are psychological states and 'spatiotemporally continuous living bod[ies]' [@kors89, 104]. In this way, it is plausible to draw a line from events in 1776 to my present day. In other words, because a person's psychological states have prior causes, the states themselves are merely some form of event and experience.
+
+Narrative accounts then, are responses to impersonal accounts. According to narrative accounts, how we frame events such as these, is what makes the event meaningful [@sche96b, 96] for a given individual. Without narratives, the agency and the identity of the subject is lost among a causal chain of events. This has been called 'constitution'. In terms of the constitution model of identity, without the binding effect of narrative, the subject of a given event is victim to a disparate causal chain of cause and effect. Our identity then would merely be an impersonal metaphysical continuation of matter [@kors96].
+
+They attribute meaning to events in one's past. The meanings that stories provide are not derived from the individual meanings of the events they represent. Rather, the individual events derive their meaning from the overall meaning of the story. The outcome of the story determines the meaning of the events within the story. Why something happened is explained by the end of the story in which it happened. But this is ascribed by whoever that stakeholder happens to be, the one telling the story. The difficulty arises in understanding how mental states are related to events, whether emotional, causal or something else.
+
+The divergence not only has implications for ways in which to identify material objects persisting across space and time, but also with respect to moral attributions of praise and blame which uniquely belong to active immaterial objects. Kantians and Utilitarians have differing conceptions of agency which together represent a source of justification for either view. Utilitarians too account for agency as a form of experience. When concerning moral obligation and duty for instance, it is the moral agent who deserves to be praised or blamed. In this way, say my acceptance of a person's human rights, has nothing to do with me. As such, the utilitarian asks 'what should be done for them?', persons with a characteristic form of experience. The Kantian however asks 'what ought they do?', despite a given experience. Parfit's account does not account for what we all might think of as the exercise of agency. As such, Korsgaard goes on to argue that focusing on what an agent does, rather than their experiences, will lead to a drastically different concept of identity, one that is grounded in a unique characterization of agency. She calls this characterization 'practical' identity.
+
+Korsgaard then, defends a concept of narrative identity. Reductionist and causalist conceptions of identity undermine what we think of as agency with regard to moral responsibility. These accounts fail to explain the attribution of praise or blame in response to an agent's actions. They offer no way to define the line as beginning at *T$_1$* and ending at *T$_2$*. On this account, the object, that persistent thing deserving of either moral praise or blame, is indefinable. On her narrative account of identity, a person is an agent who uses narrative to define her own constitution. She calls this the *self*-constitution model of personal identity. As such, Korsgaard defends an account of personhood and identity grounded in narrative agency. On this account, we are defined by the stories we emotionally *accept* about ourselves. The act of acceptance means that we select individual events from our pasts in order to construct a narrative that defines us.
+
+The locus of the reduction is hard to pin down in the context of the kinds of desires expressed by an entity as complex as a human person. An analogous complexity can be found in many popular love songs. Although a murky concept, narratives offer a promising way to better understand causal and psychological reductionism. This is because they can incorporate and give shape to "a wide range of heterogeneous" mental states and events [@alts21] in the same manner as psychological narratives. By giving shape to these factors, narrative theories explicate an agent's motivations as a response to environmental effects.
+
+Narrative explanations provide one account by explaining the relationship of cause and event in a way that preserves agency. Stories make our lives intelligible [@vell03] by providing motive and context to a collection of events and episodes. In other words, narrative gives meaning to otherwise meaningless events. Overall, the meanings that stories provide are not derived from the individual meanings of the events they represent. Rather, the individual events derive their meaning from the overall meaning of the story. The outcome of the story determines the meaning of the events within the story. Finally, the meaning of the outcome is determined by the story teller. Why something happened is explained by the end of the story in which it happened.
+
+Altshuler identifies a problem with this account, namely that it does not account for those events that are not selected by the agent. He argues that such events do have a causal effects on what ultimately constitutes one's identity. Following Peter @gold09, Altshuler instead identifies narrative with an agent's *ability* to reconfigure their motivational and psychological past with respect to their own reactions to these events. In other words, Altshuler too, defends a self-constitution model of agency and identity, but one on which a person's responses to his or her past, shape her future identity.
+
+Altshuler responds to the reductionistic identity problem by expanding Korsgaard's analysis. On his account then, we are defined by the stories we accept about ourselves, which is determined by our reflexive rather than reflective endorsements. This reflexive endorsement is determined by emotions we express upon our reflection on our narratives. Since on Altshuler's account, it is possible for the agent to give an accounting for all of the experiences she has by the way of reflexive endorsement or rejection, this account does not disregard important agent forming experiences. Therefore, his account is grounded in a more comprehensive description of how the agent goes about selecting events that self-prescribe their identity.
+
+Although narrative offers promise, it is also not clear how we might recognize a narrative in the wild, what does a sample narrative look like? Focusing on the expressions of regret in some popular songs may provide one answer. If some songs are narratives, the expressions of regret in them, may provide a response to psychological and causal reductionism. Love songs or anti-love songs can express regret for when the relationship ends, or regret for the relationship not ending sooner; which is another way for thinking about how the narrator's life may have gone differently. What is important about the expression of the feeling of regret here, is what that experience does for the agent's behavior going forward in the context of the meaning that the narrative gives to that event, or the agent derives from it. Love songs could be a form of narrative thinking in both the philosophical context and the popular one. Importantly here however, love songs might be a process by which someone organizes their experience and creates their own identity [@sche96b].
+
+## Rap, Hip-Hop, and Other Popular Music Forms
+
+It is possible that when a song expresses regret for not having met someone sooner, they are thinking about how their life might have gone had they married sooner. The marriage itself is not meaningful for the individual as a stand-alone event. Rather, the marriage only has causal influence on the subsequent events of that person's life and it is the person who defines the event in such a way to make it a meaningful marker of their own identity. It is where the marriage sits in the overall context of the course of a given relationship for instance. A marriage event in the context of a short and harmful relationship has a very different meaning than one in the context of a long and loving relationship. Most importantly however, it is important in the context of the meaning that a person derives from the event. The context of expressed regret best explains this.
+
+Peter Goldie highlights our emotions as a form of reflection, especially that of regret. Sometimes as agents, expressions of regret enable one to better exercise their own agency. We can imagine someone being cheated through the purchase of a used car. Looking towards the future, that individual would exercise more caution as a consequence upon reflection of their mistake. In these moments, the ability to tell a story becomes important as we are enabled by the narrative to recognize the appropriate objects of our emotions in the story. Reflecting on the failed used car purchase, the subject experiences regret. This subsequent experience pushes them to exercise more caution in the future. Similarly, we can compare this to another example. Here, regret is either appropriate to aspects of the story which bear no direct relation to the narrator, or ones that do. Being able to recognize and reflect on emotions enables one to express their agency going forward. What regret is afforded to the subject when reflecting on decisions made by themselves?
+
+Peter @gold09 provides a possible way to combine moral psychology and normative theory. He argues that narrative is substantial in our lives as it provides ways of thinking about how our lives may have gone differently, or may go differently and why; our plans for the future and how things might turn out.^[For contrast, see Michael @brat00 argues that as agents, we are purposeful and reflective about our motivations, and capable of organizing our activity over and in-line with our purposes and motivations as we reflect on them. One method of reflection involves the expressions of various emotions upon the occurrence of some event.] Thinking in this way leads to regret, if we are disappointed in a particular choice we have made. Our feelings of regret can cause us to behave differently in the future. In part then, questions about narrative thinking may be questions about moral agency.
+
+Importantly, the possible prospect of being able to imagine today what a morally good life will look like for us tomorrow, is a question about how what we believe about ourselves today, including what desires we have, influence our ability to pursue these ways of being. These in turn determine our regrets. Imagining what kind of person our spouse will be can perhaps open up some romantic possibilities while closing others. Imagining where we will buy our first home may restrict our career choices, just like imagining how many children we will have may affect where we want to live. But more importantly, having various beliefs about ourselves give rise to many other possibilities.
+
+More importantly, we can develop a sense of agency when we imagine ways in which our friendships, family ties, and other important relationships will go, which is preceded by beliefs in us about ways they *could* go. We can imagine the type of person we are to others and take needed steps for becoming that person, if we believe it is possible. As such, the person we will be and how we will relate to others is the goal that is formed by a narrative. Consider one particular narrative, we imagine ourselves as thoughtful, kind, considerate, loving, or compassionate. Imagining ourselves this way becomes the motivation we need to read up on the latest parenting methods. We might imagine ourselves being invited to witness the birth of a friend's first child and scour the internet for advice on how to be a better gift giver.
+
+While the argument that the way we imagine our lives going can have a positive causal effect on the kind of person we become, one may argue that this view is too optimistic. To what extent do the experiences we have, shape the person we become? For instance, Eric J. @mill20 argues that victimhood imposes normative standards that ground the moral status of the victim. What he means is that social roles, such as victim, determine the values we are expected to live by. As a victim, there are various normative standards imposed on us that undermine our ability to imagine other parenting styles and values, such as those relating to how we protect and nourish our children. Libertarian values may be those we are less apt to promote in our homes. One reason is that when victims as parents, or the parents of victims, instruct a child, they must instruct them to act in self-subordinating ways "when confronted by the police" [221] rather than in ways that assert their autonomy.
+
+Consider the following example narratives:
+
+* Ty Dolla’s *by Yourself*: “Stacked your bread and bought your own Mercedes (Vroom, vroom). You your own boss, do it your way (Way)
+
+And contrast this with the possibility that while material goods may or may not be a necessary condition for well-being, they are certainly not a sufficient one as expressed in other popular songs. The protagonist in the song *Rich and Sad* by Post Malone, looks back over the events, motives, and desires that resulted in the dissolution of his relationship and he feels sadness, as an expression of regret:
+
+* “All this stuntin' couldn't satisfy my soul (–oul), Got a hundred big places, but I'm still alone (–one)”.
+
+First, each of the above narratives are constrained by beliefs the narrator may have about themselves. In the first, the narrator, believing they have no other choice but to cut themselves off from anyone who is unable to contribute financially. But it does lead to another criticism, the agency of the artist versus that of the audience. Some music criticisms will often point out that musical taste assumes a sense of moral autonomy not available to some. If an artist is accustomed to abject poverty, then that person might be seen as vulnerable to market forces, creating art that is in high demand for the purposes of financial gain [@layb18], or only capable of representing their immediate physical environment [@rich02]. Regret within narratives are an example of such narrative agency. But if Eric Miller is correct, then some populations just do not possess agency in the requisite sense. But this view would thoroughly undermine decades of social justice movements in law and elsewhere.
+
+What I mean by objects, are representations which are mimetic in nature. The common responses to such criticisms come in two forms. They typically make some causal claim about the effects of environment on both artistic performance [@rich02], and audience music selection criteria, for instance, that artists are merely defining their personal experiences [@shus07, 419]. This response will highlight unequal wealth opportunities among US social groups which would suggest the creation of environments of distrust and hopelessness and lower life expectancies which some rap and hip-hop songs are merely reporting on. The second kind of response makes a cultural claim deriving from supposed traditional practices in pre-colonial Africa [@abra06].
