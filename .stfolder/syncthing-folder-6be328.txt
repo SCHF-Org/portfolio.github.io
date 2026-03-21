@@ -1,5 +1,0 @@
-# This directory is a Syncthing folder marker.
-# Do not delete.
-
-folderID: le5vc-er2hu
-created: 2025-11-13T20:25:07-06:00
