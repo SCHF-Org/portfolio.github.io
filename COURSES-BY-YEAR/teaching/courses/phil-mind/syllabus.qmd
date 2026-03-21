@@ -1,0 +1,168 @@
+---
+title: "PHIL 3XX — Philosophy of Mind: Love, Knowledge, and the Suffering Self"
+subtitle: "Fall 2026 | Mon/Wed 2:30–3:45 PM | Flagler Hall 213"
+author: "Dr. Monty Reynolds"
+date: "Fall 2026"
+---
+
+# Course Description
+
+This course is an introduction to philosophy of mind organized around a sustained
+inquiry into love, emotion, and suffering. Each week opens with a short reading
+from Timothy Bayne's *Philosophy of Mind: An Introduction* (2021) that establishes
+the standard philosophical problem under discussion. The primary texts — Brigitte
+Brogaard's *On Romantic Love*, Martha Nussbaum's *Love's Knowledge*, and Eleonore
+Stump's *Wandering in Darkness* — are then read as extended engagements with that
+problem. Students will see that love is not a peripheral topic in philosophy of mind
+but a site where its deepest questions — about physicalism, intentionality,
+consciousness, other minds, and the self — become unusually vivid and
+philosophically tractable.
+
+Running alongside these texts, the instructor will present the views of Jesse Prinz
+at four key moments in the course. Prinz works within the same naturalistic tradition
+as Brogaard but draws sharply more deflationary conclusions: emotions are somatic,
+embodied states shaped by cultural construction, and moral emotions including love
+do not track mind-independent values. Students will receive a one-page précis before
+each Prinz lecture session. The goal is to use his position as a recurring
+philosophical pressure point — a challenge the primary texts must answer — rather
+than as a text to be mastered independently.
+
+By the end of the course, students will have worked through the core problems of
+philosophy of mind in a way that is both rigorous and personally meaningful, and
+will be equipped to locate their own philosophical positions within the broader
+disciplinary landscape.
+
+**Meeting Times:** Mondays and Wednesdays, 2:30–3:45 PM
+**Room:** Flagler Hall 213
+**Credits:** 3
+**Dates:** August 24 – December 2, 2026
+
+---
+
+## Instructor
+
+**Dr. Monty Reynolds**
+📧 mreynolds1@stetson.edu
+🏢 Elizabeth Hall 104
+**Office Hours:** Tuesdays 1:00–3:00 PM | Thursdays 1:00–3:00 PM
+Drop in, email, or book via Microsoft Bookings (link on Canvas).
+
+---
+
+## Required Texts
+
+- Bayne, Timothy. *Philosophy of Mind: An Introduction*. Routledge, 2021.
+- Brogaard, Brigitte. *On Romantic Love*. Oxford University Press, 2015.
+- Nussbaum, Martha. *Love's Knowledge*. Oxford University Press, 1990.
+- Stump, Eleonore. *Wandering in Darkness*. Oxford University Press, 2010.
+
+## Canvas Materials
+
+- Instructor précis documents for Prinz lectures (four total, distributed
+  before each session)
+- Nussbaum, *The Fragility of Goodness*, selected passage (~15 pp.)
+
+---
+
+## How the Course Is Structured
+
+Each week follows the same pattern:
+
+**Monday:** Bayne anchor reading establishes the standard philosophical problem.
+Primary text reading engages that problem in depth.
+
+**Wednesday:** Primary text reading continues or develops. A Bayne callout box
+at the end of each week identifies exactly which Bayne concepts, terms, and
+debates the primary reading is engaging. Students are expected to be able to
+articulate the connection.
+
+At four points in the course, one Wednesday session is a **Prinz Lecture**: the
+instructor presents Prinz's position on that week's topic (~20 minutes), students
+receive a précis, and the remainder of the session tests the primary text against
+his challenge.
+
+---
+
+## Important Dates
+
+| Date | Event |
+|---|---|
+| Mon Aug 24 | First day of class |
+| Mon Sep 7 | **Labor Day — No Class** |
+| Wed Nov 11 | **Veterans Day — No Class** |
+| Wed Nov 25 | **Thanksgiving Break — No Class** |
+| Wed Dec 2 | Last day of class |
+| Tue–Fri Dec 8–11 | Final Examinations |
+
+Note: Values Day (Thu Nov 12) and Fall Break (Thu–Fri Oct 8–9) do not affect
+this Monday/Wednesday course.
+
+---
+
+## Grading
+
+| Assignment | Points |
+|---|---|
+| Weekly Reflections (best 8 of 12, 8 pts each) | 32 pts |
+| Reflective Analysis 1 & 2 (80 pts each) | 160 pts |
+| Essay 1 & 2 (40 pts each) | 80 pts |
+| DND Presentation / Participation | 96 pts |
+| Attendance | 32 pts |
+| **Total** | **400 pts** |
+
+Weekly reflections are completed in class. All assignments submitted via Canvas.
+See course rubric for grading criteria.
+
+### Grading Scale
+
+| Grade | Points |
+|---|---|
+| A | 372–400 |
+| A- | 360–371 |
+| B+ | 348–359 |
+| B | 332–347 |
+| B- | 320–331 |
+| C+ | 308–319 |
+| C | 292–307 |
+
+### Assignment Rubric
+
+All written assignments are graded on four dimensions. For each:
+
+- **Excellent:** Full points
+- **Good:** 3/4 of possible points
+- **Needs Improvement:** 1/2 of possible points
+- **Unacceptable:** 1/4 of possible points
+
+The four dimensions are **Thesis**, **Premises**, **Support**, and
+**Student Response** (engagement with objections). See Canvas for the
+full rubric.
+
+---
+
+## Academic Policies
+
+### Academic Integrity
+All work must be your own. Sign all submissions: *"Pledged, [your name]."*
+Violations will be referred to the Academic Honor Council.
+Honor code: http://www.stetson.edu/honorsystem/
+
+### Late Work
+Late work is docked a half-letter grade per day unless an extension is approved
+before the due date. No make-up exams without a documented University-accepted
+excuse.
+
+### Accommodations
+Register with the Academic Success Center (386-822-7127; www.stetson.edu/asc)
+if disability-related accommodations are necessary. Contact me early so we can
+coordinate.
+
+### Counseling Center
+Phone: 386-822-8900 | Location: Griffith Hall | Hours: Weekdays 8 AM–4:30 PM
+After-hours emergencies: Public Safety 386-822-7300 (ask for on-call counselor).
+
+---
+
+## Course Schedule
+
+{{< include ./_schedule.qmd >}}

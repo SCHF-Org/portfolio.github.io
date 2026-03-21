@@ -1,0 +1,27 @@
+---
+title: "Hick's Eschatology and the Agents' Transition — Notes and Summary"
+---
+
+## Overview
+
+[Summary of this week's reading and discussion goes here.]
+
+## Key Concepts
+
+### [Concept 1]
+
+[Explanation]
+
+### [Concept 2]
+
+[Explanation]
+
+## Connection to the Thought Experiment
+
+[How does this week's material bear on the developer/agent
+asymmetry that organizes the course?]
+
+::: {.callout-note}
+## Weekly Reflection
+[Reflection prompt]
+:::

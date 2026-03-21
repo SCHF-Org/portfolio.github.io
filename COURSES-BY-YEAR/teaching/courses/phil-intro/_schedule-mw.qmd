@@ -1,0 +1,54 @@
+<!-- _schedule-mw.qmd — PHIL 101B Introduction to Philosophy         -->
+<!-- Section 1: Mon/Wed 10:30–11:45 AM, Flagler Hall 213            -->
+<!-- Contains the appendix reading table only.                       -->
+<!-- Included in syllabus-s1.qmd.                                    -->
+<!-- Full week-by-week session content is in _weekly-mw.qmd.        -->
+
+## Important Dates
+
+| Date | Event |
+|---|---|
+| Mon Aug 24 | First day of class |
+| Mon Sep 7 | **Labor Day — No Class** |
+| Wed Nov 11 | **Veterans Day — No Class** |
+| Wed Nov 25 | **Thanksgiving Break — No Class** |
+| Wed Dec 2 | Last day of class |
+| Fri Oct 23 | Essay 1 due (Canvas) |
+| Fri Nov 6 | Reflective Analysis 1 due (Canvas) |
+| Dec 8–11 | Final Examinations |
+
+Note: Values Day (Thu Nov 12) and Fall Break (Thu–Fri Oct 8–9) do not
+affect this Monday/Wednesday section.
+
+## Reading Schedule
+
+*Weeklies due every Monday starting Sep 7. Schedule subject to change —
+check Canvas regularly.*
+
+| Week | Date(s) | Reading | Notes |
+|---|---|---|---|
+| 1 | Mon Aug 24 | Introduction + Ch. 1 | First class |
+| 2 | Mon Aug 31 | Ch. 2: Simulation Hypothesis | |
+| 2 | Wed Sep 2 | Ch. 3: Do We Know Things? | |
+| 3 | Wed Sep 9 | Ch. 4: External World | Labor Day week |
+| 4 | Mon Sep 14 | Ch. 5: Likely in a Simulation? | 1st DND Adventure |
+| 5 | Mon Sep 21 | Ch. 6: What Is Reality? | |
+| 5 | Wed Sep 23 | Ch. 7: Is God a Hacker? | |
+| 6 | Mon Sep 28 | Ch. 8: Universe of Information? | |
+| 6 | Wed Sep 30 | Ch. 9: Its from Bits? | |
+| 7 | Mon Oct 5 | Ch. 10: VR Headsets Create Reality? | |
+| 7 | Wed Oct 7 | Ch. 11: VR Illusion Machines? | 2nd DND Adventure |
+| 8 | Mon Oct 12 | Ch. 12: AR and Alternative Facts? | |
+| 8 | Wed Oct 14 | Ch. 13: Deepfakes? | |
+| 9 | Mon Oct 19 | Ch. 14: Mind and Body in VR? | |
+| 9 | Wed Oct 21 | Ch. 15: Consciousness in Digital World? | Essay 1 due Fri Oct 23 |
+| 10 | Mon Oct 26 | Ch. 16: AR Extends the Mind? | |
+| 10 | Wed Oct 28 | Ch. 16 (continued) | 3rd DND Adventure |
+| 11 | Mon Nov 2 | Ch. 17: Good Life in VR? | |
+| 11 | Wed Nov 4 | Ch. 18: Simulated Lives Matter? | RA 1 due Fri Nov 6 |
+| 12 | Mon Nov 9 | Ch. 19–20 (combined) | Veterans Day week |
+| 13 | Mon Nov 16 | Ch. 21: Dust Clouds and Programs? | |
+| 13 | Wed Nov 18 | Ch. 22: Mathematical Structure? | 4th DND Adventure |
+| 14 | Mon Nov 23 | Ch. 23–24 (combined) | Thanksgiving week |
+| 15 | Mon Nov 30 | Review Chs. 1–24 | 5th DND Adventure |
+| 15 | Wed Dec 2 | Course synthesis | Last day |

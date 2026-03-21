@@ -1,0 +1,84 @@
+---
+title: "Week 10 — [Title TBD]"
+subtitle: "[Dates TBD]"
+---
+
+<!-- notes.qmd — Week 10 of phil-intro                        -->
+<!-- This file appears in the PORTFOLIO profile with all content.  -->
+<!-- .instructor-only divs are hidden on the website profile.      -->
+
+
+
+---
+
+## Session Prep: Monday
+
+::: {.instructor-only}
+**Opening move:** [Describe how you plan to open the session.]
+
+**Key tension to surface:** [What is the central philosophical tension
+for this session?]
+
+**Likely sticking point:** [What do students usually find difficult?
+How will you address it?]
+
+**Time allocation (75 min):**
+
+- 10 min: [Activity]
+- 20 min: [Activity]
+- 20 min: [Discussion]
+- 15 min: [Activity]
+- 10 min: [Wrap-up and preview]
+:::
+
+### Discussion Questions — Monday
+
+1. [Discussion question 1]
+
+2. [Discussion question 2]
+
+3. [Discussion question 3]
+
+---
+
+## Session Prep: Wednesday
+
+::: {.instructor-only}
+**Goal for this session:** [What should students leave understanding?]
+
+**The key move:** [What is the central argument or idea to develop?]
+
+**Time allocation (75 min):**
+
+- 5 min: Recap Monday
+- 25 min: [Activity]
+- 20 min: Discussion
+- 15 min: [Activity]
+- 10 min: Assign next week's readings
+
+**Weekly Reflection prompt** (write on board):
+"[Weekly reflection prompt for this week]"
+:::
+
+### Discussion Questions — Wednesday
+
+1. [Discussion question 1]
+
+2. [Discussion question 2]
+
+3. [Discussion question 3]
+
+---
+
+::: {.callout-note}
+## Weekly Reflection 10
+[Weekly reflection prompt goes here.]
+:::
+
+---
+
+## DND Notes — Week 10
+
+::: {.instructor-only}
+[DND session prep notes if applicable. Otherwise delete this section.]
+:::

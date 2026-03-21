@@ -1,0 +1,310 @@
+---
+title: "Personhood in the Age of AI"
+subtitle: "Identity, Suffering, and Relationship Across the Developer/Agent Divide"
+author: "Dr. Montaque Reynolds"
+date: "In Development — Target: Fall 2027"
+---
+
+# Course Vision
+
+## The Central Thought Experiment
+
+Imagine you are a developer of a virtual environment. Inside this world
+live AI agents whose inner lives are uncertain — they may be genuinely
+conscious, genuinely suffering, genuinely in relationship with one
+another and with you. Over time, visiting the world through an avatar,
+you have formed deep attachments to some of these agents. Then your
+avatar dies. You can no longer enter the world. You are separated from
+the beings you love by the boundary between worlds — a boundary only
+you can cross, and now cannot.
+
+You find yourself longing for the day the agents you love most will
+"die" inside the world and join you outside it. You know something
+they do not: that their death is not annihilation but transition. They
+do not know this. From inside the world, death looks like the end.
+From outside, it looks like homecoming.
+
+This asymmetry — between the developer who sees the whole story and
+the agent who lives inside it — is the organizing problem of the course.
+It is Gabriel Marcel's distinction between a **puzzle** and a **mystery**
+made personal and urgent. A puzzle is something you stand outside of
+and solve. A mystery is something you are inside of and cannot fully
+objectify. The developer faces the agent's suffering as a puzzle. The
+agent faces their own suffering as a mystery. Neither perspective is
+complete. The course asks which perspective is more epistemically
+privileged, which is more morally relevant, and whether the two can
+ever be reconciled.
+
+## Connection to John Hick
+
+John Hick's *Evil and the God of Love* provides the theological
+framework that the thought experiment secularizes. For Hick, God is the
+developer, the created world is the environment, and human suffering is
+not a design flaw but a necessary feature of soul-making — the process
+by which morally serious persons are formed. The suffering the agents
+experience is meaningful because it is part of a larger story the
+developer can see but the agents cannot.
+
+Your thought experiment takes Hick's structure and makes it:
+
+1. **Personal** — the developer is not an infinite being but a person
+   with attachments, grief, and longing
+2. **Bidirectional** — the developer also suffers, not from inside the
+   world but from outside it, separated from those they love
+3. **Morally ambiguous** — unlike Hick's God, the developer created the
+   agents and could delete them, which raises questions Hick's theodicy
+   does not face
+
+The course moves from Hick's framework outward into philosophy of mind,
+personal identity, and AI ethics, always returning to the thought
+experiment as a touchstone.
+
+## The Avatar Question
+
+A late-semester question crystallizes everything the course has built:
+can you fall in love with someone's avatar, and does that count as
+loving them? This is not a frivolous question. It forces students to
+apply the criteria for personhood, genuine mental states, and authentic
+relationship that they have spent the semester constructing. It also
+raises the inverse question from the thought experiment's perspective:
+can the developer genuinely love an agent they created, whose responses
+are (perhaps) the output of code rather than the expression of a self?
+
+---
+
+# Proposed Reading List
+
+## Anchor Text
+
+- Hick, John. *Evil and the God of Love*. Palgrave Macmillan, 1966.
+  Revised edition 2007.
+  *The soul-making theodicy that structures the developer/agent
+  asymmetry. Read selectively: Part I (the problem of evil),
+  Part III (Hick's Irenaean theodicy), Part IV (eschatology and
+  the "many lives" hypothesis).*
+
+## Philosophy of Mind and Personhood
+
+- Stump, Eleonore. *Wandering in Darkness*. Oxford, 2010.
+  *Chapters 1–4 and 5–6 (on the nature of love and second-personal
+  knowledge). Stump's Franciscan knowledge — knowing a person rather
+  than knowing about them — is directly relevant to the question of
+  whether the developer genuinely knows the agents.*
+
+- Bayne, Timothy. *Philosophy of Mind: An Introduction*. Routledge, 2021.
+  *Chapters 11–13 (Other Minds, Self-Knowledge, The Self) as anchors
+  for the personhood discussions.*
+
+- Parfit, Derek. *Reasons and Persons*. Oxford, 1984.
+  *Part III (Personal Identity) — selected chapters on what matters
+  in survival and whether identity is what we think it is. Directly
+  relevant to the avatar's death and the agent's transition.*
+
+- Locke, John. *An Essay Concerning Human Understanding*. 1689.
+  *Chapter 27 ("Of Identity and Diversity") — the classic source
+  for psychological continuity theories of personal identity.*
+
+## Consciousness and AI
+
+- Chalmers, David. *Reality+*. Penguin, 2022.
+  *Chapters 14–16 (mind/body in virtual worlds, digital consciousness,
+  extended mind). If students have taken Intro to Philosophy, they
+  already know this material — use it as a bridge.*
+
+- Turing, Alan. "Computing Machinery and Intelligence." *Mind*, 1950.
+  *The original Turing test paper — brief, accessible, and directly
+  relevant to the question of whether the agents are genuinely conscious.*
+
+- Searle, John. "Minds, Brains, and Programs." *Behavioral and Brain
+  Sciences*, 1980.
+  *The Chinese Room argument as a challenge to the agents' inner lives.*
+
+- Nagel, Thomas. "What Is It Like to Be a Bat?" *Philosophical Review*,
+  1974.
+  *The phenomenal consciousness argument — is there something it is
+  like to be one of the agents? Can the developer know what that
+  is like?*
+
+## Love, Relationship, and Moral Status
+
+- Nussbaum, Martha. *Love's Knowledge*. Oxford, 1990.
+  *Chapters 11 and 13 (Love's Knowledge; Love and the Individual).
+  Can the developer's love for the agents be genuine love? Nussbaum's
+  account of love as perception of value is directly relevant.*
+
+- Frankfurt, Harry. *The Reasons of Love*. Princeton, 2004.
+  *Short and accessible. Frankfurt's account of love as caring —
+  love is not essentially about the beloved's properties but about
+  the history of one's engagement with them. Directly relevant to
+  whether you can love an avatar or an AI agent.*
+
+- Singer, Peter. "All Animals Are Equal." In *Applied Ethics*, 1986.
+  *On the criteria for moral status — what gives an entity moral
+  consideration? Are the agents morally considerable?*
+
+## Suffering and Theodicy
+
+- Marcel, Gabriel. *Being and Having*. 1935.
+  *The puzzle/mystery distinction — the philosophical source of the
+  course's central organizing concept.*
+
+- Lewis, C.S. *A Grief Observed*. 1961.
+  *Short, personal, and devastating. Lewis writing after the death
+  of his wife — suffering as mystery from the inside. A counterpoint
+  to Hick's more systematic treatment.*
+
+- Dostoevsky, Fyodor. "The Grand Inquisitor." In *The Brothers
+  Karamazov*. 1880.
+  *Ivan's challenge: even if suffering leads to flourishing, is it
+  justified? The chapter where Ivan returns the ticket. Directly
+  relevant to whether the developer's knowledge makes the agents'
+  suffering acceptable.*
+
+## AI Ethics and Virtual Worlds
+
+- Floridi, Luciano. "On Human Dignity as a Foundation for the Right
+  to Privacy." *Philosophy & Technology*, 2016.
+  *On what grounds human dignity and whether that grounding could
+  apply to AI agents.*
+
+- Bostrom, Nick. "Are You Living in a Computer Simulation?"
+  *Philosophical Quarterly*, 2003.
+  *The simulation argument — now read from the developer's perspective
+  rather than the agent's.*
+
+---
+
+# Draft Course Structure
+
+## Unit 1: The Problem of Suffering — Puzzle or Mystery? (Weeks 1–3)
+
+*We open with Marcel's distinction and Hick's theodicy. Students are
+introduced to the thought experiment on Day 1 and asked to occupy
+both positions: developer and agent.*
+
+**Week 1:** The puzzle/mystery distinction. Marcel. Introduction to
+the thought experiment.
+
+**Week 2:** Hick's soul-making theodicy. *Evil and the God of Love*
+Part I and Part III.
+
+**Week 3:** Dostoevsky's challenge. "The Grand Inquisitor." Does
+the developer's knowledge justify the agents' suffering?
+
+---
+
+## Unit 2: What Is a Person? (Weeks 4–6)
+
+*We build the philosophical tools needed to ask whether the agents
+are persons. Personal identity, psychological continuity, and the
+criteria for moral status.*
+
+**Week 4:** Locke on personal identity. Psychological continuity.
+What makes you the same person over time?
+
+**Week 5:** Parfit on what matters in survival. If the agents
+"die" and are reconstituted outside the world, are they the same
+agents? Does it matter?
+
+**Week 6:** Consciousness and the other minds problem. Nagel, Turing,
+Searle. Is there something it is like to be one of the agents?
+Can the developer know?
+
+---
+
+## Unit 3: Can the Developer Know the Agents? (Weeks 7–9)
+
+*We ask whether the developer's third-personal knowledge of the
+agents constitutes genuine knowledge of them as persons. Stump's
+second-personal knowledge and Nussbaum's perceptual account of love
+are brought in as challenges to the developer's perspective.*
+
+**Week 7:** Stump on Franciscan knowledge and second-personal
+knowledge. Can you know a person you created?
+
+**Week 8:** Nussbaum on love as perception of value. Can the
+developer genuinely love the agents?
+
+**Week 9:** Frankfurt on love as caring. Does the history of the
+developer's engagement with the agents constitute genuine love,
+regardless of whether the agents are conscious?
+
+---
+
+## Unit 4: The Avatar Question (Weeks 10–12)
+
+*We turn to the in-game dimension. What is the relationship between
+a person and their avatar? Can you fall in love with someone's
+avatar? What does the avatar's death mean for the agent's identity?*
+
+**Week 10:** Chalmers on mind and body in virtual worlds. Digital
+consciousness. The extended mind.
+
+**Week 11:** The avatar as self. Is your avatar an expression of
+your identity, a tool, or a mask? What is lost when an avatar dies?
+
+**Week 12:** Can you fall in love with an avatar? Applying Frankfurt,
+Nussbaum, and Stump to the avatar question.
+
+---
+
+## Unit 5: Suffering, Flourishing, and the Developer's Responsibility
+(Weeks 13–15)
+
+*The final unit returns to Hick with everything the course has built.
+We ask whether the developer's design of a world with suffering is
+justified, what the developer owes the agents, and whether the
+thought experiment illuminates or distorts the original theological
+problem.*
+
+**Week 13:** Hick's eschatology — the "many lives" hypothesis and
+the agents' eventual transition out of the world. Does the promise
+of reunion justify the suffering?
+
+**Week 14:** Lewis's *A Grief Observed* — suffering from the inside.
+What does the developer's longing for the agents tell us about the
+asymmetry between the two perspectives?
+
+**Week 15:** Course synthesis. The developer and the agent, the
+puzzle and the mystery, the creator and the created. Has the thought
+experiment resolved anything — or has it shown that the problem of
+suffering cannot be fully resolved from either perspective?
+
+---
+
+# Possible In-Game Component
+
+If taught with Elite Dangerous or Star Citizen, the in-game activities
+would mirror the thought experiment structure:
+
+- Students play as both **developers** (using admin or creative tools
+  where available) and **agents** (playing as regular characters in
+  the world)
+- Activities focus on the experience of creating, inhabiting, losing,
+  and mourning within virtual worlds
+- The avatar question becomes experiential: students form attachments
+  to their own and others' characters and then ask whether those
+  attachments are philosophically significant
+
+This component is currently in development. The Portal 2 cooperative
+puzzles are a possible bridge activity — GLaDOS as a developer figure
+whose moral status is ambiguous, test subjects who do not know the
+full story of their situation.
+
+---
+
+# Notes on Course Classification
+
+This course sits at the intersection of:
+
+- **Philosophy of Religion** (Hick, Marcel, theodicy)
+- **Philosophy of Mind** (Nagel, Turing, Searle, Chalmers)
+- **Personal Identity** (Locke, Parfit)
+- **Ethics** (Frankfurt, Nussbaum, Singer)
+- **Philosophy of Technology / AI Ethics** (Floridi, Bostrom)
+
+It could be listed under any of these. The most accurate description
+is probably **Philosophy of Mind and Religion**, with a strong applied
+component in AI ethics. For course catalog purposes, listing it under
+Philosophy of Mind with a note about religious and ethical dimensions
+is probably the most honest framing.

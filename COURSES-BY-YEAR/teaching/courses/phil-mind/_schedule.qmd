@@ -1,0 +1,685 @@
+<!-- _schedule.qmd — PHIL 3XX Philosophy of Mind, Fall 2026         -->
+<!-- SINGLE SOURCE OF TRUTH for all dates, readings, and deadlines. -->
+<!-- Include wherever the schedule is needed:                        -->
+<!--   {{< include _schedule.qmd >}}                                 -->
+<!-- Never edit schedule content in any other file.                  -->
+
+---
+
+# Unit 1: The Physical Mind
+
+*Bayne coverage: Introduction (pp. 1–5), Ch. 1 (pp. 6–22), Ch. 2 (pp. 24–36),
+Ch. 3 (pp. 37–54)*
+
+*Standard problems: What distinguishes mental states from physical states?
+What would it mean for love to be fully explained by neuroscience?
+Behaviourism, identity theory, functionalism, and eliminativism.*
+
+---
+
+## Week 1 — What Is a Mind? What Is Love? {#week-01}
+**Mon Aug 24 / Wed Aug 26**
+
+**Mon Aug 24:**
+
+- Bayne, Introduction: "A Map of the Mind" (pp. 1–5)
+- Bayne, Ch. 1: "Marks of the Mental" (pp. 6–22)
+- Brogaard, Ch. 1: "Letter from a Friend" (pp. 1–12)
+
+**Wed Aug 26:** The marks of the mental applied to love. Does love exhibit
+intentionality, phenomenal character, or both?
+
+- Brogaard, Ch. 2: "The Chemistry of Love" (pp. 13–40,
+  through "Beliefs and Brain Chemistry")
+
+::: {.callout-tip}
+## Bayne Connection — Week 1
+Bayne Ch. 1 (pp. 11–20) identifies intentionality and phenomenal consciousness
+as the two central marks of the mental. As you read Brogaard Ch. 2, ask: does
+the chemistry of love exhibit intentionality (is it *about* something),
+phenomenal character (is there something it is like to be in this state),
+or both? See Bayne's discussion of qualia (p. 17) and the propositional
+attitudes box (p. 13).
+:::
+
+::: {.callout-note}
+## Weekly Reflection 1
+Bayne (pp. 11–20) distinguishes intentionality from phenomenal consciousness.
+Using Brogaard Ch. 2, identify one aspect of love that seems clearly intentional
+and one that seems clearly phenomenal. Is there anything about love that seems
+to be neither?
+:::
+
+---
+
+## Week 2 — Physicalism and the Chemistry of Love {#week-02}
+**Mon Aug 31 / Wed Sep 2**
+
+**Mon Aug 31:**
+
+- Bayne, Ch. 2: "Physicalism" (pp. 24–36)
+- Brogaard, Ch. 2: "The Chemistry of Love" (pp. 40–58, remainder)
+
+**Wed Sep 2:** *Prinz Lecture 1 — Somatic Emotion and Eliminativism.*
+The instructor presents Prinz's somatic marker theory (*Gut Reactions* Ch. 3–4).
+Précis distributed. Discussion: is Prinz a functionalist, identity theorist,
+or eliminativist about love? Where does he sit on Bayne's map?
+
+- Bayne, Ch. 3: "How to be a Physicalist" (pp. 37–54) — read before class
+
+::: {.callout-tip}
+## Bayne Connection — Week 2
+Bayne Ch. 2 (pp. 24–36) distinguishes type identity theory from functionalism.
+Bayne Ch. 3 (pp. 44–54) presents functionalism and eliminativism in detail.
+Brogaard's perceived-response theory is functionalist: love is defined by its
+causal and representational role. Prinz's somatic marker theory leans toward
+identity theory: the emotion just *is* the somatic state. After the Prinz
+lecture, place both on Bayne's taxonomy. See especially multiple realization
+(p. 43) and eliminativism (pp. 47–52).
+:::
+
+::: {.callout-note}
+## Weekly Reflection 2
+Using Bayne Ch. 2–3 (pp. 24–54), classify Brogaard's account of love.
+Is she a behaviourist, identity theorist, functionalist, or eliminativist?
+After the Prinz lecture, classify Prinz. Which classification best survives
+the objections Bayne raises?
+:::
+
+---
+
+## Week 3 — Physicalism and Irrational Love {#week-03}
+**Wed Sep 9 only** *(Labor Day — no Monday class)*
+
+**Wed Sep 9:** Love as a psychological kind. Can a physicalist account explain
+irrational love? Love as moral emotion, love as history, love and personal identity.
+
+- Brogaard, Ch. 4: "Irrational Love" (pp. 59–116, full chapter)
+
+::: {.callout-tip}
+## Bayne Connection — Week 3
+Bayne Ch. 3 (pp. 47–52) discusses eliminativism — the view that folk
+psychological categories like "love" will eventually be replaced by
+neuroscientific ones. Brogaard's Ch. 4 implicitly resists this: she treats
+love as a genuine psychological kind with normative properties (it can be
+rational or irrational). See the box on eliminativism and incoherence (p. 50).
+Ask whether "irrational love" is a concept that survives eliminativist pressure.
+:::
+
+::: {.callout-note}
+## Weekly Reflection 3
+Bayne (pp. 47–52) raises the possibility that folk psychological categories
+like "love" might be eliminated in favour of neuroscientific ones. Brogaard
+treats love as a genuine psychological kind that can be rational or irrational.
+Which view is more defensible, and why?
+:::
+
+---
+
+## Week 4 — 1st DND Adventure: Physicalism on Trial *(Student-Led)* {#week-04}
+**Mon Sep 14 / Wed Sep 16**
+
+**Mon Sep 14:** *Adventure 1 — The Behaviourist's Prison.*
+The party is trapped in a world built by a radical behaviourist who insists that
+mental states are nothing but dispositions to behave. Love is just the disposition
+to act in certain ways toward a person. The party must escape by showing that
+something about love cannot be captured behaviourally. The DM draws from Bayne
+Ch. 2–3 (pp. 24–54) and Brogaard Ch. 2–4. The Prinz précis from Week 2 is
+available as a reference.
+
+**Wed Sep 16:** Debrief. Which physicalist account of love best survived the
+adventure? What would an eliminativist say about everything the party described?
+
+::: {.callout-tip}
+## Essay 1 Due Friday Sep 18 (Submit on Canvas)
+**Prompt:** Using Bayne's taxonomy of physicalist positions (behaviourism
+pp. 38–41, identity theory pp. 41–44, functionalism pp. 44–47, eliminativism
+pp. 47–52), evaluate Brogaard's account of romantic love. Which position does
+her account most closely resemble? What are the main objections to that position,
+and how might Brogaard reply? 4–5 pages.
+:::
+
+---
+
+# Unit 2: The Intentional Mind {#unit-2}
+
+*Bayne coverage: Ch. 4 (pp. 56–75), Ch. 5 (pp. 77–96), Ch. 6 (pp. 98–115),
+Ch. 7 (pp. 117–130)*
+
+*Standard problems: What is it for a mental state to be about something?
+Can the intentionality of love be naturalised? Does love extend beyond the skull?*
+
+---
+
+## Week 5 — Perception and Emotional Perception {#week-05}
+**Mon Sep 21 / Wed Sep 23**
+
+**Mon Sep 21:**
+
+- Bayne, Ch. 4: "Perception" (pp. 56–75)
+- Nussbaum, *Love's Knowledge*, Ch. 1: "Introduction: Form and Content,
+  Philosophy and Literature" (pp. 3–53)
+
+**Wed Sep 23:**
+
+- Nussbaum, *Love's Knowledge*, Ch. 2: "The Discernment of Perception"
+  (pp. 54–105)
+
+::: {.callout-tip}
+## Bayne Connection — Week 5
+Bayne Ch. 4 (pp. 62–69) discusses intentionalism about perception and the
+admissible contents of perception (pp. 69–71). Nussbaum argues that emotional
+perception has rich content: love perceives the value of the beloved. Ask
+whether Nussbaum's account requires that rich perceptual content is possible,
+and what Bayne's discussion of unconscious perception (pp. 71–73) implies for
+love that operates below awareness.
+:::
+
+::: {.callout-note}
+## Weekly Reflection 4
+Bayne (pp. 62–71) distinguishes thin and rich perceptual content. Nussbaum
+argues emotional perception has rich content — it perceives value. Does Bayne's
+account of perception (pp. 56–75) make room for this claim, or does it
+count against it?
+:::
+
+---
+
+## Week 6 — Thought, Literature, and the Chinese Room {#week-06}
+**Mon Sep 28 / Wed Sep 30**
+
+**Mon Sep 28:**
+
+- Bayne, Ch. 5: "Thought" (pp. 77–96)
+- Nussbaum, *Love's Knowledge*, Ch. 3: "Plato on Commensurability and Desire"
+  (pp. 106–124)
+
+**Wed Sep 30:**
+
+- Nussbaum, *Love's Knowledge*, Ch. 4: "Flawed Crystals" (pp. 125–147)
+- Nussbaum, *Love's Knowledge*, Ch. 5: "'Finely Aware and Richly Responsible'"
+  (pp. 148–167)
+
+::: {.callout-tip}
+## Bayne Connection — Week 6
+Bayne Ch. 5 (pp. 88–94) discusses Searle's Chinese room argument: a system can
+manipulate symbols without understanding their meaning. Nussbaum's claim that
+literature gives moral knowledge argument alone cannot is a parallel claim:
+understanding love requires more than processing propositions correctly. See
+Bayne's discussion of the varieties of thought (pp. 78–81) and alternatives to
+the language of thought hypothesis (pp. 84–88).
+:::
+
+::: {.callout-note}
+## Weekly Reflection 5
+Does Searle's Chinese room argument (Bayne pp. 88–90) support or undermine
+Nussbaum's claim that literary engagement with love gives us moral knowledge
+unavailable through argument alone? Explain the connection carefully.
+:::
+
+---
+
+## Week 7 — Grounding Intentionality + Prinz Lecture 2 {#week-07}
+**Mon Oct 5 / Wed Oct 7**
+
+**Mon Oct 5:**
+
+- Bayne, Ch. 6: "Grounding Intentionality" (pp. 98–115)
+- Nussbaum, *Love's Knowledge*, Ch. 6: "Perceptive Equilibrium" (pp. 168–194)
+
+**Wed Oct 7:** *Prinz Lecture 2 — The Emotional Construction of Morals.*
+The instructor presents Prinz's constructivist challenge to moral intentionality
+(*Emotional Construction* Introduction and Ch. 1). Précis distributed.
+Discussion: if moral emotions are culturally constructed, do they have genuine
+intentional content — or is their apparent "aboutness" an illusion?
+
+::: {.callout-tip}
+## Bayne Connection — Week 7
+Bayne Ch. 6 (pp. 98–115) presents three approaches to grounding intentionality:
+tracking (pp. 101–104), teleosemantic (pp. 104–107), and phenomenal (pp. 107–111).
+Nussbaum says love perceives the value of the beloved — but which grounding
+account supports this? After the Prinz lecture, ask whether Prinz's constructivism
+is closer to the tracking approach gone deflationary, or a rejection of
+intentional content altogether. See the normativity of content box (p. 103)
+and Swampman (p. 107).
+:::
+
+::: {.callout-note}
+## Weekly Reflection 6
+Bayne presents three approaches to grounding intentionality (pp. 101–111).
+Prinz says love's intentional content is grounded in nothing more than cultural
+conditioning. Nussbaum says it is grounded in the actual value of the beloved.
+Which grounding story — tracking, teleosemantic, or phenomenal — best supports
+Nussbaum? Which best supports Prinz?
+:::
+
+---
+
+## Week 8 — Externalism, the Extended Mind, and Love {#week-08}
+**Mon Oct 12 / Wed Oct 14**
+
+*(Note: Fall Break was Thu–Fri Oct 8–9. This course meets Monday and Wednesday
+and is unaffected.)*
+
+**Mon Oct 12:**
+
+- Bayne, Ch. 7: "Externalism and the Extended Mind" (pp. 117–130)
+- Nussbaum, *Love's Knowledge*, Ch. 13: "Love and the Individual" (pp. 314–334)
+
+**Wed Oct 14:** Stump enters. Love as requiring union and presence — a
+contribution to the extended mind debate.
+
+- Stump, *Wandering in Darkness*, Ch. 5: "The Nature of Love" (pp. 91–111)
+- Stump, *Wandering in Darkness*, Ch. 6: "Union, Presence, and Omnipresence"
+  (pp. 112–131)
+
+::: {.callout-tip}
+## Bayne Connection — Week 8
+Bayne Ch. 7 (pp. 125–129) presents vehicle externalism and the extended mind
+thesis: mental states can extend beyond the brain into the environment and
+into other agents. Stump's account of love as requiring union and presence with
+the beloved is a striking instance of this idea. Ask whether her account is a
+version of vehicle externalism or whether it requires something stronger —
+not just cognitive extension but metaphysical union. See the box on the extended
+conscious mind (p. 126).
+:::
+
+::: {.callout-note}
+## Weekly Reflection 7
+Bayne's extended mind thesis (pp. 125–129) holds that mental states can extend
+beyond the brain. Stump argues love requires union and presence with the beloved
+(pp. 91–131). Is Stump's account a version of vehicle externalism? What would
+she need to add or change to make it one?
+:::
+
+---
+
+## Week 9 — 2nd DND Adventure: The Intentional Mind *(Student-Led)* {#week-09}
+**Mon Oct 19 / Wed Oct 21**
+
+**Mon Oct 19:** *Adventure 2 — The Constructed City.*
+The Deflationist has built a city whose every rule, bond, and expression of love
+is explicitly constructed — labeled, conditioned, revisable by decree. He
+challenges the party to identify anything in the city with *genuine* intentional
+content — anything whose "aboutness" is grounded in something beyond social
+conditioning. The DM draws from Bayne Ch. 6 (pp. 98–115) and the Prinz précis
+from Week 7. The party draws on Nussbaum *LK* Ch. 2 and 6 and Stump Ch. 5–6.
+
+**Wed Oct 21:** Debrief. Did the party find genuine intentionality in the
+constructed city? The instructor connects the adventure to Bayne Ch. 6 and
+asks: which grounding theory best explains whatever the party found?
+
+---
+
+# Unit 3: The Conscious Mind {#unit-3}
+
+*Bayne coverage: Ch. 8 (pp. 133–152), Ch. 9 (pp. 154–175), Ch. 10 (pp. 178–194)*
+
+*Standard problems: What is phenomenal consciousness? Is there something it is
+like to know a person? Can love cause behavior, and if so, how?*
+
+---
+
+## Week 10 — The Metaphysics of Consciousness and Franciscan Knowledge {#week-10}
+**Mon Oct 26 / Wed Oct 28**
+
+**Mon Oct 26:**
+
+- Bayne, Ch. 8: "The Metaphysics of Consciousness" (pp. 133–152)
+- Stump, *Wandering in Darkness*, Ch. 1: "Suffering, Theodicy, and Defense"
+  (pp. 3–24)
+- Stump, *Wandering in Darkness*, Ch. 2: "Philosophy and Narrative" (pp. 25–44)
+
+**Wed Oct 28:** Stump's Franciscan knowledge as a contribution to the
+consciousness debate. Is there something it is like to *know* a person?
+
+- Stump, *Wandering in Darkness*, Ch. 3: "Narrative as a Means of Knowledge:
+  Francis and Dominic" (pp. 45–70)
+- Stump, *Wandering in Darkness*, Ch. 4: "Narrative and the Knowledge of Persons"
+  (pp. 71–90)
+
+::: {.callout-tip}
+## Bayne Connection — Week 10
+Bayne Ch. 8 (pp. 134–138) presents the knowledge argument: Mary the colour
+scientist knows all the physical facts about red but learns something new when
+she first sees red — evidence that phenomenal consciousness is not captured by
+physical facts. See the box on mind the gaps (p. 136). Stump's Franciscan
+knowledge is a parallel argument about persons: you can know all the
+third-personal facts about someone and still not know *them* (pp. 45–90).
+Ask whether Stump's argument has the same structure as the knowledge argument —
+and whether physicalist responses to Mary's room (Bayne pp. 138–146)
+also defeat Stump.
+:::
+
+::: {.callout-note}
+## Weekly Reflection 8
+Bayne presents the knowledge argument (pp. 134–138) as evidence that phenomenal
+consciousness cannot be captured by physical facts. Stump argues that knowledge
+of persons cannot be captured by propositional facts (pp. 45–90). Do these
+arguments have the same structure? If so, does a physicalist response to
+Mary's room also defeat Stump?
+:::
+
+---
+
+## Week 11 — Theories of Consciousness and Unconscious Love {#week-11}
+**Mon Nov 2 / Wed Nov 4**
+
+**Mon Nov 2:**
+
+- Bayne, Ch. 9: "Theories of Consciousness" (pp. 154–175)
+- Stump, *Wandering in Darkness*, Ch. 7: "Willed Loneliness" (pp. 132–154)
+- Stump, *Wandering in Darkness*, Ch. 8: "Other-worldly Redemption"
+  (pp. 155–175)
+
+**Wed Nov 4:** Attachment theory and unconscious love.
+
+- Brogaard, Ch. 5: "Relationships and Insecure Attachment" (pp. 117–152)
+- Brogaard, Ch. 6: "Our Unconscious Affections" (pp. 153–178)
+
+::: {.callout-tip}
+## Bayne Connection — Week 11
+Bayne Ch. 9 (pp. 163–167) discusses monitoring theories of consciousness, which
+hold that a mental state is conscious when it is the object of a higher-order
+representation. Brogaard's account of unconscious love (pp. 153–178) raises a
+direct puzzle: if love can operate without a higher-order representation, is it
+still a mental state in the relevant sense? See also Bayne's discussion of
+first-person versus third-person methods (pp. 155–160) for what it would mean
+to study unconscious love empirically.
+:::
+
+::: {.callout-note}
+## Weekly Reflection 9
+Bayne discusses monitoring theories of consciousness (pp. 163–167). Brogaard
+argues love can be unconscious (pp. 153–178). Is unconscious love still love
+in the philosophically relevant sense? Which theory of consciousness from
+Bayne Ch. 9 best handles this case?
+:::
+
+---
+
+## Week 12 — Mental Causation + Prinz Lecture 3 {#week-12}
+**Mon Nov 9 only** *(Veterans Day — no Wednesday class)*
+
+**Mon Nov 9:** *Prinz Lecture 3 — Is Morality a Mere Emotion?*
+The instructor presents Prinz *Emotional Construction* Ch. 8. Précis distributed.
+Combined session covering both the Bayne anchor reading and the Prinz lecture.
+
+- Bayne, Ch. 10: "Mental Causation" (pp. 178–194) — read before class
+- Nussbaum, *Love's Knowledge*, Ch. 11: "Love's Knowledge" (pp. 261–285)
+  — read before class
+
+Discussion: the causal exclusion problem asks whether mental content can do
+independent causal work. If love's content is culturally constructed with no
+causal power beyond its neural substrate, does Nussbaum's claim that love gives
+us moral knowledge collapse?
+
+::: {.callout-tip}
+## Bayne Connection — Week 12
+Bayne Ch. 10 (pp. 180–184) presents the causal exclusion problem: if every
+physical event has a sufficient physical cause, there is no room for mental
+properties to do independent causal work. See also non-reductive physicalism
+(pp. 184–187) and Libet's challenge (pp. 190–193). This is a deep problem for
+Nussbaum: if love perceives value, the *perception of value* must cause behavior,
+not just the underlying neural state. After the Prinz lecture, ask whether
+Prinz's deflationism avoids the exclusion problem by denying that love has any
+content beyond its physical substrate — and whether that is a cost or a benefit.
+:::
+
+::: {.callout-note}
+## Weekly Reflection 10
+Bayne's causal exclusion problem (pp. 180–184) asks whether mental content can
+do independent causal work. Nussbaum says love's perception of value causes
+action. Prinz says only the somatic state causes action — the content is
+epiphenomenal. Which view better handles Bayne's exclusion problem?
+:::
+
+::: {.callout-tip}
+## Reflective Analysis 1 Due Friday Nov 13 (Submit on Canvas)
+**Prompt:** The causal exclusion problem (Bayne Ch. 10, pp. 178–194) asks
+whether mental content can do independent causal work. Evaluate Brogaard's
+perceived-response theory and Nussbaum's emotional perceptualism in light of
+this problem. Does either account successfully show that love's intentional
+content causally explains behavior? 8–10 pages. Use the four-category rubric.
+:::
+
+---
+
+# Unit 4: The Social Mind {#unit-4}
+
+*Bayne coverage: Ch. 11 (pp. 196–216), Ch. 12 (pp. 218–233), Ch. 13 (pp. 234–252),
+Conclusion (pp. 255–257)*
+
+*Standard problems: How do we know other minds? Can we trust introspection?
+What is the self that loves and suffers? Does the mind-body problem have a solution?*
+
+---
+
+## Week 13 — Other Minds and Second-Personal Knowledge {#week-13}
+**Mon Nov 16 / Wed Nov 18**
+
+**Mon Nov 16:**
+
+- Bayne, Ch. 11: "Other Minds" (pp. 196–216)
+- Stump, *Wandering in Darkness*, Ch. 9: "The Story of Job" (pp. 179–225)
+- Stump, *Wandering in Darkness*, Ch. 10: "The Story of Samson" (pp. 226–262)
+
+**Wed Nov 18:**
+
+- Nussbaum, *Love's Knowledge*, Ch. 12: "Narrative Emotions: Beckett's
+  Genealogy of Love" (pp. 286–313)
+- Stump, *Wandering in Darkness*, Ch. 11: "The Story of Abraham" (pp. 263–309)
+
+::: {.callout-tip}
+## Bayne Connection — Week 13
+Bayne Ch. 11 (pp. 197–214) presents the problem of other minds and three
+responses: argument from analogy, simulation theory, and theory theory. See
+especially the conceptual problem (pp. 201–203), the sceptical problem
+(pp. 203–208), and the beetle in the box box (p. 202). Stump's account of
+second-personal knowledge is in effect a claim that love gives us a form of
+access to other minds that goes beyond behavioral evidence alone. Ask: is Stump
+offering a fourth solution to the other minds problem, or dissolving it by
+denying that it applies to genuine second-personal encounters?
+:::
+
+::: {.callout-note}
+## Weekly Reflection 11
+Bayne presents three responses to the other minds problem (pp. 197–214). Does
+Stump's account of second-personal knowledge offer a fourth — or does it
+dissolve the problem rather than solve it? What is the difference between
+solving and dissolving a philosophical problem?
+:::
+
+---
+
+## Week 14 — The Self and the Desires of the Heart {#week-14}
+**Mon Nov 23 only** *(Thanksgiving Break — no Wednesday class)*
+
+**Mon Nov 23:** Combined session covering self-knowledge, personal identity,
+and Stump's account of the desires of the heart. Reading load is heavier than
+usual to compensate for the lost Wednesday.
+
+- Bayne, Ch. 12: "Self-Knowledge" (pp. 218–233) — read before class
+- Bayne, Ch. 13: "The Self" (pp. 234–252) — read before class
+- Stump, *Wandering in Darkness*, Ch. 12: "The Story of Mary of Bethany"
+  (pp. 310–360)
+- Stump, *Wandering in Darkness*, Ch. 13: "Theodicy in Another World"
+  (pp. 361–393)
+
+Discussion question: Bayne's psychological approach to personal identity
+(pp. 243–247) holds that the self is constituted by psychological continuity.
+Stump argues the self is constituted by its deepest cares — the desires of the
+heart. Are these compatible? Can a naturalistic account of the self accommodate
+what Stump means by the desires of the heart?
+
+::: {.callout-tip}
+## Bayne Connection — Week 14
+Bayne Ch. 12 (pp. 221–231) discusses the reliability of introspection —
+the inner-sense account, the inferentialist account, and neo-Rylean approaches.
+Bayne Ch. 13 (pp. 234–252) presents dualism, animalism, the psychological
+approach, and the self as illusion. Stump's account of the desires of the heart
+(pp. 394–430, assigned next week) engages both: it claims the self is
+constituted by what it genuinely cares about, and that this is not always
+transparent to introspection. See the box on losing oneself (p. 237) and
+who wants to live forever (p. 247).
+:::
+
+::: {.callout-note}
+## Weekly Reflection 12
+Bayne argues introspection can be unreliable (pp. 218–233). Brogaard argues
+love can be unconscious. Stump argues what we *really* care about may not be
+fully transparent to us. Do these three claims reinforce each other? What follows
+for the philosophy of love if they do?
+:::
+
+---
+
+## Week 15 — 3rd DND Adventure + Final Confrontation *(Student-Led)* {#week-15}
+**Mon Nov 30 / Wed Dec 2**
+
+**Mon Nov 30:** *Adventure 3 — The Deflationist's Last Dungeon.*
+The party has suffered an irreplaceable loss. The Deflationist offers to remove
+the grief through therapeutic reconstruction — and on his terms, he is being
+genuinely helpful. The party must decide: should they accept his offer? To refuse,
+they must articulate what would be lost — what the grief *knows*, what it *honors*,
+what aspect of the self it constitutes — that reconstruction would erase.
+The DM plays The Deflationist using the full character sheet (all four claims).
+The party draws on everything from the course, especially:
+Brogaard Ch. 8 (pp. 211–246), Stump Ch. 9–13 (pp. 179–393),
+Nussbaum *LK* Ch. 11–12 (pp. 261–313), *Fragility* passage (Canvas),
+and Bayne Ch. 8 and 13 (pp. 133–152, 234–252).
+
+Readings to complete before class:
+
+- Stump, *Wandering in Darkness*, Ch. 14: "What We Care About" (pp. 394–430)
+- Stump, *Wandering in Darkness*, Ch. 15: "The Defense of the Defense"
+  (pp. 431–465)
+- Nussbaum, *Fragility of Goodness*, selected passage (Canvas)
+- Brogaard, Ch. 7: "He Is Just Not That into You" (pp. 179–210)
+- Brogaard, Ch. 8: "How to Fall Out of Love" (pp. 211–246)
+- Bayne, Conclusion: "The Mind-Body Problem" (pp. 255–257)
+
+**Wed Dec 2:** *Prinz Lecture 4 — The Mind-Body Problem.* *(Last day of class)*
+The instructor connects the final adventure to Bayne's Conclusion (pp. 255–257).
+Précis distributed. Has the course resolved the mind-body problem — or has it
+shown that the problem of love is the mind-body problem in its most personal
+and philosophically urgent form?
+
+Course synthesis: the instructor works through Bayne's full chapter list and
+asks for each: what has our investigation of love added to the standard account?
+
+::: {.callout-tip}
+## Bayne Connection — Week 15
+Bayne's Conclusion (pp. 255–257) returns to the mind-body problem as the
+organizing question of the discipline. The Deflationist's offer in Monday's
+adventure is a version of this problem made personal: if the mind is fully
+physical, grief is a malfunction to be repaired. Whether the party accepts or
+refuses the offer is effectively a vote on the mind-body problem. As you debrief
+on Wednesday, ask: has working through love, suffering, and the self over fifteen
+weeks given you a better grip on what is at stake in the mind-body problem than
+you would have gotten from working through it abstractly?
+:::
+
+::: {.callout-note}
+## Weekly Reflection 13 (Final)
+After four encounters with The Deflationist — and having worked through all
+fifteen weeks of Bayne alongside Brogaard, Nussbaum, and Stump — return to
+the question from Week 1: is love a gut reaction, a perception of value, or
+something more? Has your answer changed? What changed it?
+:::
+
+::: {.callout-tip}
+## Final Deliverables Due at Final Exam (Dec 8–11 — confirm date on Canvas)
+
+**Reflective Analysis 2:**
+Select three of Bayne's thirteen chapter topics. For each, write a substantial
+section (approximately 2–3 pages each) explaining how the primary texts in this
+course — Brogaard, Nussbaum, and Stump — advance, complicate, or challenge
+Bayne's account of that topic. Your analysis should show both mastery of Bayne's
+standard treatment and genuine philosophical engagement with the primary texts.
+Total length: 8–10 pages. Use the four-category rubric.
+
+**Essay 2:**
+Write a 4–5 page essay responding to the following: Should the party have
+accepted The Deflationist's offer in Adventure 3 — therapeutic reconstruction
+of grief? Defend your answer with reference to at least two primary texts and
+at least one concept from Bayne.
+:::
+
+---
+
+# Appendix A: Bayne Chapter Assignments with Page Ranges
+
+| Week | Date | Bayne Chapter | Pages |
+|---|---|---|---|
+| 1 | Mon Aug 24 | Introduction: A Map of the Mind | pp. 1–5 |
+| 1 | Mon Aug 24 | Ch. 1: Marks of the Mental | pp. 6–22 |
+| 2 | Mon Aug 31 | Ch. 2: Physicalism | pp. 24–36 |
+| 2 | Wed Sep 2 | Ch. 3: How to be a Physicalist | pp. 37–54 |
+| 5 | Mon Sep 21 | Ch. 4: Perception | pp. 56–75 |
+| 6 | Mon Sep 28 | Ch. 5: Thought | pp. 77–96 |
+| 7 | Mon Oct 5 | Ch. 6: Grounding Intentionality | pp. 98–115 |
+| 8 | Mon Oct 12 | Ch. 7: Externalism and the Extended Mind | pp. 117–130 |
+| 10 | Mon Oct 26 | Ch. 8: The Metaphysics of Consciousness | pp. 133–152 |
+| 11 | Mon Nov 2 | Ch. 9: Theories of Consciousness | pp. 154–175 |
+| 12 | Mon Nov 9 | Ch. 10: Mental Causation | pp. 178–194 |
+| 13 | Mon Nov 16 | Ch. 11: Other Minds | pp. 196–216 |
+| 14 | Mon Nov 23 | Ch. 12: Self-Knowledge | pp. 218–233 |
+| 14 | Mon Nov 23 | Ch. 13: The Self | pp. 234–252 |
+| 15 | Wed Dec 2 | Conclusion: The Mind-Body Problem | pp. 255–257 |
+
+---
+
+# Appendix B: Prinz Lecture Sessions
+
+| Week | Date | Prinz Source | Bayne Connection |
+|---|---|---|---|
+| 2 | Wed Sep 2 | *Gut Reactions* Ch. 3–4 | Ch. 2–3: Physicalism (pp. 24–54) |
+| 7 | Wed Oct 7 | *Emotional Construction* Intro + Ch. 1 | Ch. 6: Grounding Intentionality (pp. 98–115) |
+| 12 | Mon Nov 9 | *Emotional Construction* Ch. 8 | Ch. 10: Mental Causation (pp. 178–194) |
+| 15 | Wed Dec 2 | Full character sheet | Conclusion: Mind-Body Problem (pp. 255–257) |
+
+---
+
+# Appendix C: Primary Text Reading Schedule with Page Ranges
+
+## Brogaard, *On Romantic Love*
+- Ch. 1: "Letter from a Friend" (pp. 1–12) — Week 1, Mon Aug 24
+- Ch. 2: "The Chemistry of Love" (pp. 13–58) — Weeks 1–2
+- Ch. 4: "Irrational Love" (pp. 59–116) — Week 3, Wed Sep 9
+- Ch. 5: "Relationships and Insecure Attachment" (pp. 117–152) — Week 11, Wed Nov 4
+- Ch. 6: "Our Unconscious Affections" (pp. 153–178) — Week 11, Wed Nov 4
+- Ch. 7: "He Is Just Not That into You" (pp. 179–210) — Week 15, Mon Nov 30
+- Ch. 8: "How to Fall Out of Love" (pp. 211–246) — Week 15, Mon Nov 30
+
+## Nussbaum, *Love's Knowledge*
+- Ch. 1: Introduction (pp. 3–53) — Week 5, Mon Sep 21
+- Ch. 2: The Discernment of Perception (pp. 54–105) — Week 5, Wed Sep 23
+- Ch. 3: Plato on Commensurability and Desire (pp. 106–124) — Week 6, Mon Sep 28
+- Ch. 4: Flawed Crystals (pp. 125–147) — Week 6, Wed Sep 30
+- Ch. 5: Finely Aware and Richly Responsible (pp. 148–167) — Week 6, Wed Sep 30
+- Ch. 6: Perceptive Equilibrium (pp. 168–194) — Week 7, Mon Oct 5
+- Ch. 11: Love's Knowledge (pp. 261–285) — Week 12, Mon Nov 9
+- Ch. 12: Narrative Emotions (pp. 286–313) — Week 13, Wed Nov 18
+- Ch. 13: Love and the Individual (pp. 314–334) — Week 8, Mon Oct 12
+- Ch. 15: Transcending Humanity (pp. 365–391) — Week 15, Mon Nov 30
+
+## Stump, *Wandering in Darkness*
+- Ch. 1: Suffering, Theodicy, and Defense (pp. 3–24) — Week 10, Mon Oct 26
+- Ch. 2: Philosophy and Narrative (pp. 25–44) — Week 10, Mon Oct 26
+- Ch. 3: Narrative as a Means of Knowledge (pp. 45–70) — Week 10, Wed Oct 28
+- Ch. 4: Narrative and the Knowledge of Persons (pp. 71–90) — Week 10, Wed Oct 28
+- Ch. 5: The Nature of Love (pp. 91–111) — Week 8, Wed Oct 14
+- Ch. 6: Union, Presence, and Omnipresence (pp. 112–131) — Week 8, Wed Oct 14
+- Ch. 7: Willed Loneliness (pp. 132–154) — Week 11, Mon Nov 2
+- Ch. 8: Other-worldly Redemption (pp. 155–175) — Week 11, Mon Nov 2
+- Ch. 9: The Story of Job (pp. 179–225) — Week 13, Mon Nov 16
+- Ch. 10: The Story of Samson (pp. 226–262) — Week 13, Mon Nov 16
+- Ch. 11: The Story of Abraham (pp. 263–309) — Week 13, Wed Nov 18
+- Ch. 12: The Story of Mary of Bethany (pp. 310–360) — Week 14, Mon Nov 23
+- Ch. 13: Theodicy in Another World (pp. 361–393) — Week 14, Mon Nov 23
+- Ch. 14: What We Care About (pp. 394–430) — Week 15, Mon Nov 30
+- Ch. 15: The Defense of the Defense (pp. 431–465) — Week 15, Mon Nov 30
+
+## Nussbaum, *Fragility of Goodness* (Canvas excerpt)
+- Selected passage on love and vulnerability — Week 15, Mon Nov 30

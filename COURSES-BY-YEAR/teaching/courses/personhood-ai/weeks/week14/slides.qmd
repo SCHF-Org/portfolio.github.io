@@ -1,0 +1,36 @@
+---
+title: "Suffering from the Inside — Lewis"
+subtitle: "Personhood in the Age of AI"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    chalkboard: true
+    footer: "Personhood in the Age of AI | Dr. Reynolds | Stetson University"
+---
+
+## Today's Question
+
+> [Central question for this session]
+
+---
+
+## Key Concepts
+
+::: {.incremental}
+- [Concept 1]
+- [Concept 2]
+- [Concept 3]
+:::
+
+---
+
+## The Thought Experiment
+
+[How does today's reading bear on the developer/agent thought experiment?]
+
+---
+
+## Discussion
+
+[Discussion prompt]

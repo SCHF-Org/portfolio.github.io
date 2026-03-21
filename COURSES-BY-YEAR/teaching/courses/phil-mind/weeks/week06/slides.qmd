@@ -1,0 +1,55 @@
+---
+title: "Week 06 — [Title TBD]"
+subtitle: "PHIL 3XX — Philosophy of Mind | Fall 2026"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    chalkboard: true
+    footer: "PHIL 3XX — Philosophy of Mind | Dr. Reynolds | Stetson University"
+    logo: ../../../../shared/figures/logos/logo-x2.png
+---
+
+## Today's Question
+
+> [Central question for this week goes here.]
+
+---
+
+## Key Concepts
+
+::: {.incremental}
+- [Concept 1]
+- [Concept 2]
+- [Concept 3]
+:::
+
+---
+
+## [Slide Title]
+
+[Slide content goes here.]
+
+---
+
+## [Slide Title]
+
+[Slide content goes here.]
+
+---
+
+## Discussion
+
+[Discussion prompt or activity for class.]
+
+---
+
+## Coming Up
+
+- **Next session:** [Preview of next topic]
+- **Reading due:** [Reading assignment]
+
+::: {.callout-important}
+## Reading for Next Class
+[Reading assignment details]
+:::

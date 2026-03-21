@@ -1,0 +1,57 @@
+<!-- _schedule-tth.qmd — PHIL 101B Introduction to Philosophy         -->
+<!-- Sections 2 & 3: Tue/Thu, Flagler Hall 213                       -->
+<!-- Contains the appendix reading table only.                        -->
+<!-- Included in syllabus-s2.qmd and syllabus-s3.qmd.               -->
+<!-- Full week-by-week session content is in _weekly-tth.qmd.        -->
+
+## Important Dates
+
+| Date | Event |
+|---|---|
+| Thu Aug 20 | First day of class |
+| Thu Oct 8 | **Fall Break — No Class** |
+| Thu Nov 12 | **Values Day — No Class** |
+| Thu Nov 26 | **Thanksgiving Break — No Class** |
+| Thu Dec 3 | Last day of class |
+| Tue Oct 20 | Essay 1 due (Canvas) |
+| Tue Nov 3 | Reflective Analysis 1 due (Canvas) |
+| Dec 8–11 | Final Examinations |
+
+Note: Labor Day (Mon Sep 7) and Veterans Day (Wed Nov 11) do not affect
+this Tuesday/Thursday section.
+
+## Reading Schedule
+
+*Weeklies due every Tuesday starting Sep 1. Schedule subject to change —
+check Canvas regularly.*
+
+| Week | Date(s) | Reading | Notes |
+|---|---|---|---|
+| 1 | Thu Aug 20 | Introduction | First class (Thu only) |
+| 2 | Tue Aug 25 | Ch. 1: Is This the Real Life? | |
+| 2 | Thu Aug 27 | Ch. 2: Simulation Hypothesis | |
+| 3 | Tue Sep 1 | Ch. 3: Do We Know Things? | |
+| 3 | Thu Sep 3 | Ch. 4: External World | |
+| 4 | Tue Sep 8 | Ch. 5: Likely in a Simulation? | 1st DND Adventure |
+| 4 | Thu Sep 10 | Debrief | |
+| 5 | Tue Sep 15 | Ch. 6: What Is Reality? | |
+| 5 | Thu Sep 17 | Ch. 7: Is God a Hacker? | |
+| 6 | Tue Sep 22 | Ch. 8: Universe of Information? | |
+| 6 | Thu Sep 24 | Ch. 9: Its from Bits? | |
+| 7 | Tue Sep 29 | Ch. 10: VR Headsets Create Reality? | |
+| 7 | Thu Oct 1 | Ch. 11: VR Illusion Machines? | |
+| 8 | Tue Oct 6 | Ch. 12–13 (combined) | Fall Break Thu; 2nd DND Adventure |
+| 9 | Tue Oct 13 | Ch. 14: Mind and Body in VR? | |
+| 9 | Thu Oct 15 | Ch. 15: Consciousness in Digital World? | Essay 1 due Tue Oct 20 |
+| 10 | Tue Oct 20 | Ch. 16: AR Extends the Mind? | |
+| 10 | Thu Oct 22 | Ch. 16 (continued) | 3rd DND Adventure |
+| 11 | Tue Oct 27 | Ch. 17: Good Life in VR? | |
+| 11 | Thu Oct 29 | Ch. 18: Simulated Lives Matter? | RA 1 due Tue Nov 3 |
+| 12 | Tue Nov 3 | Ch. 19: Virtual Society? | |
+| 12 | Thu Nov 5 | Ch. 20: Words in Virtual Worlds? | |
+| 13 | Tue Nov 10 | Ch. 21–22 (combined) | Values Day Thu; 4th DND Adventure |
+| 14 | Tue Nov 17 | Ch. 23: Virtual Eden? | |
+| 14 | Thu Nov 19 | Ch. 24: Boltzmann Brains? | |
+| 15 | Tue Nov 24 | Review Chs. 1–24 | Thanksgiving Thu; 5th DND Adventure |
+| 16 | Tue Dec 1 | Course synthesis | |
+| 16 | Thu Dec 3 | Final review | Last day |

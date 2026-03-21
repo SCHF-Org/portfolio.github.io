@@ -1,0 +1,322 @@
+---
+title: "Philo Lab: Philosophical Laboratory"
+subtitle: "Philosophy Through Virtual Worlds — Course Vision and Development Notes"
+author: "Dr. Montaque Reynolds"
+date: "In Active Development"
+---
+
+# Course Vision
+
+## The Core Idea
+
+Philosophers defend their positions through thought experiments —
+stripped-down stories designed to test intuitions by imagining tough
+decisions. This course builds on that idea by treating massively
+multiplayer online games as **interactive laboratories for philosophy**.
+Virtual worlds become testing grounds for real moral and ethical
+questions, and the laboratory session replaces the seminar as the
+primary pedagogical unit.
+
+The key insight is that a game world offers something a thought
+experiment cannot: **consequence**. When you imagine the trolley
+problem, nothing actually happens. When you board a cargo ship in
+Star Citizen and decide whether to compensate the crew fairly, your
+choice has effects that unfold in real time, affect other players,
+and cannot be fully anticipated in advance. This makes the moral
+reasoning more demanding and more honest.
+
+The course is modeled explicitly on a **laboratory science course**,
+not a humanities seminar. Students complete pre-lab reading, perform
+in-game activities following documented procedures, record their
+choices and their consequences, debrief with the group, and write
+reflective analyses. The grading structure rewards preparation,
+technique, and quality of philosophical analysis — not just the
+written product.
+
+## The Development Trajectory
+
+The course is currently in three phases of development:
+
+**Phase 1 (Spring 2026 — current):** D&D-style philosophical
+adventure sessions as a proof of concept. Students engage with
+philosophical problems through collaborative narrative rather than
+in-game action. This phase tests the debrief and reflection
+structure without requiring game access.
+
+**Phase 2 (Summer/Fall 2026):** Portal 2 cooperative puzzles.
+Approximately 30 licenses available. Portal 2 provides a controlled,
+accessible environment with a built-in philosophical frame: GLaDOS
+as an ambiguous consciousness, cooperative puzzles that raise
+questions about trust and shared agency, and a narrative about
+test subjects who do not know the full story of their situation.
+Primary text: Chalmers' *Reality+* (already in use in Introduction
+to Philosophy).
+
+**Phase 3 (Target: 2027–2028):** Star Citizen and/or Elite Dangerous
+as the primary laboratory environment. This is the full realization
+of the course vision — a persistent, player-driven universe where
+moral choices have genuine consequences and the philosophical
+questions are embedded in the world itself rather than imported
+from outside.
+
+---
+
+# Phase 2 Course Structure: Portal 2 Version
+
+## Course Description
+
+Using Valve's Portal 2 as a philosophical laboratory, students explore
+questions in philosophy of mind, ethics, and metaphysics through
+cooperative puzzle-solving and structured reflection. Portal 2 is
+chosen for Phase 2 because it is:
+
+- **Accessible** — available on most hardware, low system requirements
+- **Cooperative** — designed for two-player play, raising questions
+  about trust, shared agency, and communication
+- **Philosophically rich** — GLaDOS raises questions about consciousness
+  and moral status; the test chamber structure raises questions about
+  autonomy and the ethics of experimentation; the narrative raises
+  questions about memory, identity, and what it means to be a person
+
+Primary text: Chalmers, David J. *Reality+*. Penguin, 2022.
+
+## Connection to Primary Text
+
+*Reality+* is the bridge between Introduction to Philosophy and
+Philo Lab. Students who have taken Intro already know Chalmers'
+framework. Philo Lab extends it: instead of reading about virtual
+worlds and consciousness, students inhabit a virtual world and ask
+the same questions from the inside.
+
+Specific connections:
+
+| Portal 2 Element | *Reality+* Chapter | Philosophical Question |
+|---|---|---|
+| GLaDOS's consciousness | Ch. 15: Digital consciousness | Is there something it is like to be GLaDOS? |
+| Test chambers as designed world | Ch. 6: What is reality? | Is the test chamber real? |
+| Cooperative puzzles | Ch. 16: Extended mind | Does cooperation extend the mind? |
+| Cave Johnson's recordings | Ch. 14: Mind/body in VR | Can a personality be uploaded? |
+| Chell's amnesia | Ch. 12–13: Self-knowledge | What constitutes personal identity? |
+
+## Draft Lab Schedule — Portal 2 Version
+
+### Lab 1: Entering the Chamber
+
+**Pre-lab reading:** Chalmers, *Reality+*, Ch. 1–2 (Is this the real
+life? The simulation hypothesis)
+
+**In-game activity:** Complete the Portal 2 tutorial cooperatively.
+Document your first impressions of GLaDOS. Record: what kind of
+entity does GLaDOS seem to be? What evidence supports your assessment?
+
+**Debrief:** What is the ontological status of the test chambers?
+Are they real spaces? Is your avatar a real agent?
+
+**Reflection prompt:** Chalmers argues that virtual objects are real
+objects. Does your experience of the test chamber support or
+challenge this claim? (500 words)
+
+---
+
+### Lab 2: GLaDOS and the Problem of Other Minds
+
+**Pre-lab reading:** Nagel, "What Is It Like to Be a Bat?" (handout)
+Turing, "Computing Machinery and Intelligence" (handout, excerpts)
+
+**In-game activity:** Complete Cooperative Test Initiative chambers
+1–3. Document every GLaDOS utterance. Categorize: which utterances
+suggest genuine inner states? Which could be explained purely
+mechanically?
+
+**Debrief:** Apply the Turing test to GLaDOS. Does she pass? Does
+passing the Turing test establish consciousness?
+
+**Reflection prompt:** Is there something it is like to be GLaDOS?
+Use Nagel's framework to defend your answer. (500 words)
+
+---
+
+### Lab 3: Trust, Cooperation, and Shared Agency
+
+**Pre-lab reading:** Chalmers, *Reality+*, Ch. 16 (Extended mind)
+Aristotle, *Nicomachean Ethics*, Book VIII Ch. 1–3 (on friendship,
+handout)
+
+**In-game activity:** Complete Cooperative Test Initiative chambers
+4–6. At least once, deliberately mislead your partner (with their
+prior consent). Document the effect on cooperation and on your
+own sense of the activity.
+
+**Debrief:** What virtues does cooperative puzzle-solving require?
+What is the moral status of deception in a game context?
+
+**Reflection prompt:** Aristotle distinguishes friendships of utility,
+pleasure, and virtue. Which kind of friendship does cooperative
+Portal 2 play constitute — and can a virtual cooperative relationship
+be a genuine friendship? (600 words)
+
+---
+
+### Lab 4: Autonomy and the Ethics of Experimentation
+
+**Pre-lab reading:** Chalmers, *Reality+*, Ch. 17–18 (Good life in
+VR; simulated lives matter)
+
+**In-game activity:** Complete Cooperative Test Initiative chambers
+7–9. Pay attention to the narrative: you are test subjects. GLaDOS
+designed the tests. You did not consent to the experiment. Document
+your responses to this framing.
+
+**Debrief:** Is it ethical to run experiments on beings who cannot
+consent? Does the fact that the test subjects are avatars change
+the analysis? Does the fact that GLaDOS may be conscious change
+your assessment of her as an experimenter?
+
+**Reflection prompt:** Chalmers argues that simulated lives matter
+morally. If your avatar matters morally, does GLaDOS owe it anything?
+What does GLaDOS owe you as the player? Are these the same question?
+(700 words)
+
+---
+
+### Lab 5: Identity, Memory, and What Survives
+
+**Pre-lab reading:** Chalmers, *Reality+*, Ch. 14–15 (Mind/body in
+VR; digital consciousness)
+Locke, *Essay*, Ch. 27 excerpt (handout)
+
+**In-game activity:** Complete the final cooperative chambers.
+Document the narrative resolution. Record: what happens to the
+characters? What persists? What is lost?
+
+**Debrief:** Cave Johnson planned to upload his personality into
+GLaDOS. If he had succeeded, would the result have been Cave Johnson?
+Apply Locke's psychological continuity theory.
+
+**Reflection prompt (final lab reflection, 1000 words):**
+Over five laboratory sessions you have examined virtual consciousness,
+trust, autonomy, and identity from the inside of a virtual world.
+What has the laboratory format revealed that reading about these
+problems alone could not? What remains unresolved? What question
+would you want the next laboratory session to investigate?
+
+---
+
+# Phase 3 Vision: Star Citizen / Elite Dangerous
+
+## Why These Games
+
+Star Citizen and Elite Dangerous are chosen for Phase 3 because they
+are **persistent, player-driven universes** where:
+
+- Your choices affect other players in real time
+- Moral consequences are not scripted but emergent
+- The philosophical questions are embedded in the world rather than
+  imported from outside
+- The scale and detail of the worlds make the ontological questions
+  vivid in a way smaller games cannot
+
+## Planned Lab Activities
+
+### The Recycling Lab (Objects and Ontology)
+
+Students collect discarded virtual objects and place them in
+recycling bins. This has a dual function: it cleans up server
+debris (improving game performance) and raises philosophical
+questions about the ontology of virtual objects.
+
+**Philosophical questions:**
+- What kind of thing is a virtual object?
+- When you delete a virtual object, have you destroyed something?
+- Is there a morally relevant difference between deleting virtual
+  debris and deleting a virtual entity that responds to you?
+
+**Primary texts:** Chalmers on virtual objects (*Reality+* Ch. 6–9);
+Floridi on information objects (handout)
+
+### The Art Tour (Aesthetics in Virtual Worlds)
+
+Students tour artworks embedded in the game world — Pedro Macedo
+Camacho's orbital installations in Star Citizen, station architecture
+in Elite Dangerous — and ask whether these constitute genuine works
+of art or mere placeholders.
+
+**Philosophical questions:**
+- What makes something a work of art rather than decoration?
+- Does the intentionality of the artist translate into the virtual
+  medium?
+- Can a virtual artwork move you in the way a physical artwork can?
+  If it can, what does that tell us about what art is for?
+
+**Primary texts:** Aristotle on mimesis (handout); Hegel on art as
+the sensuous presentation of the idea (handout); Walton on fiction
+and make-believe (handout)
+
+### The Piracy Dilemma (Ethics and Justice)
+
+Students complete a mission that involves a morally ambiguous choice:
+disable another player's ship, take their cargo, and decide how much
+(if anything) to compensate them.
+
+**Philosophical questions:**
+- What principles of justice apply in a virtual world?
+- Does the fact that it is "just a game" change the moral analysis?
+- What is the relationship between in-game character and real-world
+  character development?
+
+**Primary texts:** Aristotle on justice (*Nicomachean Ethics* V);
+Rawls on the veil of ignorance (handout)
+
+### The Cargo Hauling Lab (Virtue and Vocation)
+
+Students complete a multi-step hauling contract as a group — a
+humble, unglamorous task requiring coordination, trust, and patience.
+
+**Philosophical questions:**
+- Is there virtue in choosing a humble vocation?
+- What is the relationship between in-game career choices and
+  real-world character development?
+- Russell argued for the value of idleness — is hauling cargo
+  idleness or meaningful work?
+
+**Primary texts:** Aristotle on the virtues; Russell, "In Praise of
+Idleness" (1932)
+
+---
+
+# Grading Structure
+
+The laboratory science grading model is retained across all phases:
+
+| Component | Points |
+|---|---|
+| Lab Quiz (5 total) | 20 pts each |
+| Pre-lab preparation (notebook) | 5 pts each |
+| Factual record (in-game documentation) | 5 pts each |
+| Technique and engagement | 5 pts each |
+| Lab Reflection (written) | 65 pts each |
+| **Total per session** | **100 pts** |
+
+All laboratory sessions must be successfully completed to receive
+a passing grade. No grade is given for a session without the
+laboratory reflection.
+
+---
+
+# Notes on Course Classification
+
+Philo Lab is listed under the Saleno Center for Human Flourishing
+(SCHF002) rather than under Stetson's standard philosophy curriculum.
+As it develops toward Phase 3, it could be adapted for university
+credit under:
+
+- Philosophy of Technology
+- Applied Ethics
+- Philosophy of Art (aesthetics component)
+- Independent Study / Capstone
+
+The course is intentionally interdisciplinary and does not fit
+cleanly into any single departmental category. This is a feature
+rather than a bug — the lab format is most valuable precisely because
+it crosses the boundaries between philosophy, game studies, and
+experiential education.

@@ -1,0 +1,146 @@
+# courses/phil-mind/_quarto.yml
+# Course-specific website configuration.
+# Merged with root _quarto.yml when rendering --profile website.
+
+project:
+  type: website
+  output-dir: ../../_output/website/phil-mind
+  render:
+    - "syllabus.qmd"
+    - "weeks/*/slides.qmd"
+    - "weeks/*/summary.qmd"
+
+website:
+  title: "PHIL 3XX — Philosophy of Mind"
+  favicon: ../../shared/figures/icons/course_favicon.png
+  sidebar:
+    style: docked
+    contents:
+      - section: "Syllabus"
+        contents:
+          - href: syllabus.qmd
+            text: "Syllabus"
+      - section: "🗓️ Course Schedule"
+        contents:
+          - href: weeks/week01/slides.qmd
+            text: "Week 01"
+            contents:
+              - href: weeks/week01/slides.qmd
+                text: "👨‍🏫 Slides"
+              - href: weeks/week01/summary.qmd
+                text: "💻 Notes and Summary"
+          - href: weeks/week02/slides.qmd
+            text: "Week 02"
+            contents:
+              - href: weeks/week02/slides.qmd
+                text: "👨‍🏫 Slides"
+              - href: weeks/week02/summary.qmd
+                text: "💻 Notes and Summary"
+          - href: weeks/week03/slides.qmd
+            text: "Week 03"
+            contents:
+              - href: weeks/week03/slides.qmd
+                text: "👨‍🏫 Slides"
+              - href: weeks/week03/summary.qmd
+                text: "💻 Notes and Summary"
+          - href: weeks/week04/slides.qmd
+            text: "Week 04"
+            contents:
+              - href: weeks/week04/slides.qmd
+                text: "👨‍🏫 Slides"
+              - href: weeks/week04/summary.qmd
+                text: "💻 Notes and Summary"
+          - href: weeks/week05/slides.qmd
+            text: "Week 05"
+            contents:
+              - href: weeks/week05/slides.qmd
+                text: "👨‍🏫 Slides"
+              - href: weeks/week05/summary.qmd
+                text: "💻 Notes and Summary"
+          - href: weeks/week06/slides.qmd
+            text: "Week 06"
+            contents:
+              - href: weeks/week06/slides.qmd
+                text: "👨‍🏫 Slides"
+              - href: weeks/week06/summary.qmd
+                text: "💻 Notes and Summary"
+          - href: weeks/week07/slides.qmd
+            text: "Week 07"
+            contents:
+              - href: weeks/week07/slides.qmd
+                text: "👨‍🏫 Slides"
+              - href: weeks/week07/summary.qmd
+                text: "💻 Notes and Summary"
+          - href: weeks/week08/slides.qmd
+            text: "Week 08"
+            contents:
+              - href: weeks/week08/slides.qmd
+                text: "👨‍🏫 Slides"
+              - href: weeks/week08/summary.qmd
+                text: "💻 Notes and Summary"
+          - href: weeks/week09/slides.qmd
+            text: "Week 09"
+            contents:
+              - href: weeks/week09/slides.qmd
+                text: "👨‍🏫 Slides"
+              - href: weeks/week09/summary.qmd
+                text: "💻 Notes and Summary"
+          - href: weeks/week10/slides.qmd
+            text: "Week 10"
+            contents:
+              - href: weeks/week10/slides.qmd
+                text: "👨‍🏫 Slides"
+              - href: weeks/week10/summary.qmd
+                text: "💻 Notes and Summary"
+          - href: weeks/week11/slides.qmd
+            text: "Week 11"
+            contents:
+              - href: weeks/week11/slides.qmd
+                text: "👨‍🏫 Slides"
+              - href: weeks/week11/summary.qmd
+                text: "💻 Notes and Summary"
+          - href: weeks/week12/slides.qmd
+            text: "Week 12"
+            contents:
+              - href: weeks/week12/slides.qmd
+                text: "👨‍🏫 Slides"
+              - href: weeks/week12/summary.qmd
+                text: "💻 Notes and Summary"
+          - href: weeks/week13/slides.qmd
+            text: "Week 13"
+            contents:
+              - href: weeks/week13/slides.qmd
+                text: "👨‍🏫 Slides"
+              - href: weeks/week13/summary.qmd
+                text: "💻 Notes and Summary"
+          - href: weeks/week14/slides.qmd
+            text: "Week 14"
+            contents:
+              - href: weeks/week14/slides.qmd
+                text: "👨‍🏫 Slides"
+              - href: weeks/week14/summary.qmd
+                text: "💻 Notes and Summary"
+          - href: weeks/week15/slides.qmd
+            text: "Week 15"
+            contents:
+              - href: weeks/week15/slides.qmd
+                text: "👨‍🏫 Slides"
+              - href: weeks/week15/summary.qmd
+                text: "💻 Notes and Summary"
+
+  navbar:
+    background: primary
+  page-footer:
+    background: light
+    left: "Copyright 2026, Montaque Reynolds"
+
+format:
+  html:
+    theme:
+      light:
+        - journal
+        - ./../../shared/css/custom.scss
+    css:
+      - ./../../shared/css/custom_style.css
+      - ./../../shared/css/syllabus.css
+    toc: true

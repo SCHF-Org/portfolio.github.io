@@ -1,0 +1,24 @@
+---
+title: "Introduction"
+---
+
+# Teaching Philosophy
+
+<!-- Replace this section with your own teaching philosophy statement. -->
+
+My approach to teaching philosophy centers on three commitments:
+argument, narrative, and collaboration. I believe students learn
+philosophical reasoning best when abstract problems are made concrete
+through story and interactive engagement.
+
+The use of D&D-style adventure sessions in my courses is not merely
+a pedagogical novelty. It reflects a view that philosophy is essentially
+a collaborative, high-stakes activity — one where positions must be
+defended under pressure, where objections arrive unexpectedly, and
+where the quality of your reasoning determines the outcome.
+
+## Courses Documented in This Portfolio
+
+- **PHIL 3XX — Philosophy of Mind** (Fall 2026)
+- **PHIL 101B — Introduction to Philosophy** (Spring 2026)
+- **PHIL 101B — Introduction to Logic** (Spring 2026)

@@ -1,0 +1,43 @@
+---
+title: "GLaDOS and the Problem of Other Minds"
+---
+
+<!-- notes.qmd — Philo Lab                                          -->
+<!-- Portfolio: full lab prep notes visible here.                   -->
+
+## Pre-Lab Reading
+
+- [Reading TBD]
+
+## In-Game Activity
+
+::: {.instructor-only}
+**Procedure:** [Step-by-step lab procedure goes here.]
+
+**What to watch for:** [Key moments to flag during the activity.]
+
+**Contingency:** [What to do if the game is unavailable or
+players encounter technical issues.]
+:::
+
+## Debrief Questions
+
+1. [Debrief question 1]
+
+2. [Debrief question 2]
+
+3. [Debrief question 3]
+
+## Reflection Prompt
+
+::: {.callout-note}
+## Lab Reflection
+[Reflection prompt goes here. 500–1000 words.]
+:::
+
+## Grading Notes
+
+::: {.instructor-only}
+**What to look for:** [Key philosophical concepts students should
+demonstrate. Common errors to watch for.]
+:::

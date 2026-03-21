@@ -1,0 +1,41 @@
+/*-- scss:defaults --*/
+
+$primary:   #1F4E79;
+$secondary: #2E75B6;
+
+/*-- scss:rules --*/
+
+// Instructor note boxes
+.instructor-only {
+  background-color: #fff8e1;
+  border-left: 4px solid #f59e0b;
+  padding: 0.75rem 1rem;
+  margin: 1rem 0;
+  border-radius: 0 4px 4px 0;
+}
+
+// Chapter headings
+h1.title {
+  color: $primary;
+  border-bottom: 3px solid $secondary;
+  padding-bottom: 0.5rem;
+}
+
+// Week section headings
+h2 {
+  color: $secondary;
+  margin-top: 2.5rem;
+}
+
+// Discussion question lists
+ol.discussion-questions li {
+  margin-bottom: 0.75rem;
+  line-height: 1.6;
+}
+
+// Timing notes inside instructor blocks
+.timing-note {
+  font-size: 0.85rem;
+  color: #6b7280;
+  font-style: italic;
+}

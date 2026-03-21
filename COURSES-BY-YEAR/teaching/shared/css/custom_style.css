@@ -1,0 +1,32 @@
+/* custom_style.css */
+/* Applied to all website-profile pages */
+
+/* Instructor-only content: hidden on website, shown in portfolio */
+/* (The portfolio profile overrides this via inline <style> in _quarto.yml) */
+.instructor-only {
+  display: none;
+}
+
+/* Margin header logo */
+.margin-header img {
+  max-width: 80px;
+}
+
+/* Better spacing for reading schedule tables */
+.schedule-table td,
+.schedule-table th {
+  padding: 0.4rem 0.6rem;
+  vertical-align: top;
+}
+
+/* Week section dividers */
+.week-divider {
+  border: none;
+  border-top: 1px solid #D6E4F0;
+  margin: 2rem 0;
+}
+
+/* DND callout styling */
+.callout-important .callout-title {
+  background-color: #7c3aed22;
+}

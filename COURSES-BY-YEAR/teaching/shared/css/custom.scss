@@ -1,0 +1,43 @@
+/*-- scss:defaults --*/
+
+// Color palette
+$primary:   #1F4E79;
+$secondary: #2E75B6;
+$light:     #D6E4F0;
+
+// Typography
+$font-size-base: 1rem;
+$line-height-base: 1.6;
+
+/*-- scss:rules --*/
+
+// Sidebar
+.sidebar {
+  font-size: 0.9rem;
+}
+
+// Callout boxes
+.callout-tip {
+  border-left-color: $secondary;
+}
+
+.callout-note {
+  border-left-color: $primary;
+}
+
+// Week heading spacing
+h2 {
+  margin-top: 2rem;
+  padding-top: 0.5rem;
+  border-top: 2px solid $light;
+}
+
+// Tables
+table {
+  font-size: 0.9rem;
+}
+
+// Code blocks
+pre.sourceCode {
+  font-size: 0.85rem;
+}

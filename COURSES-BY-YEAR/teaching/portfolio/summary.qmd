@@ -1,0 +1,18 @@
+---
+title: "Summary"
+---
+
+# Summary
+
+<!-- Replace this section with your own summary statement. -->
+
+This portfolio documents three courses developed and delivered at
+Stetson University. Each course section begins with the student-facing
+syllabus and is followed by week-by-week lecture notes and session
+preparation materials.
+
+The materials in this portfolio represent a unified approach to course
+design: the same content serves multiple purposes depending on the
+audience. Students see the syllabus, slides, and reading summaries.
+The full portfolio, including instructor notes, is for professional
+documentation and self-reference.

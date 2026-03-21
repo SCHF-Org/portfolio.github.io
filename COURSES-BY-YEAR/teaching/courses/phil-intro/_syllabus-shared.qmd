@@ -1,0 +1,209 @@
+<!-- _syllabus-shared.qmd                                            -->
+<!-- Shared course content for all three sections of PHIL 101B.     -->
+<!-- Included by syllabus-s1.qmd, syllabus-s2.qmd, syllabus-s3.qmd -->
+<!-- Do not include section-specific dates or room info here.        -->
+
+---
+
+# Course Description
+
+In this course we use David Chalmers' book *Reality+: Virtual Worlds and
+the Problems of Philosophy* to look at questions humans have been asking
+for thousands of years. While the primary focus of the book is one
+question in particular — "Are we in a simulation?" — we use that question
+to frame others:
+
+- What does it mean to know that the sky is blue?
+- Is murder really wrong?
+- How did I come to know that murder is wrong?
+- What is real?
+- Can a virtual world be a real world?
+
+We will not only look at contemporary issues about AI and simulation
+theory, but will also examine how philosophers of the past posed and
+attempted to answer these questions. In doing so we will explore
+epistemology (theory of knowledge), metaphysics (the nature of reality),
+philosophy of mind, and ethics.
+
+A primary objective of this course is to teach students how to construct
+good arguments and how to assess the arguments of others.
+
+---
+
+# Required Texts
+
+- Chalmers, David J. *Reality+: Virtual Worlds and the Problems of
+  Philosophy*. Penguin Books, 2022.
+  [Amazon link](https://www.amazon.com/Reality-Virtual-Worlds-Problems-Philosophy/dp/0393635805)
+
+The course will also be supplemented with handouts distributed in class
+and posted to Canvas.
+
+---
+
+# Course Expectations
+
+- Come prepared to engage with assigned readings in class, referencing
+  specific passages as prompted by the instructor.
+- Bring physical or digital copies of readings to class for annotation
+  and short reflections.
+- Submit all assignments via Canvas by the due date.
+- Active participation and regular attendance are essential for success.
+- Check your Stetson email and Canvas accounts frequently — daily if
+  possible. Technology issues are not accepted as excuses for late or
+  missing work.
+
+---
+
+# Grading
+
+## Assignment Breakdown
+
+| Assignment | Points |
+|---|---|
+| Weekly Reflections (best 8 of 12, 8 pts each) | 32 pts |
+| Reflective Analysis 1 & 2 (80 pts each) | 160 pts |
+| Essay 1 & 2 (40 pts each) | 80 pts |
+| DND Presentation / Participation | 96 pts |
+| Attendance | 32 pts |
+| **Total** | **400 pts** |
+
+## Grading Scale
+
+| Grade | Percentage |
+|---|---|
+| A | 93–100% |
+| A- | 90–92% |
+| B+ | 87–89% |
+| B | 83–86% |
+| B- | 80–82% |
+| C+ | 77–79% |
+| C | 73–76% |
+
+## Attendance
+
+Attendance is worth 32 points (5% of the final grade), calculated as follows:
+
+| Unexcused Absences | Points |
+|---|---|
+| 0–1 | 32 pts |
+| 2 | 24 pts |
+| 3–4 | 16 pts |
+| 5–6 | 8 pts |
+| 6+ | 0 pts |
+
+## Assignment Rubric
+
+All written assignments (Reflective Analyses and Essays) are graded on
+four dimensions. For each dimension:
+
+- **Excellent:** Full points for that category
+- **Good:** 3/4 of possible points
+- **Needs Improvement:** 1/2 of possible points
+- **Unacceptable:** 1/4 of possible points
+
+### Thesis
+- **Excellent:** A single, clear statement of your main point.
+- **Good:** Thesis is present and fairly obvious, but not in one sharp sentence.
+- **Needs Improvement:** Thesis must be reconstructed from throughout the paper.
+- **Unacceptable:** No real thesis at all.
+
+### Premises
+- **Excellent:** Every reason is clearly stated; you distinguish basic premises
+  from defended ones; sub-arguments are provided for controversial claims;
+  basic premises are plausibly true.
+- **Good:** Premises are mostly clear; sub-arguments appear for controversial
+  points; basic premises are plausible.
+- **Needs Improvement:** Premises are hard to identify; missing sub-arguments;
+  basic premises may be questionable.
+- **Unacceptable:** No real premises, or premises are very likely false.
+
+### Support
+- **Excellent:** Premises clearly and strongly support the thesis; argument is
+  logically valid or makes the conclusion very plausible.
+- **Good:** Premises support the thesis reasonably well; argument is valid or
+  makes the conclusion plausible.
+- **Needs Improvement:** Premises only weakly support the thesis; argument is
+  invalid and conclusion is not made plausible.
+- **Unacceptable:** Premises do not support the thesis at all.
+
+### Student Response (Engagement with Objections)
+- **Excellent:** You thoughtfully address both obvious and less-obvious
+  objections, counterexamples, or opposing views, with original replies.
+- **Good:** You address the most obvious objections with reasonable responses.
+- **Needs Improvement:** You miss obvious objections, or responses are weak.
+- **Unacceptable:** You ignore objections and opposing positions entirely.
+
+*Note: Oral appeals for grade changes are not accepted. If you believe
+you have an extremely strong case, you may submit a one-page written appeal
+within one week of the work being returned.*
+
+---
+
+# DND Adventures
+
+This course uses D&D-style adventure sessions to encourage collaborative
+philosophical engagement. Students form groups of 5. Each group member
+takes one turn as Dungeon Master (DM), presenting the assigned reading
+as a philosophical quest or dungeon that the party must navigate.
+
+Your DND participation grade depends on preparation and active engagement.
+Keep your adventure tracker sheets — submitting a complete scorecard earns
+full credit. Tracker sheets are available on the course Google Drive.
+
+For full DND rules and the adventure sheet, see the DND Addendum on Canvas.
+
+---
+
+# Academic Policies
+
+## Academic Integrity
+All work you submit must be your own. Sign all submissions:
+*"Pledged, [your name]."* Any contribution from others must be clearly
+acknowledged. Academic dishonesty — including plagiarism, unauthorized
+collaboration, and misrepresentation — will be referred to the Academic
+Honor Council and may result in suspension or dismissal.
+Honor code: http://www.stetson.edu/honorsystem/
+
+## Late Work
+All assignments must be submitted on time. Late work is docked a
+half-letter grade per day unless an extension is approved before the
+due date. Student athletes and others with school-related travel must
+submit work before departing.
+
+## Accommodations
+If you anticipate barriers related to the format or requirements of
+this course, please meet with me early in the semester. If
+disability-related accommodations are necessary, register with the
+Academic Success Center:
+
+- Phone: 386-822-7127
+- Website: www.stetson.edu/asc
+
+Free tutoring is also available through the ASC: www.stetson.edu/asc/tutoring/php
+
+## Writing Center
+Located on the second floor of the library.
+Hours: Wednesdays 2–6 PM, Fridays 12–3 PM.
+One or two visits can make a significant difference in the quality of
+your written work.
+
+## Food Insecurity
+The Hatters Helping Hatters Food Pantry is available to all Stetson
+students, staff, and faculty — free and no questions asked.
+Location: Carlton Union Building (CUB 278), open 24 hours.
+
+## Counseling Center
+Phone: 386-822-8900 | Location: Griffith Hall
+Hours: Weekdays 8:00 AM–4:30 PM
+After-hours emergencies: Public Safety 386-822-7300
+(ask for the on-call counselor).
+Crisis line: 386-822-8740 — Option 1 for thoughts of harm;
+Option 9 for all other mental health needs.
+Medical emergencies: call 911.
+
+## Recording Policy
+Any recordings of class (audio, video, or otherwise) may only be used
+for personal academic purposes and may not be shared without the
+professor's written consent. Violation will be reported to the Office
+of Community Standards.

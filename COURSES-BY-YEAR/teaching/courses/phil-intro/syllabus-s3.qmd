@@ -1,0 +1,30 @@
+---
+title: "PHIL 101B — Introduction to Philosophy"
+subtitle: "Value, Meaning, and Humanity's Place in the Modern World"
+author: "Dr. Monty Reynolds"
+date: "Fall 2026"
+---
+
+# Course Information
+
+| | |
+|---|---|
+| **Section** | 3 |
+| **Meeting Times** | Tuesdays and Thursdays, 2:30–3:45 PM |
+| **Room** | Flagler Hall 213 |
+| **Dates** | August 20 – December 3, 2026 |
+| **Credits** | 3 |
+
+**Instructor:** Dr. Monty Reynolds
+📧 mreynolds1@stetson.edu
+🏢 Elizabeth Hall 104
+**Office Hours:** Tuesdays 1:00–3:00 PM | Thursdays 1:00–3:00 PM
+Drop in, email, or book via Microsoft Bookings (link on Canvas).
+
+---
+
+{{< include _syllabus-shared.qmd >}}
+
+## Course Schedule
+
+{{< include _schedule-tth.qmd >}}

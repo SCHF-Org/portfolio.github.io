@@ -1,0 +1,34 @@
+---
+title: "Entering the Chamber — Ontology of Virtual Worlds"
+subtitle: "Philo Lab: Philosophical Laboratory"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    chalkboard: true
+    footer: "Philo Lab | Dr. Reynolds"
+---
+
+## Today's Lab
+
+> [Central philosophical question for this session]
+
+---
+
+## Pre-Lab Check
+
+- Did you complete the reading?
+- Do you have your lab notebook?
+- Is your game client ready?
+
+---
+
+## Procedure Overview
+
+[Brief overview of today's in-game activity]
+
+---
+
+## Debrief
+
+[Key debrief questions]

@@ -1,0 +1,241 @@
+<!-- _schedule.qmd for phil-logic -->
+<!-- SINGLE SOURCE OF TRUTH for all dates and readings.      -->
+<!-- Include this file wherever the schedule is needed:      -->
+<!--   {{< include _schedule.qmd >}}                        -->
+<!-- Never edit the schedule in any other file.              -->
+
+## Important Dates
+
+| Date | Event |
+|---|---|
+| TBD | First day of class |
+| TBD | Last day of class |
+| TBD | Final Examinations |
+
+---
+
+
+### Week 01 {#week01}
+
+**Mon/Wed** *(dates TBD)*
+
+**Mon:**
+
+- Reading TBD
+
+**Wed:**
+
+- Reading TBD
+
+---
+
+### Week 02 {#week02}
+
+**Mon/Wed** *(dates TBD)*
+
+**Mon:**
+
+- Reading TBD
+
+**Wed:**
+
+- Reading TBD
+
+---
+
+### Week 03 {#week03}
+
+**Mon/Wed** *(dates TBD)*
+
+**Mon:**
+
+- Reading TBD
+
+**Wed:**
+
+- Reading TBD
+
+---
+
+### Week 04 {#week04}
+
+**Mon/Wed** *(dates TBD)*
+
+**Mon:**
+
+- Reading TBD
+
+**Wed:**
+
+- Reading TBD
+
+---
+
+### Week 05 {#week05}
+
+**Mon/Wed** *(dates TBD)*
+
+**Mon:**
+
+- Reading TBD
+
+**Wed:**
+
+- Reading TBD
+
+---
+
+### Week 06 {#week06}
+
+**Mon/Wed** *(dates TBD)*
+
+**Mon:**
+
+- Reading TBD
+
+**Wed:**
+
+- Reading TBD
+
+---
+
+### Week 07 {#week07}
+
+**Mon/Wed** *(dates TBD)*
+
+**Mon:**
+
+- Reading TBD
+
+**Wed:**
+
+- Reading TBD
+
+---
+
+### Week 08 {#week08}
+
+**Mon/Wed** *(dates TBD)*
+
+**Mon:**
+
+- Reading TBD
+
+**Wed:**
+
+- Reading TBD
+
+---
+
+### Week 09 {#week09}
+
+**Mon/Wed** *(dates TBD)*
+
+**Mon:**
+
+- Reading TBD
+
+**Wed:**
+
+- Reading TBD
+
+---
+
+### Week 10 {#week10}
+
+**Mon/Wed** *(dates TBD)*
+
+**Mon:**
+
+- Reading TBD
+
+**Wed:**
+
+- Reading TBD
+
+---
+
+### Week 11 {#week11}
+
+**Mon/Wed** *(dates TBD)*
+
+**Mon:**
+
+- Reading TBD
+
+**Wed:**
+
+- Reading TBD
+
+---
+
+### Week 12 {#week12}
+
+**Mon/Wed** *(dates TBD)*
+
+**Mon:**
+
+- Reading TBD
+
+**Wed:**
+
+- Reading TBD
+
+---
+
+### Week 13 {#week13}
+
+**Mon/Wed** *(dates TBD)*
+
+**Mon:**
+
+- Reading TBD
+
+**Wed:**
+
+- Reading TBD
+
+---
+
+### Week 14 {#week14}
+
+**Mon/Wed** *(dates TBD)*
+
+**Mon:**
+
+- Reading TBD
+
+**Wed:**
+
+- Reading TBD
+
+---
+
+### Week 15 {#week15}
+
+**Mon/Wed** *(dates TBD)*
+
+**Mon:**
+
+- Reading TBD
+
+**Wed:**
+
+- Reading TBD
+
+---
+
+### Week 16 {#week16}
+
+**Mon/Wed** *(dates TBD)*
+
+**Mon:**
+
+- Reading TBD
+
+**Wed:**
+
+- Reading TBD
+
+---
+

@@ -1,0 +1,12 @@
+<!-- _schedule.qmd — Philo Lab: Philosophical Laboratory -->
+<!-- Phase 2 (Portal 2) schedule.                          -->
+
+## Laboratory Sessions
+
+| Session | Title | Primary Reading |
+|---|---|---|
+| Lab 1 | Entering the Chamber | Chalmers Ch. 1–2 |
+| Lab 2 | GLaDOS and Other Minds | Nagel; Turing |
+| Lab 3 | Trust, Cooperation, Shared Agency | Chalmers Ch. 16; Aristotle NE VIII |
+| Lab 4 | Autonomy and Experimentation | Chalmers Ch. 17–18 |
+| Lab 5 | Identity, Memory, and Survival | Chalmers Ch. 14–15; Locke |

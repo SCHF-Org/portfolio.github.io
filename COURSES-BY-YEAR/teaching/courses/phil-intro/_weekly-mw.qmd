@@ -1,0 +1,411 @@
+<!-- _weekly-mw.qmd — PHIL 101B Introduction to Philosophy           -->
+<!-- Section 1: Mon/Wed 10:30–11:45 AM, Flagler Hall 213            -->
+<!-- Full week-by-week session content for website and portfolio.    -->
+<!-- Include in week notes pages with:                               -->
+<!--   {{< include ../../_weekly-mw.qmd >}}                         -->
+<!-- The syllabus uses _schedule-mw.qmd (table only) instead.       -->
+
+---
+
+## Important Dates — Section 1 (Mon/Wed)
+
+| Date | Event |
+|---|---|
+| Mon Aug 24 | First day of class |
+| Mon Sep 7 | **Labor Day — No Class** |
+| Wed Nov 11 | **Veterans Day — No Class** |
+| Wed Nov 25 | **Thanksgiving Break — No Class** |
+| Wed Dec 2 | Last day of class |
+| Tue–Fri Dec 8–11 | Final Examinations |
+
+Note: Values Day (Thu Nov 12) and Fall Break (Thu–Fri Oct 8–9) do not
+affect this Monday/Wednesday section.
+
+---
+
+## Course Schedule
+
+*Weeklies are due every Monday starting Sep 7 (first Monday after
+the first full week). All assignments submitted via Canvas.*
+
+---
+
+# Part 1: Virtual Worlds — What Is Real and How Do We Know It? {#part-1-mw}
+
+*Chalmers opens by asking whether virtual worlds are real. To answer this
+we need to understand what reality is, what knowledge is, and what it
+would mean to be deceived about both. The central philosophical question
+for this unit: can we know anything about the external world?*
+
+---
+
+## Week 1 — Introduction: Are We in a Simulation? {#week-01-mw}
+**Mon Aug 24 / Wed Aug 26**
+
+**Mon Aug 24:** Course introduction. What is philosophy and why does
+it matter? The simulation hypothesis as a lens for the whole discipline.
+
+- Handouts (distributed in class)
+- Chalmers, Introduction: "Adventures in Technophilosophy"
+
+**Wed Aug 26:**
+
+- Chalmers, Ch. 1: "Is This the Real Life?"
+
+::: {.callout-note}
+## Weekly Reflection 1
+Chalmers asks whether a simulated world could be a real world. What would
+you need to know to answer this question? What kind of philosophical problem
+is it — a problem about knowledge, reality, or something else?
+:::
+
+---
+
+## Week 2 — The Simulation Hypothesis {#week-02-mw}
+**Mon Aug 31 / Wed Sep 2**
+
+**Mon Aug 31:**
+
+- Chalmers, Ch. 2: "What Is the Simulation Hypothesis?"
+
+**Wed Sep 2:**
+
+- Chalmers, Ch. 3: "Do We Know Things?"
+
+::: {.callout-note}
+## Weekly Reflection 2
+Chalmers distinguishes different versions of the simulation hypothesis.
+Which version do you find most philosophically interesting, and why?
+:::
+
+---
+
+## Week 3 — The External World {#week-03-mw}
+**Wed Sep 9 only** *(Labor Day — no Monday class)*
+
+**Wed Sep 9:**
+
+- Chalmers, Ch. 4: "Can We Prove There Is an External World?"
+
+::: {.callout-note}
+## Weekly Reflection 3
+Descartes tried to prove the external world exists and arguably failed.
+Chalmers revisits this. Do you think the external world can be proven
+to exist? What would count as proof?
+:::
+
+---
+
+## Week 4 — Possible Realities {#week-04-mw}
+**Mon Sep 14 / Wed Sep 16**
+
+**Mon Sep 14:** *1st DND Adventure — Student Led*
+
+- Chalmers, Ch. 5: "Is It Likely That We're in a Simulation?"
+  (Bostrom and Moravec) — read before adventure
+
+**Wed Sep 16:** Debrief and discussion.
+
+::: {.callout-note}
+## Weekly Reflection 4
+Bostrom's simulation argument concludes that we are probably in a
+simulation. Do you find this argument convincing? What is its weakest
+premise?
+:::
+
+---
+
+# Part 2: Reality — What Exists and What Makes It Real? {#part-2-mw}
+
+*Having established the epistemic problem, we now ask the metaphysical
+question: what is reality? Is the universe made of matter, information,
+or something else?*
+
+---
+
+## Week 5 — What Is Reality? {#week-05-mw}
+**Mon Sep 21 / Wed Sep 23**
+
+**Mon Sep 21:**
+
+- Chalmers, Ch. 6: "What Is Reality?"
+
+**Wed Sep 23:**
+
+- Chalmers, Ch. 7: "Is God a Hacker in the Next Universe Up?"
+
+::: {.callout-note}
+## Weekly Reflection 5
+Chalmers argues that virtual reality is genuine reality. What does it
+mean for something to be "genuinely" real? Do you agree with his argument?
+:::
+
+---
+
+## Week 6 — Information and Bits {#week-06-mw}
+**Mon Sep 28 / Wed Sep 30**
+
+**Mon Sep 28:**
+
+- Chalmers, Ch. 8: "Is the Universe Made of Information?"
+
+**Wed Sep 30:**
+
+- Chalmers, Ch. 9: "Did Simulation Create Its from Bits?"
+
+::: {.callout-note}
+## Weekly Reflection 6
+Wheeler's "it from bit" thesis claims the universe is fundamentally
+informational. What would it mean for reality to be made of information
+rather than matter? Does this seem plausible?
+:::
+
+---
+
+## Week 7 — Real Virtual Reality {#week-07-mw}
+**Mon Oct 5 / Wed Oct 7**
+
+**Mon Oct 5:**
+
+- Chalmers, Ch. 10: "Do Virtual Reality Headsets Create Reality?"
+
+**Wed Oct 7:** *2nd DND Adventure — Student Led*
+
+- Chalmers, Ch. 11: "Are Virtual Reality Devices Illusion Machines?"
+  — read before adventure
+
+::: {.callout-note}
+## Weekly Reflection 7
+Are virtual reality experiences genuinely perceptual experiences, or are
+they illusions? What is the difference between perception and illusion?
+:::
+
+---
+
+## Week 8 — Augmented Reality and Deepfakes {#week-08-mw}
+**Mon Oct 12 / Wed Oct 14**
+
+*(Note: Fall Break was Thu–Fri Oct 8–9. This Mon/Wed section is unaffected.)*
+
+**Mon Oct 12:**
+
+- Chalmers, Ch. 12: "Does Augmented Reality Lead to Alternative Facts?"
+
+**Wed Oct 14:**
+
+- Chalmers, Ch. 13: "Can We Avoid Being Deceived by Deepfakes?"
+
+::: {.callout-note}
+## Weekly Reflection 8
+Chalmers argues that augmented reality raises new philosophical problems
+about knowledge and deception. What is one concrete case where AR or
+deepfakes create a genuine philosophical problem?
+:::
+
+---
+
+# Part 3: Mind — Consciousness, Identity, and the Extended Self {#part-3-mw}
+
+*Having asked what reality is, we now ask what kind of thing a mind is —
+and whether a mind can exist, think, and be conscious inside a virtual world.*
+
+---
+
+## Week 9 — Mind and Body in a Virtual World {#week-09-mw}
+**Mon Oct 19 / Wed Oct 21**
+
+**Mon Oct 19:**
+
+- Chalmers, Ch. 14: "How Do Mind and Body Interact in a Virtual World?"
+
+**Wed Oct 21:**
+
+- Chalmers, Ch. 15: "Can There Be Consciousness in a Digital World?"
+
+::: {.callout-tip}
+## Essay 1 Due Friday Oct 23 (Submit on Canvas)
+**Prompt:** Chalmers argues that consciousness could exist in a digital
+world. Using at least two chapters from Parts 1–3, defend or challenge
+this claim. 4–5 pages.
+:::
+
+::: {.callout-note}
+## Weekly Reflection 9
+What would it take for a digital entity to be genuinely conscious?
+Is there something it is like to be a computer program?
+:::
+
+---
+
+## Week 10 — The Extended Mind {#week-10-mw}
+**Mon Oct 26 / Wed Oct 28**
+
+**Mon Oct 26:**
+
+- Chalmers, Ch. 16: "Does Augmented Reality Extend the Mind?"
+
+**Wed Oct 28:** *3rd DND Adventure — Student Led*
+
+- Chalmers, Ch. 16 (continued) — read before adventure
+
+::: {.callout-note}
+## Weekly Reflection 10
+Clark and Chalmers argue that the mind extends beyond the brain into
+tools and environments. Do you find this convincing? What follows for
+personal identity if the mind can extend this way?
+:::
+
+---
+
+# Part 4: Value — Ethics and Society in Virtual Worlds {#part-4-mw}
+
+*The final philosophical question: if we can live, think, and be conscious
+in a virtual world, does that world have moral significance? Can virtual
+lives be good lives?*
+
+---
+
+## Week 11 — Virtual Ethics {#week-11-mw}
+**Mon Nov 2 / Wed Nov 4**
+
+**Mon Nov 2:**
+
+- Chalmers, Ch. 17: "Can You Lead a Good Life in a Virtual World?"
+
+**Wed Nov 4:**
+
+- Chalmers, Ch. 18: "Do Simulated Lives Matter?"
+
+::: {.callout-tip}
+## Reflective Analysis 1 Due Friday Nov 6 (Submit on Canvas)
+**Prompt:** Chalmers argues that virtual lives can be genuinely good lives.
+Evaluate this argument carefully. Use at least three chapters and the
+four-category rubric (thesis, premises, support, student response).
+8–10 pages.
+:::
+
+::: {.callout-note}
+## Weekly Reflection 11
+If simulated lives matter morally, what follows for how we should treat
+characters in video games or AI systems? Where does Chalmers' argument
+lead?
+:::
+
+---
+
+## Week 12 — Social Ontology and Language {#week-12-mw}
+**Mon Nov 9 only** *(Veterans Day — no Wednesday class)*
+
+**Mon Nov 9:**
+
+- Chalmers, Ch. 19: "How Should We Build a Virtual Society?"
+- Chalmers, Ch. 20: "What Do Our Words Mean in Virtual Worlds?"
+  — read before class (combined session)
+
+::: {.callout-note}
+## Weekly Reflection 12
+What philosophical problems arise when we try to build laws and social
+institutions inside virtual worlds? Are these new problems or old ones
+in new clothes?
+:::
+
+---
+
+## Week 13 — Foundations: Causation and Structure {#week-13-mw}
+**Mon Nov 16 / Wed Nov 18**
+
+**Mon Nov 16:**
+
+- Chalmers, Ch. 21: "Do Dust Clouds Run Computer Programs?"
+
+**Wed Nov 18:** *4th DND Adventure — Student Led*
+
+- Chalmers, Ch. 22: "Is Reality a Mathematical Structure?"
+  — read before adventure
+
+::: {.callout-note}
+## Weekly Reflection 13
+Putnam's model-theoretic argument raises puzzles about what makes a
+physical system run a particular program. What is the argument and why
+does it matter for the simulation hypothesis?
+:::
+
+---
+
+## Week 14 — Virtual Eden and Brains in Vats {#week-14-mw}
+**Mon Nov 23 only** *(Thanksgiving Break — no Wednesday class)*
+
+**Mon Nov 23:**
+
+- Chalmers, Ch. 23: "Have We Fallen from the Garden of Eden?"
+- Chalmers, Ch. 24: "Are We Boltzmann Brains in a Dream World?"
+  — read before class (combined session)
+
+::: {.callout-note}
+## Weekly Reflection 14
+We return to where we began: are we in a simulation? Having worked
+through the whole book, how has your answer changed — if at all?
+:::
+
+---
+
+## Week 15 — Final Adventure + Course Synthesis {#week-15-mw}
+**Mon Nov 30 / Wed Dec 2**
+
+**Mon Nov 30:** *5th DND Adventure — Student Led*
+
+- Review Chs. 1–24 for the adventure. The DM designs a final dungeon
+  drawing from any chapter in the book.
+
+**Wed Dec 2:** *(Last day of class)*
+Course synthesis. The instructor works through the four philosophical
+questions — knowledge, reality, mind, value — and asks: what has *Reality+*
+added to our understanding of each?
+
+::: {.callout-tip}
+## Final Deliverables Due at Final Exam (Dec 8–11 — confirm date on Canvas)
+
+**Reflective Analysis 2:**
+Select one of the four course themes (knowledge, reality, mind, or value).
+Write an 8–10 page analysis explaining how Chalmers addresses that theme
+across multiple chapters, what the strongest objection to his view is,
+and how he might respond. Use the four-category rubric.
+
+**Essay 2:**
+Write a 4–5 page essay responding to the following: After reading
+*Reality+*, do you think we could be living in a simulation? Has Chalmers
+changed your view? Defend your answer with close reference to at least
+three chapters.
+:::
+
+---
+
+# Appendix: Reading Schedule by Chapter
+
+| Week | Date(s) | Chalmers Chapter | Notes |
+|---|---|---|---|
+| 1 | Mon Aug 24 | Introduction + Ch. 1 | First class |
+| 2 | Mon Aug 31 | Ch. 2: Simulation Hypothesis | |
+| 2 | Wed Sep 2 | Ch. 3: Do We Know Things? | |
+| 3 | Wed Sep 9 | Ch. 4: External World | Labor Day week |
+| 4 | Mon Sep 14 | Ch. 5: Likely in a Simulation? | 1st DND Adventure |
+| 5 | Mon Sep 21 | Ch. 6: What Is Reality? | |
+| 5 | Wed Sep 23 | Ch. 7: Is God a Hacker? | |
+| 6 | Mon Sep 28 | Ch. 8: Universe of Information? | |
+| 6 | Wed Sep 30 | Ch. 9: Its from Bits? | |
+| 7 | Mon Oct 5 | Ch. 10: VR Headsets Create Reality? | |
+| 7 | Wed Oct 7 | Ch. 11: VR Illusion Machines? | 2nd DND Adventure |
+| 8 | Mon Oct 12 | Ch. 12: AR and Alternative Facts? | Fall Break was Thu–Fri |
+| 8 | Wed Oct 14 | Ch. 13: Deepfakes? | |
+| 9 | Mon Oct 19 | Ch. 14: Mind and Body in VR? | |
+| 9 | Wed Oct 21 | Ch. 15: Consciousness in Digital World? | Essay 1 due Fri Oct 23 |
+| 10 | Mon Oct 26 | Ch. 16: AR Extends the Mind? | |
+| 10 | Wed Oct 28 | Ch. 16 (continued) | 3rd DND Adventure |
+| 11 | Mon Nov 2 | Ch. 17: Good Life in VR? | |
+| 11 | Wed Nov 4 | Ch. 18: Simulated Lives Matter? | RA 1 due Fri Nov 6 |
+| 12 | Mon Nov 9 | Ch. 19–20 (combined) | Veterans Day week |
+| 13 | Mon Nov 16 | Ch. 21: Dust Clouds and Programs? | |
+| 13 | Wed Nov 18 | Ch. 22: Mathematical Structure? | 4th DND Adventure |
+| 14 | Mon Nov 23 | Ch. 23–24 (combined) | Thanksgiving week |
+| 15 | Mon Nov 30 | Review Chs. 1–24 | 5th DND Adventure |
+| 15 | Wed Dec 2 | Course synthesis | Last day |

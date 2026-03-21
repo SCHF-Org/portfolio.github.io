@@ -1,0 +1,41 @@
+---
+title: "Resume / CV"
+---
+
+# Curriculum Vitae
+
+<!-- Replace this section with your own CV content. -->
+
+**Montaque Reynolds**
+mreynolds1@stetson.edu
+
+## Education
+
+- PhD, Philosophy, Saint Louis University, 2024
+- [Add earlier degrees here]
+
+## Current Position
+
+Visiting Assistant Professor of Philosophy
+Stetson University, DeLand, FL
+
+## Courses Taught
+
+- PHIL 101B — Introduction to Logic
+- PHIL 101B — Introduction to Philosophy
+- PHIL 284A — Philosophy of Law
+- Philo Lab: Philosophical Laboratory
+- PHIL 3XX — Philosophy of Mind (in development)
+
+## Research Interests
+
+Narrative ethics, moral imagination, philosophy of mind,
+interactive media and moral education.
+
+## Publications
+
+- *Moral Autonomy and Personhood in Pop Culture* (forthcoming)
+
+## Service
+
+- Founder and Director, Saleno Center for Human Flourishing

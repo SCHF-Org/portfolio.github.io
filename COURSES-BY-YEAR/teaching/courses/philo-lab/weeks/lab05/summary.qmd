@@ -1,0 +1,20 @@
+---
+title: "Identity, Memory, and What Survives — Lab Summary"
+---
+
+## Lab Overview
+
+[What students did in this session and why.]
+
+## Key Philosophical Questions
+
+[The questions the lab activity raised.]
+
+## Connection to Primary Reading
+
+[How the in-game experience connected to the assigned text.]
+
+::: {.callout-note}
+## Lab Reflection Prompt
+[The reflection prompt for this session.]
+:::

@@ -1,0 +1,49 @@
+---
+title: "Week 13 — Notes and Summary"
+subtitle: "[Title TBD]"
+---
+
+## Overview
+
+[Brief overview of this week's topics and their significance
+in the context of the course goes here.]
+
+---
+
+## Key Concepts
+
+### [Concept 1]
+
+[Explanation of concept 1 goes here. Write this for students
+who are reviewing after class or preparing for discussion.]
+
+### [Concept 2]
+
+[Explanation of concept 2 goes here.]
+
+### [Concept 3]
+
+[Explanation of concept 3 goes here.]
+
+---
+
+## The Central Question for This Week
+
+[Articulate the central question or tension of the week in a
+way that connects the readings to each other and to the
+broader course arc.]
+
+---
+
+::: {.callout-note}
+## Weekly Reflection 13
+[Weekly reflection prompt goes here — should match the prompt
+in notes.qmd for this week.]
+:::
+
+---
+
+## Looking Ahead
+
+[Brief preview of next week's topic and how it follows from
+this week.]

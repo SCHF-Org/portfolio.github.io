@@ -1,0 +1,22 @@
+<!-- _schedule.qmd — Personhood in the Age of AI -->
+<!-- In development. Full schedule TBD.          -->
+
+## Draft Schedule
+
+| Week | Topic | Primary Reading |
+|---|---|---|
+| 1 | The Puzzle/Mystery Distinction | Marcel; Hick Part I |
+| 2 | Soul-Making Theodicy | Hick Part III |
+| 3 | Dostoevsky's Challenge | The Grand Inquisitor |
+| 4 | Personal Identity | Locke, Essay Ch. 27 |
+| 5 | What Matters in Survival | Parfit, Part III (selections) |
+| 6 | Consciousness and Other Minds | Nagel; Turing; Searle |
+| 7 | Second-Personal Knowledge | Stump Ch. 3–4 |
+| 8 | Love as Perception of Value | Nussbaum, LK Ch. 11, 13 |
+| 9 | Love as Caring | Frankfurt, Reasons of Love |
+| 10 | Mind and Body in Virtual Worlds | Chalmers Ch. 14–16 |
+| 11 | The Avatar as Self | TBD |
+| 12 | Can You Fall in Love with an Avatar? | Discussion synthesis |
+| 13 | Hick's Eschatology | Hick Part IV |
+| 14 | Suffering from the Inside | Lewis, A Grief Observed |
+| 15 | Course Synthesis | — |

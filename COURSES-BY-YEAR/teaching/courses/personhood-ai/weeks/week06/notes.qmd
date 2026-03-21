@@ -1,0 +1,40 @@
+---
+title: "Consciousness and Other Minds — Nagel, Turing, Searle"
+---
+
+<!-- notes.qmd — Personhood in the Age of AI                                           -->
+<!-- Portfolio: instructor notes visible here.                      -->
+<!-- Website: .instructor-only divs hidden.                         -->
+
+## Session Overview
+
+::: {.instructor-only}
+**Goal for this session:** [What should students leave understanding?]
+
+**Opening move:** [How will you open the session?]
+
+**Key tension to surface:** [What is the central philosophical tension?]
+
+**Time allocation (75 min):**
+
+- 10 min: [Opening activity]
+- 20 min: [Main discussion]
+- 20 min: [Close reading or case study]
+- 15 min: [Small group work]
+- 10 min: [Wrap-up and preview]
+:::
+
+## Discussion Questions
+
+1. [Discussion question 1]
+
+2. [Discussion question 2]
+
+3. [Discussion question 3]
+
+---
+
+::: {.callout-note}
+## Weekly Reflection
+[Reflection prompt goes here.]
+:::

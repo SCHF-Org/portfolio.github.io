@@ -1,0 +1,142 @@
+name: Publish Teaching Materials
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+
+  # ============================================================
+  # JOB 1: Build and deploy course websites to GitHub Pages
+  # ============================================================
+  build-website:
+    name: Build Course Websites
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python dependencies
+        run: |
+          pip install -r requirements.txt
+        continue-on-error: true
+
+      - name: Render phil-mind website
+        run: quarto render courses/phil-mind --profile website
+        continue-on-error: false
+
+      - name: Render phil-intro website
+        run: quarto render courses/phil-intro --profile website
+        continue-on-error: true
+
+      - name: Render phil-logic website
+        run: quarto render courses/phil-logic --profile website
+        continue-on-error: true
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _output/website/
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+  # ============================================================
+  # JOB 2: Build teaching portfolio
+  # Uncomment the Netlify block below once secrets are added.
+  # ============================================================
+  build-portfolio:
+    name: Build Teaching Portfolio
+    runs-on: ubuntu-latest
+    if: |
+      github.event_name == 'workflow_dispatch' ||
+      contains(toJSON(github.event.commits.*.modified), 'portfolio/') ||
+      contains(toJSON(github.event.commits.*.modified), 'courses/')
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+        continue-on-error: true
+
+      - name: Render portfolio
+        run: quarto render --profile portfolio
+
+      # -- Netlify deployment (uncomment after adding secrets) --
+      # - name: Deploy to Netlify
+      #   uses: nwtgck/actions-netlify@v3
+      #   with:
+      #     publish-dir: _output/portfolio
+      #     production-branch: main
+      #     github-token: ${{ secrets.GITHUB_TOKEN }}
+      #     deploy-message: "Deploy portfolio from GitHub Actions"
+      #   env:
+      #     NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+      #     NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+
+      - name: Archive portfolio build
+        uses: actions/upload-artifact@v4
+        with:
+          name: teaching-portfolio
+          path: _output/portfolio/
+          retention-days: 90
+
+  # ============================================================
+  # JOB 3: Build print PDFs — manual trigger only
+  # ============================================================
+  build-print:
+    name: Build Print PDFs
+    runs-on: ubuntu-latest
+    if: github.event_name == 'workflow_dispatch'
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Install TinyTeX
+        run: quarto install tinytex
+
+      - name: Render syllabi as PDF
+        run: |
+          quarto render courses/phil-mind/syllabus.qmd --profile print --to pdf
+          quarto render courses/phil-intro/syllabus.qmd --profile print --to pdf
+          quarto render courses/phil-logic/syllabus.qmd --profile print --to pdf
+        continue-on-error: true
+
+      - name: Archive print PDFs
+        uses: actions/upload-artifact@v4
+        with:
+          name: print-syllabi
+          path: _output/print/
+          retention-days: 90

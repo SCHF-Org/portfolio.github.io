@@ -1,0 +1,211 @@
+project:
+  type: book
+  output-dir: _output/portfolio
+
+# ============================================================
+# SHARED METADATA
+# ============================================================
+
+author:
+  name: Dr. Montaque Reynolds
+  email: mreynolds1@stetson.edu
+  affiliation: Stetson University
+
+bibliography: shared/references/references.bib
+csl: shared/references/chicago-author-date.csl
+
+execute:
+  echo: false
+  freeze: auto
+
+# ============================================================
+# BOOK STRUCTURE (portfolio — default output)
+# quarto render    → builds the full portfolio book
+# quarto preview   → live preview of the portfolio
+# ============================================================
+
+book:
+  title: "Teaching Portfolio"
+  author: "Montaque Reynolds"
+  date: "2026"
+  favicon: shared/figures/icons/course_favicon.png
+  chapters:
+    - index.qmd
+    - portfolio/intro.qmd
+    - portfolio/resume-cv.qmd
+
+    - part: "Philosophy of Mind"
+      chapters:
+        - courses/phil-mind/syllabus.qmd
+        - courses/phil-mind/weeks/week01/notes.qmd
+        - courses/phil-mind/weeks/week02/notes.qmd
+        - courses/phil-mind/weeks/week03/notes.qmd
+        - courses/phil-mind/weeks/week04/notes.qmd
+        - courses/phil-mind/weeks/week05/notes.qmd
+        - courses/phil-mind/weeks/week06/notes.qmd
+        - courses/phil-mind/weeks/week07/notes.qmd
+        - courses/phil-mind/weeks/week08/notes.qmd
+        - courses/phil-mind/weeks/week09/notes.qmd
+        - courses/phil-mind/weeks/week10/notes.qmd
+        - courses/phil-mind/weeks/week11/notes.qmd
+        - courses/phil-mind/weeks/week12/notes.qmd
+        - courses/phil-mind/weeks/week13/notes.qmd
+        - courses/phil-mind/weeks/week14/notes.qmd
+        - courses/phil-mind/weeks/week15/notes.qmd
+
+    - part: "Introduction to Philosophy"
+      chapters:
+        - courses/phil-intro/syllabus-s1.qmd
+        - courses/phil-intro/syllabus-s2.qmd
+        - courses/phil-intro/syllabus-s3.qmd
+        - courses/phil-intro/weeks/week01/notes.qmd
+        - courses/phil-intro/weeks/week02/notes.qmd
+        - courses/phil-intro/weeks/week03/notes.qmd
+        - courses/phil-intro/weeks/week04/notes.qmd
+        - courses/phil-intro/weeks/week05/notes.qmd
+        - courses/phil-intro/weeks/week06/notes.qmd
+        - courses/phil-intro/weeks/week07/notes.qmd
+        - courses/phil-intro/weeks/week08/notes.qmd
+        - courses/phil-intro/weeks/week09/notes.qmd
+        - courses/phil-intro/weeks/week10/notes.qmd
+        - courses/phil-intro/weeks/week11/notes.qmd
+        - courses/phil-intro/weeks/week12/notes.qmd
+        - courses/phil-intro/weeks/week13/notes.qmd
+        - courses/phil-intro/weeks/week14/notes.qmd
+        - courses/phil-intro/weeks/week15/notes.qmd
+        - courses/phil-intro/weeks/week16/notes.qmd
+
+    - part: "Introduction to Logic"
+      chapters:
+        - courses/phil-logic/syllabus.qmd
+        - courses/phil-logic/weeks/week01/notes.qmd
+        - courses/phil-logic/weeks/week02/notes.qmd
+        - courses/phil-logic/weeks/week03/notes.qmd
+        - courses/phil-logic/weeks/week04/notes.qmd
+        - courses/phil-logic/weeks/week05/notes.qmd
+        - courses/phil-logic/weeks/week06/notes.qmd
+        - courses/phil-logic/weeks/week07/notes.qmd
+        - courses/phil-logic/weeks/week08/notes.qmd
+        - courses/phil-logic/weeks/week09/notes.qmd
+        - courses/phil-logic/weeks/week10/notes.qmd
+        - courses/phil-logic/weeks/week11/notes.qmd
+        - courses/phil-logic/weeks/week12/notes.qmd
+        - courses/phil-logic/weeks/week13/notes.qmd
+        - courses/phil-logic/weeks/week14/notes.qmd
+        - courses/phil-logic/weeks/week15/notes.qmd
+        - courses/phil-logic/weeks/week16/notes.qmd
+
+    - portfolio/summary.qmd
+    - references.qmd
+
+# ============================================================
+# DEFAULT FORMAT (portfolio HTML)
+# Instructor-only content is visible, styled as amber boxes.
+# ============================================================
+
+format:
+  html:
+    theme:
+      light:
+        - cosmo
+        - shared/css/portfolio.scss
+    toc: true
+    date-format: "MMM DD, YYYY"
+    email-obfuscation: javascript
+    link-external-newwindow: true
+    link-external-icon: true
+    html-math-method: mathjax
+    include-in-header:
+      text: |
+        <script>
+          window.MathJax = {
+            loader: { load: ['[tex]/bussproofs'] },
+            tex: { packages: {'[+]': ['bussproofs']} }
+          };
+        </script>
+        <style>
+          .instructor-only {
+            background-color: #fff8e1;
+            border-left: 4px solid #f59e0b;
+            padding: 0.75rem 1rem;
+            margin: 1rem 0;
+            border-radius: 0 4px 4px 0;
+          }
+          .instructor-only::before {
+            content: "📋 Instructor Note";
+            display: block;
+            font-weight: bold;
+            font-size: 0.85rem;
+            color: #92400e;
+            margin-bottom: 0.5rem;
+          }
+        </style>
+
+# ============================================================
+# PROFILE: website
+# quarto render --profile website
+# Builds student-facing course websites.
+# Instructor-only content is hidden.
+# ============================================================
+
+profiles:
+  - name: website
+    project:
+      type: website
+      output-dir: _output/website
+    website:
+      page-navigation: true
+      reader-mode: false
+      open-graph: true
+      search:
+        location: navbar
+        type: textbox
+      navbar:
+        background: primary
+      page-footer:
+        background: light
+        left: "Copyright 2026, Montaque Reynolds"
+    format:
+      html:
+        theme:
+          light:
+            - journal
+            - shared/css/custom.scss
+        css:
+          - shared/css/custom_style.css
+          - shared/css/syllabus.css
+        toc: true
+        include-in-header:
+          text: |
+            <style>
+              .instructor-only { display: none !important; }
+            </style>
+
+# ============================================================
+# PROFILE: print
+# quarto render courses/phil-mind/syllabus.qmd --profile print --to pdf
+# Renders clean PDFs of syllabi for job application packets.
+# ============================================================
+
+  - name: print
+    project:
+      type: default
+      output-dir: _output/print
+    format:
+      pdf:
+        documentclass: article
+        papersize: letter
+        margin-top: 1in
+        margin-bottom: 1in
+        margin-left: 1in
+        margin-right: 1in
+        fontsize: 11pt
+        linestretch: 1.4
+        include-in-header:
+          text: |
+            \usepackage{fancyhdr}
+            \usepackage{comment}
+            \pagestyle{fancy}
+            \fancyhead[L]{Dr. Montaque Reynolds}
+            \fancyhead[R]{Stetson University}
+            \fancyfoot[C]{\thepage}

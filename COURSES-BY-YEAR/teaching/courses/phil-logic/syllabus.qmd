@@ -1,0 +1,58 @@
+---
+title: "PHIL 101B — Introduction to Logic"
+subtitle: "Spring 2026"
+date: "Spring 2026"
+---
+
+# Course Information
+
+**Instructor:** Dr. Montaque Reynolds
+**Email:** mreynolds1@stetson.edu
+**Office:** Elizabeth Hall 104
+**Office Hours:** Tuesdays 1:00–3:00 PM | Thursdays 1:00–3:00 PM
+**Meeting Times:** Mon/Wed 9:00–10:15 AM
+**Room:** TBD
+
+<!-- Replace the course description below with your own. -->
+
+# Course Description
+
+[Course description goes here.]
+
+# Required Texts
+
+[Required texts go here.]
+
+# Grading
+
+| Assignment | Points |
+|---|---|
+| Weekly Reflections (best 8 of 12, 8 pts each) | 32 pts |
+| Reflective Analysis 1 & 2 (80 pts each) | 160 pts |
+| Essay 1 & 2 (40 pts each) | 80 pts |
+| DND Presentation / Participation | 96 pts |
+| Attendance | 32 pts |
+| **Total** | **400 pts** |
+
+# Course Schedule
+
+{{< include _schedule.qmd >}}
+
+# Academic Policies
+
+## Academic Integrity
+All work must be your own. Sign all submissions: *"Pledged, [your name]."*
+Violations will be referred to the Academic Honor Council.
+Honor code: http://www.stetson.edu/honorsystem/
+
+## Late Work
+Late work is docked a half-letter grade per day unless an extension
+is approved before the due date.
+
+## Accommodations
+Register with the Academic Success Center (386-822-7127;
+www.stetson.edu/asc) if disability-related accommodations are necessary.
+
+## Counseling Center
+Phone: 386-822-8900 | Griffith Hall | Weekdays 8 AM–4:30 PM
+After-hours: Public Safety 386-822-7300 (ask for on-call counselor).
