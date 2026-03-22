@@ -101,6 +101,16 @@ book:
         - courses/phil-logic/weeks/week15/notes.qmd
         - courses/phil-logic/weeks/week16/notes.qmd
 
+
+    # --------------------------------------------------------
+    # Resources (Spring 2026)
+    # --------------------------------------------------------
+
+    - part: "Resources"
+      chapters:
+        - ./courses/writing-guidelines/writing-objective.qmd
+        - ./courses/writing-guidelines/writing-rubric.qmd
+
     # --------------------------------------------------------
     # Courses in Development
     # --------------------------------------------------------

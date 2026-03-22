@@ -1,0 +1,41 @@
+# Writing Rubric
+
+The following rubric does two things. First, it gives you an idea of how your paper will be graded. I am looking for four important items: thesis, premises, support for those premises, and your contribution.
+
+All written assignments (Reflective Analyses and Essays) are graded on four dimensions. For each dimension:
+
+Excellent: Full points for that category
+Good: 3/4 of possible points
+Needs Improvement: 1/2 of possible points
+Unacceptable: 1/4 of possible points
+
+25.4.1 Thesis
+
+* Excellent: A single, clear statement of your main point.
+* Good: Thesis is present and fairly obvious, but not in one sharp sentence.
+* Needs Improvement: Thesis must be reconstructed from throughout the paper.
+* Unacceptable: No real thesis at all.
+
+25.4.2 Premises
+
+* Excellent: Every reason is clearly stated; you distinguish basic premises from defended ones; sub-arguments are provided for controversial claims; basic premises are plausibly true.
+* Good: Premises are mostly clear; sub-arguments appear for controversial points; basic premises are plausible.
+* Needs Improvement: Premises are hard to identify; missing sub-arguments; basic premises may be questionable.
+* Unacceptable: No real premises, or premises are very likely false.
+
+25.4.3 Support
+
+* Excellent: Premises clearly and strongly support the thesis; argument is logically valid or makes the conclusion very plausible.
+* Good: Premises support the thesis reasonably well; argument is valid or makes the conclusion plausible.
+* Needs Improvement: Premises only weakly support the thesis; argument is invalid and conclusion is not made plausible.
+* Unacceptable: Premises do not support the thesis at all.
+
+25.4.4 Student Response (Engagement with Objections)
+
+* Excellent: You thoughtfully address both obvious and less-obvious objections, counterexamples, or opposing views, with original replies.
+* Good: You address the most obvious objections with reasonable responses.
+* Needs Improvement: You miss obvious objections, or responses are weak.
+* Unacceptable: You ignore objections and opposing positions entirely.
+
+Note: Oral appeals for grade changes are not accepted. If you believe you have an extremely strong case, you may submit a one-page written appeal within one week of the work being returned.
+

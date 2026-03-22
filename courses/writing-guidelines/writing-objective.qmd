@@ -1,0 +1,19 @@
+### What a Philosophy Paper Does
+
+There are two formal sources of knowledge. There is personal experience where some experience leads you to believe some claim. Then there is, as articulated by Susanne Langer in her book *Philosophy in a new key*, "each man's experience".
+
+> Each man's experience may be added to by the experience of other men, who are living in his day or have lived before; and so a common world of experience, larger than that of his own observation, can be lived in by each man. [@lang07, 5]
+
+Everything you've ever believed was made possible by one of these two kinds of experience, personal, yours, and impersonal, other people. Further, any experience that you've had, it is safe to assume that in the hundreds of thousands of years of human evolution, someone has had that same experience. Furthermore, it is perhaps less safe, but plausible nontheless, that someone has written about it.
+
+When Langer says that each person's experience "may be added to by the experience" of another, she means through some form of testimony. This includes speaking, writing, dramatizing, etc. You are doing one of two things here, reading literature to determine whether the experiences of others compliments your experiences, or not.
+
+Jim Pryor wrote a widely used list of guidelines that are very helpful for writing a good philosophy paper. In other words, Jim Pryor has written a widely used list of guidelines that are helpful for sharing your experiences as either a compliment of another's experience or not.
+
+These guidelines can be found on his website here: https://www.jimpryor.net/teaching/guidelines/writing.html
+
+I have also embedded them here:
+
+ <iframe src="https://www.jimpryor.net/teaching/guidelines/writing.html" width="600" height="400" title="Description of the embedded content"></iframe>
+
+It is important to keep in mind that I am not using Pryor's grading scheme. For the grading scheme used in this course, see the [Writing Rubric that is provided](./writing-rubric.qmd).
