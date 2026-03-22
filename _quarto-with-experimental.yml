@@ -102,7 +102,7 @@ book:
     # --------------------------------------------------------
     # Courses in Development
     # --------------------------------------------------------
-    - part: "Courses in Development"
+    - part: "Personhood in the Age of AI (Active Development)"
       chapters:
         - courses/personhood-ai/syllabus.qmd
         - courses/personhood-ai/weeks/week01/notes.qmd
@@ -120,6 +120,9 @@ book:
         - courses/personhood-ai/weeks/week13/notes.qmd
         - courses/personhood-ai/weeks/week14/notes.qmd
         - courses/personhood-ai/weeks/week15/notes.qmd
+
+    - part: "Philo Lab (Active Development)"
+      chapters:
         - courses/philo-lab/syllabus.qmd
         - courses/philo-lab/weeks/lab01/notes.qmd
         - courses/philo-lab/weeks/lab02/notes.qmd

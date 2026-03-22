@@ -23,6 +23,8 @@ book:
   author: "Montaque Reynolds"
   date: "2026"
   favicon: shared/figures/icons/course_favicon.png
+  sidebar:
+    collapse-level: 1
   chapters:
     - index.qmd
     - portfolio/intro.qmd
@@ -102,7 +104,7 @@ book:
     # --------------------------------------------------------
     # Courses in Development
     # --------------------------------------------------------
-    - part: "Courses in Development"
+    - part: "Personhood in the Age of AI (Under Development)"
       chapters:
         - courses/personhood-ai/syllabus.qmd
         - courses/personhood-ai/weeks/week01/notes.qmd
@@ -120,6 +122,9 @@ book:
         - courses/personhood-ai/weeks/week13/notes.qmd
         - courses/personhood-ai/weeks/week14/notes.qmd
         - courses/personhood-ai/weeks/week15/notes.qmd
+
+    - part: "Philo Lab (Under Development)"
+      chapters:
         - courses/philo-lab/syllabus.qmd
         - courses/philo-lab/weeks/lab01/notes.qmd
         - courses/philo-lab/weeks/lab02/notes.qmd

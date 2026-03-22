@@ -10,11 +10,6 @@ title: "About"
 
 <!-- Replace the content below with your own biographical statement. -->
 
-I am a philosopher and educator at Stetson University, where I teach
-courses in logic, introduction to philosophy, and philosophy of mind.
-My research focuses on narrative ethics, moral imagination, and the use
-of interactive media in philosophical education.
+I am a philosopher and educator at Stetson University, where I teach courses in logic, introduction to philosophy, and philosophy of mind. My research focuses on narrative ethics, moral imagination, and the use of interactive media in philosophical education.
 
-This portfolio documents my teaching philosophy, course materials, and
-lecture notes across three courses currently in development or active
-delivery.
+This portfolio documents my teaching philosophy, course materials, and lecture notes across three courses currently in development or active delivery.
