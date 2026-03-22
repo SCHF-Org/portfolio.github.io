@@ -1,0 +1,167 @@
+---
+title: "PHIL 284A — Philosophy of Law"
+subtitle: "Spring 2026 | Tue/Thu 11:30 AM–12:45 PM"
+author: "Dr. Montaque Reynolds"
+date: "Spring 2026"
+---
+
+# Course Information
+
+| | |
+|---|---|
+| **Instructor** | Dr. Montaque Reynolds |
+| **Email** | mreynolds1@stetson.edu |
+| **Office** | Elizabeth Hall 104 |
+| **Office Hours** | Wednesdays 1:00–3:00 PM; drop in anytime |
+| **Meeting Times** | Tuesdays and Thursdays, 11:30 AM–12:45 PM |
+| **Room** | TBD |
+| **Credits** | 3 |
+| **Dates** | January 13 – April 28, 2026 |
+
+---
+
+# Course Description
+
+In general, philosophy requires one to apply principles of reasoning
+to different philosophical issues. One goal of this course is to help
+you improve your critical reasoning skills — skills useful not only
+in philosophy and law classes, but in any context requiring careful
+argument.
+
+A second goal is to teach you some of the fundamental philosophical
+ideas behind much of what we call law. We will examine theories
+attempting to answer questions such as:
+
+- What is a law?
+- What makes a law valid or binding?
+- Does one always have a moral obligation to obey the law?
+- What gives society the right to punish people whose actions are
+  harmful only to themselves (paternalism)?
+- Does society have the right to harm those who break the law
+  (criminal punishment)?
+- Should attempted crimes be punished less severely than completed
+  crimes?
+
+We will not spend much time discussing specific public policy issues.
+We will not discuss what the law *is* — instead, we will discuss what
+the law *ought to be*.
+
+::: {.callout-important}
+Class participation is essential. I do not intend to lecture.
+Rather, I expect a constructive interaction between the class and me
+to foster an enlightening discussion.
+:::
+
+---
+
+# Required Text
+
+Culver, Keith C., ed. *Readings in the Philosophy of Law*, 3rd ed.
+Broadview Press, 2008.
+
+Additional readings distributed via Canvas.
+
+---
+
+# Grading
+
+## Assignment Breakdown
+
+| Assignment | Points |
+|---|---|
+| Quizzes (17 of 19, 6 pts each) | 100 pts |
+| Paper | 100 pts |
+| Examination 1 | 100 pts |
+| Final Examination | 100 pts |
+| **Total** | **400 pts** |
+
+## Grading Scale
+
+| Grade | Points |
+|---|---|
+| A | 360 and above |
+| B | 320–359 |
+| C | 280–319 |
+| D | 240–279 |
+| F | 239 and below |
+
+## Quizzes
+
+At the beginning of most class sessions I will present a quiz based
+on the assigned readings and/or the previous class discussion. Each
+quiz is worth 6 points (maximum). I will give 19 quizzes total and
+drop the 2 lowest scores, leaving 17 quizzes at 6 points each for
+a maximum of 102 points. Points above 100 count as extra credit.
+
+Quizzes are given at the start of class. I will not repeat the
+question after the first student has turned in their quiz. Late
+arrivals and absent students receive a zero. Partial credit is
+given — putting your name on the card is worth 2 points.
+
+**Bring a 3×5 index card to every class session.**
+
+I may occasionally assign short reaction papers (1–2 pages) worth
+6 points each in place of quizzes.
+
+## Paper
+
+You are required to write one paper: typewritten, double-spaced,
+8–10 pages. Approximately four to six weeks before the due date
+I will upload several essays to Canvas. You must choose ONE to
+respond to. Papers on other topics require my prior approval.
+
+Papers are not opinion papers. What is worthwhile is a *reasoned
+defense* of your opinion. Your paper should consist of two parts:
+
+**Part 1 (4–5 pages):** Explication of the chosen essay.
+Include: the author's position, your own position (agree or
+disagree), and the author's supporting arguments.
+
+**Part 2 (4–5 pages):** Your evaluation or critique. Explain
+WHY you agree or disagree. If you agree, identify the convincing
+arguments and address potential objections. If you disagree,
+provide criticism and explain how the author might respond.
+In either case, defend why your position is the best one.
+
+You must NOT use outside sources.
+
+**Late policy:** 5 points deducted per 24-hour period late.
+
+**Paper due: Thursday, April 23 (end of class)**
+
+## Examinations
+
+Examinations cover lectures, discussions, and assigned readings.
+You are responsible for all assigned readings regardless of whether
+they were covered in class. The final examination covers the whole
+term but concentrates on material after the midterm.
+
+Make-up examinations are generally not given. Exceptions considered
+for: documented illness (with prior notice and doctor's note), major
+family tragedy, conflicting university obligation (with documentation),
+or other justifiable cause.
+
+---
+
+# Academic Policies
+
+## Academic Integrity
+All work must be your own. Sign all submissions: *"Pledged, [your name]."*
+Any evidence of academic dishonesty will be dealt with by a severe
+penalty including a grade of F and/or suspension or expulsion.
+Honor code: http://www.stetson.edu/honorsystem/
+
+## Accommodations
+If you have a qualified disability and need special accommodations,
+notify me and register with the Academic Success Center
+(386-822-7127; www.stetson.edu/asc) as early as possible.
+
+## Counseling Center
+Phone: 386-822-8900 | Griffith Hall | Weekdays 8 AM–4:30 PM
+After-hours: Public Safety 386-822-7300 (ask for on-call counselor).
+
+---
+
+# Course Schedule
+
+{{< include _schedule.qmd >}}

@@ -101,6 +101,28 @@ book:
         - courses/phil-logic/weeks/week15/notes.qmd
         - courses/phil-logic/weeks/week16/notes.qmd
 
+    # --------------------------------------------------------
+    # PHIL 101B — Introduction to Logic (Spring 2026)
+    # --------------------------------------------------------
+
+    - part: "Philosophy of Law"
+      chapters:
+        - courses/phil-law/syllabus.qmd
+        - courses/phil-law/weeks/week01/notes.qmd
+        - courses/phil-law/weeks/week02/notes.qmd
+        - courses/phil-law/weeks/week03/notes.qmd
+        - courses/phil-law/weeks/week04/notes.qmd
+        - courses/phil-law/weeks/week05/notes.qmd
+        - courses/phil-law/weeks/week06/notes.qmd
+        - courses/phil-law/weeks/week07/notes.qmd
+        - courses/phil-law/weeks/week08/notes.qmd
+        - courses/phil-law/weeks/week09/notes.qmd
+        - courses/phil-law/weeks/week10/notes.qmd
+        - courses/phil-law/weeks/week11/notes.qmd
+        - courses/phil-law/weeks/week12/notes.qmd
+        - courses/phil-law/weeks/week13/notes.qmd
+        - courses/phil-law/weeks/week14/notes.qmd
+        - courses/phil-law/weeks/week15/notes.qmd
 
     # --------------------------------------------------------
     # Resources (Spring 2026)

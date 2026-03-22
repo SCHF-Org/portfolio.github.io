@@ -11,9 +11,9 @@ Unacceptable: 1/4 of possible points
 
 25.4.1 Thesis
 
-* [ ] Excellent: A single, clear statement of your main point.
-* [ ] Good: Thesis is present and fairly obvious, but not in one sharp sentence.
-* [ ] Needs Improvement: Thesis must be reconstructed from throughout the paper.
+* [ ] Excellent: A single, clear statement of the author's main point and your initial response to this.
+* [ ] Good: Thesis is present and fairly obvious, but not in one sharp sentence in response to the author.
+* [ ] Needs Improvement: Thesis must be reconstructed from throughout the paper and does not engage with the author.
 * [ ] Unacceptable: No real thesis at all.
 
 25.4.2 Premises

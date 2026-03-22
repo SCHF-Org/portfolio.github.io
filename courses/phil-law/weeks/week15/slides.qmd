@@ -1,0 +1,30 @@
+---
+title: "Wrap-Up and Final Review"
+subtitle: "PHIL 284A — Philosophy of Law | Dr. Reynolds"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    chalkboard: true
+    footer: "PHIL 284A | Dr. Reynolds | Stetson University"
+---
+
+## Today's Question
+
+> [Central jurisprudential question for this session]
+
+---
+
+## Key Concepts
+
+::: {.incremental}
+- [Concept 1]
+- [Concept 2]
+- [Concept 3]
+:::
+
+---
+
+## Discussion
+
+[Discussion prompt]

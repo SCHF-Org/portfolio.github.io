@@ -1,0 +1,36 @@
+---
+title: "Self-Defense"
+---
+
+<!-- notes.qmd — PHIL 284A Philosophy of Law -->
+
+## Session Prep
+
+::: {.instructor-only}
+**Opening move:** [How will you open the session?]
+
+**Key tension:** [What is the central jurisprudential tension?]
+
+**Time allocation (75 min):**
+
+- 5 min: Quiz
+- 20 min: Discussion of reading
+- 25 min: Socratic questioning
+- 15 min: Application to cases
+- 10 min: Wrap-up and preview
+:::
+
+## Discussion Questions
+
+1. [Discussion question 1]
+
+2. [Discussion question 2]
+
+3. [Discussion question 3]
+
+---
+
+::: {.callout-note}
+## Quiz Prompt
+[Quiz question for this session if applicable.]
+:::

@@ -1,0 +1,326 @@
+<!-- _schedule.qmd — PHIL 284A Philosophy of Law, Spring 2026       -->
+<!-- SINGLE SOURCE OF TRUTH for all dates and readings.             -->
+<!-- Include with: {{< include _schedule.qmd >}}                    -->
+
+## Important Dates
+
+| Date | Event |
+|---|---|
+| Tue Jan 13 | First day of class |
+| Mon Jan 19 | MLK Day — no impact on Tue/Thu |
+| Mar 2–6 | **Spring Break — No Classes** |
+| Fri Apr 3 | Good Friday — no impact on Tue/Thu |
+| Tue Apr 13 | **Stetson Showcase — No Class** |
+| Thu Apr 23 | **Paper Due (end of class)** |
+| Tue Apr 28 | Last day of class |
+| TBD | Final Examination |
+
+## Reading Schedule
+
+*Subject to modification. It is your responsibility to keep up
+with any changes announced in class or posted to Canvas.*
+
+---
+
+# Part 1: The Nature of Law {#part-1}
+
+*What is law? What makes a law valid or binding? We examine the
+major jurisprudential traditions — natural law, legal positivism,
+legal realism, and critical legal studies — asking what each
+implies about the relationship between law and morality.*
+
+---
+
+## Week 1 — Introduction {#week-01}
+**Tue Jan 13 / Thu Jan 15**
+
+**Tue Jan 13:** Introduction to Philosophy of Law. Organization
+of class. What is jurisprudence and why does it matter?
+
+**Thu Jan 15:**
+
+- Fuller, "The Case of the Spelunkean Explorers" (Canvas)
+
+::: {.callout-note}
+## Quiz 1 (Thu Jan 15)
+Based on Fuller, "The Case of the Spelunkean Explorers."
+Bring your 3×5 index card.
+:::
+
+---
+
+## Week 2 — Natural Law {#week-02}
+**Tue Jan 20 / Thu Jan 22**
+
+**Tue Jan 20:**
+
+- Kretzmann, "Lex Iniusta Non Est Lex: Laws on Trial" (Canvas)
+
+**Thu Jan 22:**
+
+- Bentham, "The Principles of Morals and Legislation" (Canvas)
+
+::: {.callout-note}
+## Quiz 2 (Tue Jan 20)
+Based on Kretzmann, "Lex Iniusta Non Est Lex."
+:::
+
+---
+
+## Week 3 — Utilitarianism and Legal Positivism {#week-03}
+**Tue Jan 27 / Thu Jan 29**
+
+**Tue Jan 27:**
+
+- Bentham (continued)
+
+**Thu Jan 29:**
+
+- Hart, "Law as the Union of Primary and Secondary Rules"
+  (*Readings*, p. 53)
+
+::: {.callout-note}
+## Quiz 3 (Thu Jan 29)
+Based on Hart, "Law as the Union of Primary and Secondary Rules."
+:::
+
+---
+
+## Week 4 — Hart and Dworkin {#week-04}
+**Tue Feb 3 / Thu Feb 5**
+
+**Tue Feb 3:**
+
+- Hart (continued)
+
+**Thu Feb 5:**
+
+- Dworkin, "The Model of Rules" (*Readings*, p. 148)
+
+::: {.callout-note}
+## Quiz 4 (Thu Feb 5)
+Based on Dworkin, "The Model of Rules."
+:::
+
+---
+
+## Week 5 — Dworkin on Integrity {#week-05}
+**Tue Feb 10 / Thu Feb 12**
+
+**Tue Feb 10:**
+
+- Dworkin, "Integrity in Law" (*Readings*, p. 169)
+
+**Thu Feb 12:**
+
+- Holmes, "The Path of the Law" (*Readings*, p. 197)
+- Frank, "Legal Realism" (*Readings*, p. 205)
+
+::: {.callout-note}
+## Quiz 5 (Tue Feb 10)
+Based on Dworkin, "Integrity in Law."
+:::
+
+---
+
+## Week 6 — Legal Realism and Critical Legal Studies {#week-06}
+**Tue Feb 17 / Thu Feb 19**
+
+**Tue Feb 17:**
+
+- Critical Legal Studies (Canvas)
+
+**Thu Feb 19:**
+
+- Plato, *Crito* (Canvas)
+
+::: {.callout-note}
+## Quiz 6 (Tue Feb 17)
+Based on Critical Legal Studies handout.
+:::
+
+---
+
+## Week 7 — Obligation to Obey the Law {#week-07}
+**Tue Feb 24 / Thu Feb 26**
+
+**Tue Feb 24:**
+
+- Plato, *Crito* (continued)
+
+**Thu Feb 26:** Wrap-up Part 1. Review for Examination 1.
+
+---
+
+## *(Spring Break — No Classes Mar 2–6)*
+
+---
+
+## Week 8 — Examination 1 {#week-08}
+**Tue Mar 10 / Thu Mar 12**
+
+**Tue Mar 10:** **Examination 1**
+Covers all material from Weeks 1–7.
+
+**Thu Mar 12:**
+
+- Hart, "Postscript: Responsibility and Retribution"
+  (*Readings*, p. 317)
+
+---
+
+# Part 2: Criminal Law and Punishment {#part-2}
+
+*What justifies criminal punishment? What is the relationship
+between character and criminal responsibility? We examine
+theories of punishment, excuse and justification, and the
+limits of paternalism.*
+
+---
+
+## Week 9 — Criminal Responsibility {#week-09}
+**Tue Mar 17 / Thu Mar 19**
+
+**Tue Mar 17:**
+
+- Duff, "Choice, Character, and Action" (*Readings*, p. 328)
+
+**Thu Mar 19:**
+
+- Parker, "Blame, Punishment and the Role of Result" (Canvas)
+
+::: {.callout-note}
+## Quiz 7 (Tue Mar 17)
+Based on Duff, "Choice, Character, and Action."
+:::
+
+---
+
+## Week 10 — Self-Defense {#week-10}
+**Tue Mar 24 / Thu Mar 26**
+
+**Tue Mar 24:**
+
+- Self-Defense (Canvas)
+
+**Thu Mar 26:**
+
+- Self-Defense (continued)
+
+::: {.callout-note}
+## Quiz 8 (Tue Mar 24)
+Based on Self-Defense handout.
+:::
+
+---
+
+## Week 11 — Excuse, Justification, and Liberty {#week-11}
+**Tue Mar 31 / Thu Apr 2**
+
+**Tue Mar 31:**
+
+- Excuse, Justification, Subjective/Objective Liability (Canvas)
+
+**Thu Apr 2:**
+
+- Mill, "On Liberty" (*Readings*, p. 258)
+
+::: {.callout-note}
+## Quiz 9 (Tue Mar 31)
+Based on Excuse and Justification handout.
+:::
+
+---
+
+## Week 12 — Paternalism and Morality {#week-12}
+**Tue Apr 7 / Thu Apr 9**
+
+**Tue Apr 7:**
+
+- Dworkin, "Paternalism" (*Readings*, p. 271)
+- *Griswold v. Connecticut* (summary — Canvas)
+
+**Thu Apr 9:**
+
+- Devlin, "Morals and the Criminal Law" (*Readings*, p. 283)
+
+::: {.callout-note}
+## Quiz 10 (Tue Apr 7)
+Based on Dworkin, "Paternalism."
+:::
+
+---
+
+## *(Stetson Showcase — No Class Tue Apr 13)*
+
+---
+
+## Week 13 — Terrorism and Torture {#week-13}
+**Thu Apr 14 only**
+
+**Thu Apr 14:**
+
+- "The Moral Significance of Terrorism" (Canvas)
+- Dershowitz, "Should the Ticking Bomb Terrorist be Tortured"
+  (*Readings*)
+
+::: {.callout-note}
+## Quiz 11 (Thu Apr 14)
+Based on terrorism readings.
+:::
+
+---
+
+## Week 14 — Constitutional Interpretation {#week-14}
+**Tue Apr 21 / Thu Apr 23**
+
+**Tue Apr 21:**
+
+- Bork, "The Original Understanding" (Canvas)
+
+**Thu Apr 23:** Bork (continued)
+
+::: {.callout-important}
+## Paper Due — Thursday April 23 (end of class)
+Submit on Canvas. Hard copy also accepted in class.
+:::
+
+::: {.callout-note}
+## Quiz 12 (Tue Apr 21)
+Based on Bork, "The Original Understanding."
+:::
+
+---
+
+## Week 15 — Wrap-Up {#week-15}
+**Tue Apr 28 only** *(Last day of class)*
+
+**Tue Apr 28:** Wrap-up and review for Final Examination.
+
+---
+
+## Reading List Summary
+
+| Week | Reading | Source |
+|---|---|---|
+| 1 | Fuller, "Spelunkean Explorers" | Canvas |
+| 2 | Kretzmann, "Lex Iniusta Non Est Lex" | Canvas |
+| 2–3 | Bentham, "Principles of Morals and Legislation" | Canvas |
+| 3–4 | Hart, "Primary and Secondary Rules" | *Readings* p. 53 |
+| 4 | Dworkin, "The Model of Rules" | *Readings* p. 148 |
+| 5 | Dworkin, "Integrity in Law" | *Readings* p. 169 |
+| 5 | Holmes, "The Path of the Law" | *Readings* p. 197 |
+| 5 | Frank, "Legal Realism" | *Readings* p. 205 |
+| 6 | Critical Legal Studies | Canvas |
+| 6–7 | Plato, *Crito* | Canvas |
+| 8 | Hart, "Responsibility and Retribution" | *Readings* p. 317 |
+| 9 | Duff, "Choice, Character, and Action" | *Readings* p. 328 |
+| 9 | Parker, "Blame, Punishment and Result" | Canvas |
+| 10 | Self-Defense | Canvas |
+| 11 | Excuse, Justification, Objective Liability | Canvas |
+| 11 | Mill, "On Liberty" | *Readings* p. 258 |
+| 12 | Dworkin, "Paternalism" | *Readings* p. 271 |
+| 12 | Devlin, "Morals and the Criminal Law" | *Readings* p. 283 |
+| 13 | "Moral Significance of Terrorism" | Canvas |
+| 13 | Dershowitz, "Ticking Bomb Terrorist" | *Readings* |
+| 14 | Bork, "The Original Understanding" | Canvas |
