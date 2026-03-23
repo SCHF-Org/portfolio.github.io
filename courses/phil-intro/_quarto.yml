@@ -30,7 +30,7 @@ book:
   date: "2026"
   favicon: shared/figures/icons/course_favicon.png
   chapters:
-    - index.qmd
+    - ./index.qmd
     - portfolio/intro.qmd
     - portfolio/resume-cv.qmd
 
@@ -114,7 +114,7 @@ format:
     email-obfuscation: javascript
     link-external-newwindow: true
     link-external-icon: true
-    html-math-method: mathjax
+    html-math-method: katex
     include-in-header:
       text: |
         <script>
@@ -176,6 +176,7 @@ profiles:
           - shared/css/syllabus.css
         toc: true
         include-in-header:
+          - \usepackage{prooftrees}
           text: |
             <style>
               .instructor-only { display: none !important; }

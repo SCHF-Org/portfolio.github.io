@@ -19,6 +19,16 @@ subtitle: "[Dates TBD]"
 **Key tension to surface:** [What is the central philosophical tension
 for this session?]
 
+* Their minds are outside their physical world. It struck me that these creatures would almost certainly become dualists about the mind.
+
+  * The brains receive all their inputs from the virtual world and send all their outputs there.
+  * Our observations would always be of the virtual world, and we’d develop a physics for the virtual world.
+  * Our own actions, however, would be determined by a source unseen inside the virtual world—our brains.
+
+However,
+
+* These days, Cartesian dualism is widely rejected. Most people think that our behavior is produced entirely by physical processes in the brain, and many think that the idea of interaction between physical and nonphysical processes makes no sense.
+
 **Likely sticking point:** [What do students usually find difficult?
 How will you address it?]
 
@@ -29,11 +39,28 @@ How will you address it?]
 - 20 min: [Discussion]
 - 15 min: [Activity]
 - 10 min: [Wrap-up and preview]
+
+Pure mind argument:
+
+1. Can imagine mind without body
+2. Cannot imagine body without body
+3. So mind is not body
+
+However we can imagine two things being distinct when they are not in fact the same.
+
+Problem of interaction: How could a nonphysical mind and a physical brain interact?
+
+Modern Dualism:
+
+* Physical systems can cause human behavior
+* Nonphysical minds cannot cause behavior
+
+But what about quantum indeterminate states?
 :::
 
 ### Discussion Questions — Monday
 
-1. [Discussion question 1]
+1. [Discussion question 1] Pure Mind argument
 
 2. [Discussion question 2]
 

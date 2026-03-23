@@ -7,8 +7,6 @@ subtitle: "[Dates TBD]"
 <!-- This file appears in the PORTFOLIO profile with all content.  -->
 <!-- .instructor-only divs are hidden on the website profile.      -->
 
-{{< include ../../_schedule.qmd >}}
-
 ---
 
 ## Session Prep: Monday
@@ -33,11 +31,35 @@ How will you address it?]
 
 ### Discussion Questions — Monday
 
-1. [Discussion question 1]
 
-2. [Discussion question 2]
+1. Show that the following questions are well formed formulas.
 
-3. [Discussion question 3]
+   (a) ((P $\land$ P) $\lor$ R)
+   (b) ($\neg$(R $\land$ S) $\lor$ $\neg$ Q)
+
+
+2. Translate the following into formal syntax. Be sure to provide an interpretation scheme for each.
+
+   (a) Fred is a rocket scientist, but he knows no logic.
+   (b) Fred’s a fool, yet he’s a rocket scientist who knows some logic.
+
+3. Use a truth table to determine whether the following wff is valid.
+
+   (a) ((R $\lor$ $\neg$ Q) $\land$ (Q $\lor$ P))
+
+4. Use a truth tree to determine whether the following wff is valid.
+
+   (a) $\neg$(P $\lor$ ((Q $\land$ $\neg$P) $\lor$ R))
+
+5. Where necessary, insert quotation marks into the following in accord with the strict convention for quotation, to make the resulting sentences come out true.
+
+   (a) Sappho is the name of a Greek poet.
+   (b) This is not a verb, but is is.
+
+6. Give truth tables for the following wffs of a PL language – i.e. calculate the value of the wff for every assignment of values to the atoms. Use the usual shortcuts, i.e. if a conjunct is false, ignore the other conjunct, as you know the conjunction must be false; if a disjunct is true, ignore the other disjunct, as you know the disjunction must be true; etc. (It is horribly easy to make slips in examples like these. Don’t worry too much if you make little errors as long as you understand the ideas in play here. And let me know if I’ve made a slip!)
+
+   (a) ((R $\lor$ Q) $\lor$ $\neg$P)
+   (b) (((P $\lor$ $\neg$ Q) $\land$ (Q $\lor$ R)) $\lor$ $\neg$ $\neg$(Q $\lor$ $\neg$R))
 
 ---
 
