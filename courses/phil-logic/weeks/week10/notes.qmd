@@ -31,12 +31,10 @@ How will you address it?]
 
 ### Discussion Questions — Monday
 
-
 1. Show that the following questions are well formed formulas.
 
    (a) ((P $\land$ P) $\lor$ R)
    (b) ($\neg$(R $\land$ S) $\lor$ $\neg$ Q)
-
 
 2. Translate the following into formal syntax. Be sure to provide an interpretation scheme for each.
 

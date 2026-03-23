@@ -19,25 +19,74 @@ format:
 ## Key Concepts
 
 ::: {.incremental}
-- [Concept 1]
+- 1. Show that the following questions are well formed formulas.
+
+   (a) ((P $\land$ P) $\lor$ R)
+   (b) ($\neg$(R $\land$ S) $\lor$ $\neg$ Q)
+
+
 - [Concept 2]
 - [Concept 3]
 :::
 
 ---
 
-## [Slide Title]
+## Chapter 8
 
-[Slide content goes here.]
+1. Show that the following questions are well formed formulas.
 
----
+   (a) ((P $\land$ P) $\lor$ R)
+   (b) ($\neg$(R $\land$ S) $\lor$ $\neg$ Q)
 
-## [Slide Title]
-
-[Slide content goes here.]
 
 ---
 
+## Chapter 9: Interpretation
+
+2. Translate the following into formal syntax. Be sure to provide an interpretation scheme for each.
+
+   (a) Fred is a rocket scientist, but he knows no logic.
+   (b) Fred’s a fool, yet he’s a rocket scientist who knows some logic.
+
+
+---
+
+## Chapters 10 & 12 Truth Tables
+
+3. Use a truth table to determine whether the following wff is valid.
+
+   (a) ((R $\lor$ $\neg$ Q) $\land$ (Q $\lor$ P))
+
+---
+
+## Chapters 9 & 10: PL Syntax: Parsing Trees & Evaluating WFFS
+
+4. Use a truth tree to determine whether the following wff is valid.
+
+   (a) $\neg$(P $\lor$ ((Q $\land$ $\neg$P) $\lor$ R))
+
+---
+
+## 10: PL Semantics, Evaluating wffs
+
+::: {.r-fit-text}
+
+(a) Suppose we are working in a PL language where ‘P’ means Fred is a fool; ‘Q’ means Fred
+knows some logic; ‘R’ means Fred is a rocket scientist. Translate the following sentences into this formal language as best you can. What do you think is lost in the translations, if you can only use the ‘colourless’ connectives ‘∧’, ‘∨’ and ‘¬’?
+
+(1) Even Fred is a rocket scientist. R
+(2) Fred is a rocket scientist, but he knows no logic. (R ∧ ¬Q)
+(3) Fred is a rocket scientist, moreover he knows some logic. (R ∧ Q)
+(4) Fred’s a fool, even though he knows some logic. (P ∧ Q)
+(5) Although Fred’s a rocket scientist, he’s a fool and even knows no logic. (R ∧ (P ∧ ¬Q))
+(6) Fred’s a fool, yet he’s a rocket scientist who knows some logic. (P ∧ (R ∧ Q))
+(7) Fred is a fool despite the fact that he knows some logic. (P ∧ Q)
+(8) Fred is not a rocket scientist who knows some logic. ¬(R ∧ Q)
+(9) Fred knows some logic unless he is a fool. (Q ∨ P) (?)
+
+:::
+
+---
 ## Discussion
 
 [Discussion prompt or activity for class.]

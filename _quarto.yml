@@ -234,17 +234,42 @@ profiles:
       html:
         theme:
           light:
-            - journal
-            - shared/css/custom.scss
-        css:
-          - shared/css/custom_style.css
-          - shared/css/syllabus.css
-        toc: true
-        include-in-header:
-          text: |
-            <style>
-              .instructor-only { display: none !important; }
-            </style>
+            - cosmo
+            - shared/css/portfolio.scss
+      toc: true
+      date-format: "MMM DD, YYYY"
+      email-obfuscation: javascript
+      link-external-newwindow: true
+      link-external-icon: true
+      html-math-method: mathjax
+      include-in-header:
+        text: |
+          <script>
+            window.MathJax = {
+              loader: { load: ['[tex]/bussproofs'] },
+              tex: { packages: {'[+]': ['bussproofs']} }
+            };
+          </script>
+          <style>
+            .instructor-only {
+              background-color: #fff8e1;
+              border-left: 4px solid #f59e0b;
+              padding: 0.75rem 1rem;
+              margin: 1rem 0;
+              border-radius: 0 4px 4px 0;
+            }
+          .instructor-only::before {
+            content: "📋 Instructor Note";
+            display: block;
+            font-weight: bold;
+            font-size: 0.85rem;
+            color: #92400e;
+            margin-bottom: 0.5rem;
+          }
+          </style>
+
+
+
 
 # ============================================================
 # PROFILE: print
