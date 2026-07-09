@@ -1,0 +1,269 @@
+---
+title: "PHIL 101B — Introduction to Philosophy"
+subtitle: "Value, Meaning, and Humanity's Place in the Modern World"
+author: "Dr. Monty Reynolds"
+date: "Summer 2026"
+---
+
+# Course Information
+
+| | |
+|---|---|
+| **Session** | Summer 2026 |
+| **Meeting Times** | Mondays and Wednesdays |
+| **Dates** | June 9 – July 28, 2026 |
+| **Credits** | 3 |
+
+**Instructor:** Dr. Monty Reynolds
+📧 mreynolds1@stetson.edu
+🏢 Elizabeth Hall 104
+**Office Hours:** By appointment — email to schedule.
+
+---
+
+# Course Description
+
+In this course we use David Chalmers' book *Reality+: Virtual Worlds and
+the Problems of Philosophy* to look at questions humans have been asking
+for thousands of years. While the primary focus of the book is one
+question in particular — "Are we in a simulation?" — we use that question
+to frame others:
+
+- What does it mean to know that the sky is blue?
+- Is murder really wrong?
+- How did I come to know that murder is wrong?
+- What is real?
+- Can a virtual world be a real world?
+
+We will not only look at contemporary issues about AI and simulation
+theory, but will also examine how philosophers of the past posed and
+attempted to answer these questions. In doing so we will explore
+epistemology (theory of knowledge), metaphysics (the nature of reality),
+philosophy of mind, and ethics.
+
+A primary objective of this course is to teach students how to construct
+good arguments and how to assess the arguments of others.
+
+This summer section uses **Elite Dangerous** as a philosophical laboratory.
+Three structured experiments — completed outside class during assigned
+windows — test Chalmers' arguments directly: you will navigate permadeath,
+disable your HUD on atmospheric entry, and manipulate mission stakes to
+examine whether virtual experience, cognition, and emotion are genuine.
+
+---
+
+# Required Texts
+
+- Chalmers, David J. *Reality+: Virtual Worlds and the Problems of
+  Philosophy*. Penguin Books, 2022.
+  [Amazon link](https://www.amazon.com/Reality-Virtual-Worlds-Problems-Philosophy/dp/0393635805)
+- **Elite Dangerous** (PC/console) — free base game available via Epic
+  Games Store or Frontier's launcher. Must be installed before Week 1.
+
+The course will also be supplemented with handouts distributed in class
+and posted to Canvas.
+
+---
+
+# Course Expectations
+
+- This is a compressed 7-week session. Expect **4 chapters of reading
+  per week** in most weeks. Fall behind and it is very difficult to
+  catch up.
+- Come prepared to engage with assigned readings in class, referencing
+  specific passages as prompted by the instructor.
+- Bring physical or digital copies of readings to class for annotation
+  and short reflections.
+- Submit all assignments via Canvas by the due date.
+- Active participation and regular attendance are essential for success.
+- Check your Stetson email and Canvas accounts frequently — daily if
+  possible. Technology issues are not accepted as excuses for late or
+  missing work.
+
+---
+
+# Grading
+
+## Assignment Breakdown
+
+| Assignment | Points |
+|---|---|
+| Weekly Reflections (best 5 of 7, 8 pts each) | 40 pts |
+| Pilot Assessment Write-Up | 20 pts |
+| Experiment 1 — Death and Permadeath | 40 pts |
+| Experiment 2 — Extended Cognition | 40 pts |
+| Experiment 3 — Risk, Respawn, and Moral Emotions | 40 pts |
+| Reflective Analysis (80 pts) | 80 pts |
+| Essay (40 pts) | 40 pts |
+| Attendance | 20 pts |
+| **Total** | **320 pts** |
+
+## Grading Scale
+
+| Grade | Percentage |
+|---|---|
+| A | 93–100% |
+| A- | 90–92% |
+| B+ | 87–89% |
+| B | 83–86% |
+| B- | 80–82% |
+| C+ | 77–79% |
+| C | 73–76% |
+
+## Attendance
+
+Attendance is worth 20 points, calculated as follows:
+
+| Unexcused Absences | Points |
+|---|---|
+| 0 | 20 pts |
+| 1 | 15 pts |
+| 2 | 10 pts |
+| 3 | 5 pts |
+| 4+ | 0 pts |
+
+Given the compressed schedule, each missed class represents a significant
+portion of the course.
+
+## Assignment Rubric
+
+All written assignments (experiments, Reflective Analysis, Essay) are
+graded on three structural dimensions plus internal criteria.
+
+### Structure (applies to all written work)
+
+| Layer | What the instructor looks for |
+|---|---|
+| **Introduction** | A brief context sentence (what is this about?); one sentence stating what another philosopher says; one sentence stating what the student thinks; a brief structured "why" that references a philosopher the student agrees with. |
+| **Body** | The interlocutor's argument in full (claim → premise 1 → premise 2 → conclusion). Then the student's developed response: claim, premise 1 with two supporting statements, restatement of premise 1, premise 2, etc. Experiments function as the support — e.g., "Chalmers says cognition is extended. I tried to fly in Elite Dangerous without the HUD, proving I use the HUD as an extension of my cognitive activity. Therefore Chalmers is right." |
+| **Conclusion** | Revisits and summarizes what the student did. |
+
+### Internal Criteria
+
+**Thesis**
+- **Excellent (full):** A single, clear statement of the main point.
+- **Good (3/4):** Thesis is present and fairly obvious, but not in one sharp sentence.
+- **Needs Improvement (1/2):** Thesis must be reconstructed from throughout the paper.
+- **Unacceptable (1/4):** No real thesis.
+
+**Premises**
+- **Excellent:** Every reason clearly stated; sub-arguments provided for controversial claims; basic premises plausibly true.
+- **Good:** Premises mostly clear; sub-arguments appear for controversial points.
+- **Needs Improvement:** Premises hard to identify; missing sub-arguments.
+- **Unacceptable:** No real premises, or premises very likely false.
+
+**Support**
+- **Excellent:** Premises clearly and strongly support the thesis; argument is logically valid or makes the conclusion very plausible.
+- **Good:** Premises support the thesis reasonably well.
+- **Needs Improvement:** Premises only weakly support the thesis; argument is invalid.
+- **Unacceptable:** Premises do not support the thesis.
+
+**Counter-Arguments**
+- **Excellent:** Thoughtfully addresses both obvious and less-obvious objections with original replies.
+- **Good:** Addresses the most obvious objections with reasonable responses.
+- **Needs Improvement:** Misses obvious objections, or responses are weak.
+- **Unacceptable:** Ignores objections and opposing positions entirely.
+
+### Suggestions (worth half of main criteria)
+
+The following improve a paper's quality and earn partial credit even when
+the main criteria are met. Pay attention to these — they matter.
+
+*Note: Oral appeals for grade changes are not accepted. If you believe
+you have an extremely strong case, submit a one-page written appeal
+within one week of the work being returned.*
+
+---
+
+# Elite Dangerous Experiments
+
+This course uses three structured experiments in Elite Dangerous to test
+Chalmers' philosophical claims from the inside. Each experiment is a
+take-home assignment completed during an assigned window and written up
+using the experiment template on Canvas.
+
+**The key principle:** experiments and weekly reflections must use
+Chalmers' language and concepts. The experiments demonstrate the extent
+to which you understand the material and the arguments. A strong
+experiment write-up shows: here is what Chalmers (or another philosopher)
+claims; here is the experiment I ran to test it; here is what I found;
+here is what that means for the argument.
+
+**Experiment Windows**
+
+| Experiment | Topic | Window |
+|---|---|---|
+| 1 | Death and Permadeath | June 20–26 (Week 3) |
+| 2 | Extended Cognition and Atmospheric Entry | July 11–17 (Week 5) |
+| 3 | Risk, Respawn, and Moral Emotions | July 25–31 (Week 6/7) |
+
+For full instructions, see the experiment briefings in the Weekly
+Schedule and on Canvas.
+
+**Experiment Grading (40 points each)**
+
+| Criterion | Points |
+|---|---|
+| Introduction (context, claim, interlocutor, why) | 13 |
+| Body (argument structure, premises, experiment as support) | 13 |
+| Conclusion (synthesis, revisit hypothesis) | 13 |
+| Completion and care (experiment actually run; log attached) | 1 |
+
+---
+
+# Academic Policies
+
+## Academic Integrity
+All work you submit must be your own. Sign all submissions:
+*"Pledged, [your name]."* Any contribution from others must be clearly
+acknowledged. Academic dishonesty — including plagiarism, unauthorized
+collaboration, and misrepresentation — will be referred to the Academic
+Honor Council and may result in suspension or dismissal.
+Honor code: http://www.stetson.edu/honorsystem/
+
+## Late Work
+All assignments must be submitted on time. Late work is docked a
+half-letter grade per day unless an extension is approved before the
+due date. In a 7-week session, late work compounds rapidly.
+
+## Accommodations
+If you anticipate barriers related to the format or requirements of
+this course, please meet with me early in the session. If
+disability-related accommodations are necessary, register with the
+Academic Success Center:
+
+- Phone: 386-822-7127
+- Website: www.stetson.edu/asc
+
+Free tutoring is also available through the ASC: www.stetson.edu/asc/tutoring/php
+
+## Writing Center
+Located on the second floor of the library.
+One or two visits can make a significant difference in the quality of
+your written work.
+
+## Food Insecurity
+The Hatters Helping Hatters Food Pantry is available to all Stetson
+students, staff, and faculty — free and no questions asked.
+Location: Carlton Union Building (CUB 278), open 24 hours.
+
+## Counseling Center
+Phone: 386-822-8900 | Location: Griffith Hall
+Hours: Weekdays 8:00 AM–4:30 PM
+After-hours emergencies: Public Safety 386-822-7300
+(ask for the on-call counselor).
+Crisis line: 386-822-8740 — Option 1 for thoughts of harm;
+Option 9 for all other mental health needs.
+Medical emergencies: call 911.
+
+## Recording Policy
+Any recordings of class (audio, video, or otherwise) may only be used
+for personal academic purposes and may not be shared without the
+professor's written consent. Violation will be reported to the Office
+of Community Standards.
+
+---
+
+## Course Schedule
+
+{{< include _schedule-summer.qmd >}}

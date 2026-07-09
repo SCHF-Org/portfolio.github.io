@@ -1,0 +1,547 @@
+<!-- _weekly-summer.qmd — PHIL 101B Introduction to Philosophy          -->
+<!-- Summer 2026: Mon/Wed, 7-week compressed session                    -->
+<!-- Reading by Part (2-4 chapters). Elite Dangerous replaces DND.      -->
+<!-- Include in summer week notes with:                                  -->
+<!--   {{< include ../../_weekly-summer.qmd >}}                         -->
+
+---
+
+## Important Dates — Summer 2026
+
+| Date | Event |
+|---|---|
+| Mon June 9 | First day of class |
+| June 30 – July 4 | **Fourth of July Break — No Class** |
+| Mon July 28 | Last day of class |
+| Wed June 18 | Pilot Assessment Write-Up assigned |
+| Mon July 7 | Pilot Assessment Write-Up due (Canvas) |
+| Mon July 21 | Reflective Analysis due (Canvas) |
+| Mon July 28 | Essay due (Canvas) |
+
+---
+
+## Course Schedule
+
+*Weeklies due every Monday starting June 16. All assignments via Canvas.*
+
+---
+
+# Part One: Virtual Worlds — What Is Real and How Do We Know It? {#part-1-summer}
+
+*Chalmers opens by asking whether virtual worlds are real. To answer
+this we need to understand what reality is, what knowledge is, and what
+it would mean to be deceived about both. The central philosophical
+question for this unit: can we know anything about the external world?*
+
+---
+
+## Week 1 — Introduction + Part One (Chs. 1–3) {#week-01-summer}
+**Mon June 9 / Wed June 11**
+
+**Mon June 9:** Course introduction. What is philosophy and why does
+it matter? The simulation hypothesis as a lens for the whole discipline.
+Introduction to Elite Dangerous as a philosophical laboratory.
+
+- Handouts (distributed in class)
+- Chalmers, Introduction: "Adventures in Technophilosophy"
+- Chalmers, Ch. 1: "Is This the Real Life?"
+
+**Wed June 11:**
+
+- Chalmers, Ch. 2: "What Is the Simulation Hypothesis?"
+- Chalmers, Ch. 3: "Do We Know Things?"
+
+::: {.callout-tip}
+## Pilot Assessment — Assigned This Week
+
+Before Week 2, complete the Elite Dangerous **Basic Flight Tutorial**
+(Pilot Assessment). You will use this experience as the basis for your
+first written assignment (due Week 4). See the Pilot Assessment Write-Up
+prompt on Canvas for full instructions.
+
+**What to do:** Complete the Basic Flight Tutorial. Take three screenshots
+at distinct moments in the tutorial. Keep notes on what information
+the cockpit instruments give you and how you use them.
+:::
+
+::: {.callout-note}
+## Weekly Reflection 1
+
+Chalmers asks whether a simulated world could be a real world. What
+would you need to know to answer that question? Is it a problem about
+knowledge, reality, or something else?
+:::
+
+---
+
+# Part Two: Reality — What Exists and What Makes It Real? {#part-2-summer}
+
+*Having established the epistemic problem, we now ask the metaphysical
+question: what is reality? Is the universe made of matter, information,
+or something else?*
+
+---
+
+## Week 2 — Part Two (Chs. 4–7) {#week-02-summer}
+**Mon June 16 / Wed June 18**
+
+**Mon June 16:**
+
+- Chalmers, Ch. 4: "Can We Prove There Is an External World?"
+- Chalmers, Ch. 5: "Is It Likely That We're in a Simulation?"
+  (Bostrom and Moravec)
+
+**Wed June 18:**
+
+- Chalmers, Ch. 6: "What Is Reality?"
+- Chalmers, Ch. 7: "Is God a Hacker in the Next Universe Up?"
+
+::: {.callout-tip}
+## Pilot Assessment Write-Up — Assigned Today (Wed June 18)
+
+Due: **Mon July 7** (Canvas)
+
+Write **800–1,200 words** describing and analyzing the Basic Flight
+tutorial as a simulation in Chalmers' sense. Use the four section
+headings below. Draw explicitly on *Reality+* Chapters 2–3 — cite at
+least three specific ideas or page references.
+
+**Section 1 — What is it? (Describe the simulation)**
+What does the Basic Flight tutorial represent? (A starship cockpit, a
+pilot, the physics of moving through space, a region of the game world.)
+What is the simulation doing — to the ship's behavior, and to you as a
+trainee? Tie this to Ch. 2: "What is a simulation?" and "What does it
+do?" What do you now "know" as a result of the simulation?
+
+**Section 2 — Is the simulation a good one? (Evaluate it)**
+What makes this a good simulation? Consider fidelity (how faithfully it
+mirrors what it models), interactivity, feedback, and immersion.
+What is deliberately missing or simplified? If the goal is to train a
+real pilot-skill using a ship that does not exist, does "good simulation"
+mean "realistic," "useful," or both? Defend your answer.
+
+**Section 3 — What level of simulation is it?**
+Place the tutorial using Chalmers' discussion of the phases/levels of
+simulation (and Baudrillard's four phases, Ch. 2). Is it a faithful copy
+of something real, a simulation of something that never existed (a
+fictional starship), or something in between? Connect to Ch. 2's
+treatment of possible worlds and to Nozick's experience machine — how
+is a flight trainer like, and unlike, the experience machine?
+
+**Section 4 — Could you tell from the inside? (The Knowledge hook)**
+When you close the game you know you were in a simulation. But suppose
+you could not step out. Using Ch. 3, ask: could you prove from inside
+the tutorial that it was a simulation? Connect to Descartes' dream and
+evil-demon arguments, Putnam's brain-in-a-vat, and the Knowledge
+Question.
+
+**Key terms to use:** simulation · the four phases of simulation ·
+fidelity · possible world · the experience machine · the Knowledge
+Question · the Reality Question · dream argument · brain-in-a-vat ·
+*cogito, ergo sum*
+
+**Format:** 800–1,200 words, double-spaced, 12-point font, your name
+and date at top. Use the four section headings. Attach your three
+screenshots. Cite by page number (e.g., "Chalmers, p. 23").
+
+**Grading (20 points)**
+
+| Criterion | Points |
+|---|---|
+| Completed Pilot Assessment (screenshots attached) | 4 |
+| Section 1 — Accurate description of the simulation | 4 |
+| Section 2 — Thoughtful evaluation: fidelity and what is missing | 4 |
+| Section 3 — Correct use of levels/phases and possible worlds | 4 |
+| Section 4 — Engagement with the Knowledge Question | 4 |
+:::
+
+::: {.callout-note}
+## Weekly Reflection 2
+
+Fill in the table below as you read Chapters 3–7. For each argument,
+sketch the core claim in your own words, then the strongest response
+to it (from Chalmers, Descartes, Putnam, Berkeley, or others). Submit
+this alongside your Week 2 reflection.
+
+| Argument | Core claim | Response | Whose response? / Where in book |
+|---|---|---|---|
+| 1. Senses argument | | | p. |
+| 2. Dreaming argument | | | p. |
+| 3. Evil-demon argument | | | p. |
+| 4. Deceiving-God hypothesis | | | p. |
+| 5. Master argument for skepticism | | | p. |
+| 6. Brain-in-a-vat (Putnam) | | | p. |
+| 7. VR / simulation skepticism (Ch. 5) | | | p. |
+:::
+
+---
+
+# Part Three: Mind — Consciousness, Identity, and the Extended Self {#part-3-summer}
+
+*Having asked what reality is, we now ask what kind of thing a mind is —
+and whether a mind can exist, think, and be conscious inside a virtual world.*
+
+---
+
+## Week 3 — Part Three A (Chs. 8–11) {#week-03-summer}
+**Mon June 23 / Wed June 25**
+
+**Mon June 23:**
+
+- Chalmers, Ch. 8: "Is the Universe Made of Information?"
+- Chalmers, Ch. 9: "Did Simulation Create Its from Bits?"
+
+**Wed June 25:**
+
+- Chalmers, Ch. 10: "Do Virtual Reality Headsets Create Reality?"
+- Chalmers, Ch. 11: "Are Virtual Reality Devices Illusion Machines?"
+
+::: {.callout-important}
+## Experiment 1 — Death and Permadeath in Elite Dangerous
+**Window: Complete anytime June 20–26. Bring your log to class June 23.**
+
+**Philosophical Question**
+Does the possibility of permanent, irreversible loss make virtual
+experience more meaningful? If stakes were real — if death in the game
+meant losing your progress permanently — would the experience feel
+more genuine?
+
+**Background**
+Before running this experiment, complete the Week 1 and Week 2 readings
+(Chalmers, Chs. 1–7). Both argue that virtual experience is genuine. We
+will test that claim by introducing genuine stakes.
+
+**Procedure**
+
+*Part A — Standard death:* Accept a medium-difficulty mission (combat
+or exploration). At some point during the mission, allow your ship to be
+destroyed. Do not resist. Observe the respawn sequence. Note what you feel.
+
+*Part B — Reflective permadeath:* Accept another mission of similar
+difficulty. Before starting, commit to the following rule: *if I die, I
+will delete my save and start over.* You do not have to actually delete
+your save — but make the commitment genuine in your imagination. Attempt
+the mission. Note what changes.
+
+*Part C — The thought experiment:* Now consider: what if your grade in
+this course depended on your commander surviving the semester? Would the
+experience feel different? How?
+
+**What to Notice**
+Did your behavior change between Part A and Part B? Did your emotional
+state change? Did the virtual world feel more or less real when genuine
+loss was possible?
+
+**Write-Up Template**
+
+Use Chalmers' language and concepts throughout. Your write-up demonstrates
+how well you understand the arguments.
+
+*Why are you doing this experiment? Which counter-argument or philosophical
+intuition are you testing?*
+
+*Observation: What intuition, counter-argument, or disagreement prompted
+this experiment? What do people persistently claim or feel that you want
+to test?*
+
+*Hypothesis: A single falsifiable claim — "I claim that X." Specific
+enough that the experiment could prove it wrong.*
+
+Example hypothesis: "If something changes you, it is real. Virtual
+environments can change you. Therefore virtual environments are real."
+
+*Materials: What game mechanics or scenarios are relevant?*
+
+*Method (three phases):*
+
+| Phase | Elite Dangerous |
+|---|---|
+| Baseline (Part A) | |
+| Extended Case (Part B) | |
+| Contra-Positive (Part C) | |
+
+*Results: What did each phase reveal? Be descriptive.*
+
+*Conclusion: Did the experiment support the hypothesis? What does this
+mean for your counter-argument response? What further questions does
+this raise?*
+:::
+
+::: {.callout-note}
+## Weekly Reflection 3
+
+Wheeler's "it from bit" thesis claims the universe is fundamentally
+informational. Are virtual reality experiences genuinely perceptual
+experiences, or are they illusions? What is the difference between
+perception and illusion?
+:::
+
+---
+
+## Week 4 — Part Three B (Chs. 12–15) {#week-04-summer}
+**Mon July 7 / Wed July 9** *(Fourth of July break: June 30–July 4)*
+
+**Mon July 7:** *(Pilot Assessment Write-Up due today)*
+
+- Chalmers, Ch. 12: "Does Augmented Reality Lead to Alternative Facts?"
+- Chalmers, Ch. 13: "Can We Avoid Being Deceived by Deepfakes?"
+
+**Wed July 9:**
+
+- Chalmers, Ch. 14: "How Do Mind and Body Interact in a Virtual World?"
+- Chalmers, Ch. 15: "Can There Be Consciousness in a Digital World?"
+
+::: {.callout-note}
+## Weekly Reflection 4
+
+Chalmers argues that augmented reality raises new philosophical problems
+about knowledge and deception. What would it take for a digital entity
+to be genuinely conscious? Is there something it is like to be a
+computer program?
+:::
+
+---
+
+# Part Four: Value — Ethics and Society in Virtual Worlds {#part-4-summer}
+
+*The final philosophical question: if we can live, think, and be conscious
+in a virtual world, does that world have moral significance? Can virtual
+lives be good lives?*
+
+---
+
+## Week 5 — Part Four A (Chs. 16–19) {#week-05-summer}
+**Mon July 14 / Wed July 16**
+
+**Mon July 14:**
+
+- Chalmers, Ch. 16: "Does Augmented Reality Extend the Mind?"
+
+**Wed July 16:**
+
+- Chalmers, Ch. 17: "Can You Lead a Good Life in a Virtual World?"
+- Chalmers, Ch. 18: "Do Simulated Lives Matter?"
+- Chalmers, Ch. 19: "How Should We Build a Virtual Society?" *(begin)*
+
+::: {.callout-important}
+## Experiment 2 — Extended Cognition and Atmospheric Entry
+**Window: Complete anytime July 11–17. Bring your log to class July 14.**
+
+**Philosophical Question**
+Does the HUD (heads-up display) extend your mind into the ship — or
+does it replace your mind? When you remove it, are you more or less
+present in the virtual world?
+
+**Background**
+Andy Clark and David Chalmers argued in "The Extended Mind" (1998) that
+cognitive processes can extend beyond the brain into tools and
+environments. The HUD in Elite Dangerous is a cognitive tool — it
+provides altitude, speed, heat, and structural integrity in real time.
+Without it, you must navigate by sight, sensation, and judgment alone.
+
+This experiment uses atmospheric entry (planetary landing approach) as
+the test environment because it requires precise attention to altitude
+and angle — exactly the kind of task the HUD is designed to support.
+
+**Procedure**
+
+*Part A — HUD enabled:* Enter glide toward a planet's surface with the
+HUD fully active. Navigate the approach. Note what information you are
+attending to and how you are making decisions.
+
+*Part B — HUD off:* Enter glide again, this time disabling the HUD
+(Options → Graphics → HUD). Navigate by visual cues alone. Note what
+changes in your attention, your decision-making, your sense of presence.
+
+*Part C — Reflection:* Which approach felt more like you were flying the
+ship? Which felt more like the ship was flying itself?
+
+**Safety Note**
+Entering glide without the HUD is difficult. You may crash. That is fine.
+Crashing is data.
+
+**Write-Up Template**
+
+Use Chalmers' language and concepts. Your write-up demonstrates your
+understanding of the extended mind thesis (Ch. 16).
+
+*Observation: What intuition are you testing? (e.g., Clark and Chalmers
+say the mind can extend into tools — but does it feel that way?)*
+
+*Hypothesis: "I claim that X." Example: "The HUD functions as an
+extended cognitive system — removing it reveals which cognitive tasks
+the player has genuinely internalized."*
+
+*Materials: HUD options in Elite Dangerous; planetary landing approach;
+glide mechanics.*
+
+*Method:*
+
+| Phase | Elite Dangerous |
+|---|---|
+| Baseline (Part A — HUD on) | |
+| Extended Case (Part B — HUD off) | |
+| Contra-Positive (Part C — Reflection) | |
+
+*Results: What did each phase reveal?*
+
+*Conclusion: Did the experiment support the extended mind thesis? What
+does this mean for your argument?*
+:::
+
+::: {.callout-note}
+## Weekly Reflection 5
+
+Clark and Chalmers argue that the mind extends beyond the brain into
+tools and environments. Do you find this convincing? What follows for
+personal identity if the mind can extend this way?
+:::
+
+---
+
+## Week 6 — Part Four B (Chs. 20–22) {#week-06-summer}
+**Mon July 21 / Wed July 23**
+
+**Mon July 21:** *(Reflective Analysis due today)*
+
+- Chalmers, Ch. 19 (continued): "How Should We Build a Virtual Society?"
+- Chalmers, Ch. 20: "What Do Our Words Mean in Virtual Worlds?"
+
+**Wed July 23:**
+
+- Chalmers, Ch. 21: "Do Dust Clouds Run Computer Programs?"
+- Chalmers, Ch. 22: "Is Reality a Mathematical Structure?"
+
+::: {.callout-tip}
+## Reflective Analysis Due Monday July 21 (Canvas)
+
+**Prompt:** Chalmers argues that virtual lives can be genuinely good
+lives. Evaluate this argument carefully. Use at least three chapters
+from Parts One through Four and the four-category rubric (thesis,
+premises, support, student response). 8–10 pages.
+:::
+
+::: {.callout-important}
+## Experiment 3 — Risk, Respawn, and Moral Emotions
+**Window: Complete anytime July 25–31. Bring your log to class July 28.**
+
+**Philosophical Question**
+Does the structure of risk in a game determine whether the emotions it
+produces are genuine forms of knowledge? Do low-stakes games produce
+shallow emotions while high-stakes games produce genuine ones?
+
+**Background**
+Nussbaum argues that emotions are appropriate when they track something
+real and valuable. A trivial loss produces a trivial emotion. A genuine
+loss produces genuine grief. We will test this by manipulating the
+stakes of gameplay.
+
+**Procedure — Four Conditions**
+
+| Condition | Mission Risk | Respawn | What to Notice |
+|---|---|---|---|
+| A | High risk | On (standard) | Do you play more or less carefully? What do you feel when you survive or die? |
+| B | Low risk | On (standard) | Does the ease change your emotional engagement? |
+| C | High risk | Off (imagined permadeath) | How do genuine stakes change your experience? |
+| D | Low risk | Off (imagined permadeath) | Can a low-stakes mission feel meaningful with permadeath consequences? |
+
+You do not need to complete all four conditions if time does not permit —
+complete at least two (A+C or B+C) and reflect on the contrast.
+
+**Note on Conditions C and D**
+You do not have to literally delete your save. Before starting the
+mission, say to yourself: *If I die, I start over.* Mean it as much
+as you can.
+
+**Write-Up Template**
+
+Use Chalmers' language and concepts. Your write-up demonstrates how
+well you understand the arguments about value and genuine experience.
+
+*Observation: What intuition are you testing? (e.g., "Nussbaum says
+emotions are only genuine when they track something real. Is virtual
+loss real?")*
+
+*Hypothesis: "I claim that X."*
+
+*Materials: Mission type, difficulty settings, respawn settings.*
+
+*Method:*
+
+| Phase | Elite Dangerous |
+|---|---|
+| Baseline (Condition A or B) | |
+| Extended Case (Condition C) | |
+| Contra-Positive (Condition D, if completed) | |
+
+*Results: What did each condition reveal? Be descriptive.*
+
+*Conclusion: Did the experiment support the hypothesis? What does this
+mean for whether virtual emotions are genuine? What further experiments
+does this raise?*
+:::
+
+::: {.callout-note}
+## Weekly Reflection 6
+
+What philosophical problems arise when we try to build laws and social
+institutions inside virtual worlds? Putnam's model-theoretic argument
+raises puzzles about what makes a physical system run a particular
+program — what is that argument and why does it matter for the
+simulation hypothesis?
+:::
+
+---
+
+# Part Five: Big Questions {#part-5-summer}
+
+*We return to where we began: are we in a simulation? Having worked
+through the whole book, how has your answer changed?*
+
+---
+
+## Week 7 — Part Five (Chs. 23–24) + Course Synthesis {#week-07-summer}
+**Mon July 28 only** *(Last day of class)*
+
+**Mon July 28:** *(Essay due today)*
+
+- Chalmers, Ch. 23: "Have We Fallen from the Garden of Eden?"
+- Chalmers, Ch. 24: "Are We Boltzmann Brains in a Dream World?"
+
+Course synthesis. The instructor works through the four philosophical
+questions — knowledge, reality, mind, value — and asks: what has
+*Reality+* added to our understanding of each? How do the Elite
+Dangerous experiments illuminate the arguments?
+
+::: {.callout-tip}
+## Essay Due Monday July 28 (Canvas)
+
+**Prompt:** After reading *Reality+* and completing the three Elite
+Dangerous experiments, do you think we could be living in a simulation?
+Has Chalmers changed your view? Defend your answer with close reference
+to at least three chapters and at least one experiment. 4–5 pages.
+:::
+
+::: {.callout-note}
+## Weekly Reflection 7
+
+We return to where we began: are we in a simulation? Having worked
+through the whole book and run three experiments, how has your answer
+changed — if at all? What did the experiments teach you that the reading
+could not?
+:::
+
+---
+
+# Appendix: Reading Schedule by Part
+
+| Week | Date(s) | Chalmers | Notes |
+|---|---|---|---|
+| 1 | June 9 / June 11 | Intro + Part One: Chs. 1–3 | First class; 3 chapters |
+| 2 | June 16 / June 18 | Part Two: Chs. 4–7 | 4 chapters; Write-Up assigned Wed |
+| 3 | June 23 / June 25 | Part Three A: Chs. 8–11 | 4 chapters; Exp. 1 window June 20–26 |
+| — | June 30 – July 4 | *Fourth of July Break* | No class |
+| 4 | July 7 / July 9 | Part Three B: Chs. 12–15 | 4 chapters; Write-Up due Mon |
+| 5 | July 14 / July 16 | Part Four A: Chs. 16–19 | 4 chapters; Exp. 2 window July 11–17 |
+| 6 | July 21 / July 23 | Part Four B: Chs. 20–22 | 3 chapters; RA due Mon; Exp. 3 window July 25–31 |
+| 7 | July 28 | Part Five: Chs. 23–24 + Review | 2 chapters; Essay due; last day |

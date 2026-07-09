@@ -53,15 +53,17 @@ book:
         - courses/phil-mind/weeks/week15/notes.qmd
 
     # --------------------------------------------------------
-    # PHIL 101B — Introduction to Philosophy (Fall 2026)
-    # Three sections; shared notes
+    # PHIL 101B — Introduction to Philosophy (Fall 2026 + Summer 2026)
+    # Three fall sections + one summer section; shared notes
     # --------------------------------------------------------
     - part: "Introduction to Philosophy"
       chapters:
+        - courses/phil-intro/syllabus-summer.qmd
         - courses/phil-intro/syllabus-s1.qmd
         - courses/phil-intro/syllabus-s2.qmd
         - courses/phil-intro/syllabus-s3.qmd
         - courses/phil-intro/weeks/week01/notes.qmd
+        - courses/phil-intro/weeks/week01/slides.qmd
         - courses/phil-intro/weeks/week02/notes.qmd
         - courses/phil-intro/weeks/week03/notes.qmd
         - courses/phil-intro/weeks/week04/notes.qmd
